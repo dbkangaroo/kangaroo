@@ -23,7 +23,6 @@ package will be published on ealy of july or end of this month, depend on test r
 # Screenshots
 ![Start page of connection](./images/kangaroo-02.jpg)
 <!--Adsense data-ad-client="ca-pub-3975819313740938" data-ad-slot="6760827895"/-->
-![Open table to view data](./images/kangaroo-03.png)
 ![Select columns](./images/kangaroo-04.png)
 ![Select columns](./images/kangaroo-05.png)
 ![Select columns](./images/kangaroo-06.png)

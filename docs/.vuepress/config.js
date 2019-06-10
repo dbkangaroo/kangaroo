@@ -8,7 +8,7 @@ module.exports = {
     },
   },
   head: [
-    ['link', { rel: 'icon', href: '/kangaroo.png' }]
+    ['link', { rel: 'icon', href: '/kangaroo_small.png' }]
   ],
   theme: '@vuepress/vue',
   themeConfig: {
@@ -22,6 +22,10 @@ module.exports = {
         lastUpdated: 'Last Updated',
         nav: [
           {
+            text: 'Guide',
+            link: '/guide/'
+          },
+          {
             text: 'New Feature',
             link: 'https://github.com/dbkangaroo/kangaroo/issues/new?assignees=&labels=&template=feature_request.md&title='
           },
@@ -30,8 +34,25 @@ module.exports = {
             link: 'https://github.com/dbkangaroo/kangaroo/issues/new?assignees=&labels=&template=bug_report.md&title='
           },
         ],
-        sidebar: 'auto',
+        sidebar: {
+          '/guide/': getGuideSidebar('Guide'),
+        }
       },
     }
   }
+}
+
+function getGuideSidebar (title) {
+  return [
+    {
+      title,
+      collapsable: false,
+      children: [
+        '',
+        'install_linux',
+        'install_windows',
+        'install_macos',
+      ]
+    }
+  ]
 }
