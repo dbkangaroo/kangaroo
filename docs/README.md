@@ -1,6 +1,8 @@
 ---
 home: true
 heroImage: /kangaroo.png
+actionText: Get Started →
+actionLink: /guide/
 features:
 - title: Simplicity First
   details: Simple and Intuitive GUI helps you focus on data and finishing your work quickly.
