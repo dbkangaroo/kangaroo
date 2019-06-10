@@ -4,7 +4,7 @@ module.exports = {
     '/': {
       lang: 'English',
       title: 'Kangaroo',
-      description: 'a database management tool built in GTK and Vala for everyone',
+      description: 'a database management tool for everyone',
     },
   },
   head: [

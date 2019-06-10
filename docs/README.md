@@ -3,15 +3,27 @@ home: true
 heroImage: /kangaroo.png
 actionText: Get Started →
 actionLink: /guide/
-features:
-- title: Simplicity First
-  details: Simple and Intuitive GUI helps you focus on data and finishing your work quickly.
-- title: Experience
-  details: Focus on the experience of editting, make you feel smoothly when working with it.
-- title: Performant
-  details: GTK and Vala based native application, more responsible speed than others.
-footer: Copyright © 2018-present Kangaroo team
+footer: Private property | Copyright © 2018-present Kangaroo team
 ---
+
+<div style="text-align: center">
+  <Bit/>
+</div>
+
+<div class="features">
+  <div class="feature">
+    <h2>Simple & Powerful</h2>
+    <p>Simple and Intuitive GUI helps you focus on data and finishing your work quickly.</p>
+  </div>
+  <div class="feature">
+    <h2>Great Experience</h2>
+    <p>Focus on the experience of editting, make you feel smoothly when working with it.</p>
+  </div>
+  <div class="feature">
+    <h2>Performant</h2>
+    <p>GTK and Vala based native application, more responsible speed than others.</p>
+  </div>
+</div>
 
 # Install
 package will be published on ealy of july or end of this month, depend on test result.
