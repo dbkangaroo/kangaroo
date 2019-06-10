@@ -24,8 +24,8 @@ package will be published on ealy of july or end of this month, depend on test r
 ![Start page of connection](./images/kangaroo-02.jpg)
 <!--Adsense data-ad-client="ca-pub-3975819313740938" data-ad-slot="6760827895"/-->
 ![Select columns](./images/kangaroo-05.png)
-![Select columns](./images/kangaroo-06.png)
-![Select columns](./images/kangaroo-07.png)
-![Select columns](./images/kangaroo-08.png)
-![Select columns](./images/kangaroo-09.png)
-![Select columns](./images/kangaroo-10.png)
+![Where statement](./images/kangaroo-06.png)
+![Order statement](./images/kangaroo-07.png)
+![Limit statement](./images/kangaroo-08.png)
+![Export data](./images/kangaroo-09.png)
+![Preview sql](./images/kangaroo-10.png)
