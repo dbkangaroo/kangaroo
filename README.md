@@ -13,8 +13,9 @@ package will be published on ealy of july or end of this month, depend on test r
 | Release date        | [download](./linux/kangaroo)  | [download](./windows/kangaroo.ex)  | Comming Soon!           |
 
 # Install
-Ubuntu: install dependency package via APT: GTK3/Gee/GtkSourceView4/libsoup/libgda/json-glib
-Windows: install dependency package via MSYS2: GTK3/Gee/GtkSourceView4/libsoup/libgda/json-glib
+__Ubuntu__: install dependency package via APT: GTK3/Gee/GtkSourceView4/libsoup/libgda/json-glib
+
+__Windows__: install dependency package via MSYS2: GTK3/Gee/GtkSourceView4/libsoup/libgda/json-glib
 
 # Screenshots
 ![Connection page](./docs/images/kangaroo-02.jpg)
