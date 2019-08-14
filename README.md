@@ -10,7 +10,7 @@ package will be published on ealy of july or end of this month, depend on test r
 | Platform            | Linux 	                      | Windows       	              | MacOS 	                      |
 |---------------------|-------------------------------|-------------------------------|-------------------------------|
 | Support databases   | SQLite/MySQL/PostgreSQL       | SQLite/MySQL/PostgreSQL 	  | SQLite/MySQL/PostgreSQL       |
-| Release date        | [download](./linux/kangaroo)  | [download](./windows/kangaroo.ex)  | Comming Soon!           |
+| Release date        | [download(ver:20190814)](./linux/kangaroo)  | [download(ver:20190814)](./windows/kangaroo.ex)  | Comming Soon!           |
 
 # Install
 __Ubuntu__: install dependency package via APT: GTK3/Gee/GtkSourceView4/libsoup/libgda/json-glib
