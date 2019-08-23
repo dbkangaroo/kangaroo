@@ -1,8 +1,6 @@
 # Kangaroo
-a database management tool for everyone
-
-Kangaroo have full support on Linux now, MacOS have support SQLite, Windows support will coming...
-
+a database management tool for SQLite / MySQL / PostgreSQL on Windows / MacOS / Linux.
+SQLServer / Oracle / Redis / MangoDB will coming soon....
 
 # Release
 package will be published on ealy of july or end of this month, depend on test result.
@@ -11,6 +9,10 @@ package will be published on ealy of july or end of this month, depend on test r
 |---------------------|-------------------------------|-------------------------------|-------------------------------|
 | Support databases   | SQLite/MySQL/PostgreSQL       | SQLite/MySQL/PostgreSQL 	    | SQLite/MySQL/PostgreSQL       |
 | Release date        | [download(ver:20190823)](./linux/kangaroo)  | [download(ver:20190823)](./windows/kangaroo.ex)  | Comming Soon!           |
+
+# Support the Project
+If you like Kangaroo and you want to support its development, consider donating via PayPal.
+![./docs/images/paypal.png](https://www.paypal.me/taozuhong?locale.x=en_AU)
 
 # Install
 ## Step one
