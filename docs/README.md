@@ -28,10 +28,11 @@ footer: Private property | Copyright © 2018-present Kangaroo team
 # Install
 package will be published on ealy of july or end of this month, depend on test result.
 
-| Platform            | Linux 	                      | Windows       	      | MacOS 	              |
-|---------------------|-------------------------------|-----------------------|-----------------------|
-| Support databases   | SQLite/MySQL/PostgreSQL       | SQLite/TBD 	          | SQLite/TBD            |
-| Release date        | Comming Soon!          	      | Comming Soon! 	      | Comming Soon!         |
+| Platform            | Linux(64 bit) 	                | Windows(64 bit)       	        | MacOS(64 bit) 	                |
+|---------------------|-------------------------------|-------------------------------|-------------------------------|
+| Support databases   | SQLite 3/MySQL 8.0/PostgreSQL 11   | SQLite 3/MySQL 8.0/PostgreSQL 11   | SQLite 3/MySQL 8.0/PostgreSQL 11       |
+| Development         | [download(ver:20190902)](./linux/kangaroo)  | [download(ver:20190902)](./windows/kangaroo.ex)  | Comming Soon!           |
+| Stable              | On going......                | On going......                | On going......                |
 
 
 # Screenshots
