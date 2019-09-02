@@ -26,7 +26,7 @@ footer: Private property | Copyright © 2018-present Kangaroo team
 </div>
 
 # Install
-package will be published on ealy of july or end of this month, depend on test result.
+Development version will be released weekly, Stable and LTS(Long-term Support) version depend on test result and stabilization.
 
 | Platform            | Linux(64 bit) 	                   | Windows(64 bit)       	            | MacOS(64 bit) 	                   |
 |---------------------|------------------------------------|------------------------------------|------------------------------------|

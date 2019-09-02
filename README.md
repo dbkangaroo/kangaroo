@@ -3,7 +3,7 @@ a database management tool for SQLite / MySQL / PostgreSQL on Windows / MacOS / 
 SQLServer / Oracle / Redis / MangoDB will coming soon....
 
 # Release
-package will be published on ealy of july or end of this month, depend on test result.
+Development version will be released weekly, Stable and LTS(Long-term Support) version depend on test result and stabilization.
 
 | Platform            | Linux(64 bit) 	                   | Windows(64 bit)       	            | MacOS(64 bit) 	                 |
 |---------------------|------------------------------------|------------------------------------|------------------------------------|
