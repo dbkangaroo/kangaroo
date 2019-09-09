@@ -25,7 +25,7 @@ footer: Private property | Copyright © 2018-present Kangaroo team
   </div>
 </div>
 
-# Install
+# Release
 Development version will be released weekly, Stable and LTS(Long-term Support) version depend on test result and stabilization.
 
 | Platform            | Linux(64 bit) 	                   | Windows(64 bit)       	            | MacOS(64 bit) 	                   |
@@ -33,6 +33,23 @@ Development version will be released weekly, Stable and LTS(Long-term Support) v
 | Support databases   | SQLite 3 / MySQL 8.0 / PostgreSQL 11   | SQLite 3 / MySQL 8.0 / PostgreSQL 11   | SQLite 3 / MySQL 8.0 / PostgreSQL 11       |
 | Development         | [download(v0.7.1.190909)](https://github.com/dbkangaroo/kangaroo/releases/download/v0.7.1.190909/kangaroo_x64_ubuntu_0.7.1.190909.zip)  | [download(v0.7.1.190909)](https://github.com/dbkangaroo/kangaroo/releases/download/v0.7.1.190909/kangaroo_x64_windows_0.7.1.190909.zip)  | Comming Soon!           |
 | Stable              | On going......                     | On going......                     | On going......                     |
+
+# Install
+## Step one
+__Ubuntu__: install dependency package via APT: GTK3/Gee/GtkSourceView4/libsoup/libgda/json-glib
+
+__Windows__: install dependency package via MSYS2: GTK3/Gee/GtkSourceView4/libsoup/libgda/json-glib
+
+## Step two
+download latest version to bin path, then run it.<br/>
+__Note__: rename kangaroo.ex to kangaroo.exe on windows platform
+
+
+# Support the Project
+If you like Kangaroo and you want to support its development, consider donating via PayPal.
+
+<a href="https://www.paypal.me/taozuhong" target="_blank"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-200px.png" width="150px" alt="Donate on PayPal"></a>
+![Support project](./images/pay.png)
 
 
 # Screenshots
