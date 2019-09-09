@@ -26,7 +26,7 @@ __Note__: rename kangaroo.ex to kangaroo.exe on windows platform
 # Support the Project
 If you like Kangaroo and you want to support its development, pls scan QR code to donate via PayPal / Wechat / Alipay.
 
-![Support project](./images/pay.png)
+![Support project](./docs/images/pay.png)
 
 # Screenshots
 ![Connection page](./docs/images/kangaroo-02.jpg)
