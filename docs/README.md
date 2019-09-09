@@ -46,9 +46,8 @@ __Note__: rename kangaroo.ex to kangaroo.exe on windows platform
 
 
 # Support the Project
-If you like Kangaroo and you want to support its development, consider donating via PayPal.
+If you like Kangaroo and you want to support its development, pls scan QR code to donate via PayPal / Wechat / Alipay.
 
-<a href="https://www.paypal.me/taozuhong" target="_blank"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-200px.png" width="150px" alt="Donate on PayPal"></a>
 ![Support project](./images/pay.png)
 
 
