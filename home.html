@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="keywords" content="sqlite,mysql,mariadb,postgresql,oracle,sqlserver,excel,access,sql,admin,tool,kangaroo">
+  <meta name="description" content="a sql client and admin tool of popular databases for everyone">
+  <title>Kangaroo app home for everyone</title>
+  <style>
+    body {
+      margin: 0;
+    }
+
+    footer {
+      height: 30px;
+      text-align: center;
+    }
+
+    h1 {
+      text-align: center;
+      color: white;
+      line-height: 100px;
+      margin: 0;
+    }
+
+    article {
+      padding: 10px;
+      margin: 10px;
+    }
+
+    section {
+      display: flex;
+      height: 95vh;
+    }
+
+    article {
+      flex: 4 200px;
+    }
+
+    article:nth-of-type(2) {
+      flex: 1 200px;
+      display: flex;
+      flex-flow: column;
+    }
+
+    .qrcode {
+      text-align: center;
+    }
+
+    .product {
+      background-color: #c3d9ff;
+      border-radius: 5px;
+      margin-top: 3px;
+      overflow: auto;
+      padding: 2px;
+    }
+
+    .product .homepage {
+      color: blue;
+      float: right;
+      margin: 3px;
+      text-align: right;
+    }
+
+    .product .title {
+      float: left;
+      font-size: 100%;
+      font-weight: bold;
+      margin: 3px;
+    }
+
+    .product .licence {
+      color: blue;
+      float: right;
+      margin: 3px;
+      text-align: right;
+      text-decoration: underline;
+    }
+  </style>
+  <script src="https://vuejs.org/js/vue.js"></script>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+</head>
+
+<body>
+  <div id="app">
+    <section>
+      <article>
+        <div>
+          <!-- 更新新闻 -->
+          <h2>Kangaroo news</h2>
+          <ul>
+            <li>2019-09-08 create app home page</li>
+          </ul>
+        </div>
+        <div style="height: 80px" v-if="google_ads">
+          <!-- 自适应横幅广告 -->
+          <adsense
+            ad-client="ca-pub-3975819313740938"
+            ad-slot="9069607977"
+            ad-style="display: block"
+            ad-format="auto">
+          </adsense>
+        </div>
+        <div>
+          <h2>Kangaroo support</h2>
+          <ul>
+            <li>Twitter: <a target="_blank" href="https://twitter.com/KangarooDb">Kangaroo</a></li>
+            <li>Home Page:<a target="_blank" href="https://dbkangaroo.github.io/kangaroo">Kangaroo</a></li>
+            <li>QQ Group: 437434838</li>
+            <li>Github: <a target="_blank" href="https://github.com/dbkangaroo/kangaroo">Kangaroo</a></li>
+          </ul>
+        </div>
+      </article>
+
+      <article>
+        <div style="width: 200px; height: 200px;" v-if="google_ads">
+          <!-- 自适应正方形广告 -->
+          <adsense v-if="google_ads"
+            ad-client="ca-pub-3975819313740938"
+            ad-slot="5336527935"
+            ad-style="display: block"
+            ad-format="auto">
+          </adsense>
+        </div>
+        <div class="qrcode">
+          <!-- 扫码支付赞助 -->
+          <span><strong>Scan QR code to support</strong></span>
+          <img src="pay.png" />
+        </div>
+        <div>
+          <!-- 致谢开源项目 -->
+          <h3 style="color: red;text-align: center">Thanks</h3>
+          <span>The greatest honor belongs to <a target="_blank" href="https://www.gnome.org">GNOME</a> project and
+            contributors, Kangaroo built-in them:</span>
+          <div style="clear:both; overflow:auto;">
+            <div class="product">
+              <span class="title">Vala</span>
+              <span class="homepage"><a target="_blank" href="https://wiki.gnome.org/Projects/Vala">homepage</a></span>
+              <span class="licence"><a target="_blank"
+                  href="https://gitlab.gnome.org/GNOME/vala/blob/master/COPYING">LGPLv2.1</a></span>
+            </div>
+            <div class="product">
+              <span class="title">GLib</span>
+              <span class="homepage"><a target="_blank" href="https://gitlab.gnome.org/GNOME/glib">homepage</a></span>
+              <span class="licence"><a target="_blank"
+                  href="https://gitlab.gnome.org/GNOME/glib/blob/master/COPYING">LGPLv2.1</a></span>
+            </div>
+            <div class="product">
+              <span class="title">GTK</span>
+              <span class="homepage"><a target="_blank" href="https://gitlab.gnome.org/GNOME/gtk">homepage</a></span>
+              <span class="licence"><a target="_blank"
+                  href="https://gitlab.gnome.org/GNOME/gtk/blob/master/COPYING">LGPLv2.1</a></span>
+            </div>
+            <div class="product">
+              <span class="title">GDA</span>
+              <span class="homepage"><a target="_blank" href="https://gitlab.gnome.org/GNOME/libgda">homepage</a></span>
+              <span class="licence"><a target="_blank"
+                  href="https://gitlab.gnome.org/GNOME/libgda/blob/master/COPYING.LIB">LGPLv2.1</a></span>
+            </div>
+            <div class="product">
+              <span class="title">GtkSourceView</span>
+              <span class="homepage"><a target="_blank"
+                  href="https://gitlab.gnome.org/GNOME/gtksourceview">homepage</a></span>
+              <span class="licence"><a target="_blank"
+                  href="https://gitlab.gnome.org/GNOME/gtksourceview/blob/master/COPYING.LIB">LGPLv2.1</a></span>
+            </div>
+            <div class="product">
+              <span class="title">LibSoup</span>
+              <span class="homepage"><a target="_blank"
+                  href="https://gitlab.gnome.org/GNOME/libsoup">homepage</a></span>
+              <span class="licence"><a target="_blank"
+                  href="https://gitlab.gnome.org/GNOME/libsoup/blob/master/COPYING.LIB">LGPLv2.1</a></span>
+            </div>
+            <div class="product">
+              <span class="title">JsonGlib</span>
+              <span class="homepage"><a target="_blank"
+                  href="https://gitlab.gnome.org/GNOME/json-glib">homepage</a></span>
+              <span class="licence"><a target="_blank"
+                  href="https://gitlab.gnome.org/GNOME/json-glib/blob/master/COPYING.LIB">LGPLv2.1</a></span>
+            </div>
+          </div>
+        </div>
+      </article>
+    </section>
+    <footer>
+      © 2019 Kangaroo team.
+    </footer>
+  </div>
+  <script>
+    Vue.component('adsense', {
+      props: {
+        adClient: {
+          type: String,
+          required: true
+        },
+        adSlot: {
+          type: String,
+          required: true
+        },
+        adFormat: {
+          type: String,
+          required: false,
+          default: 'auto'
+        },
+        adStyle: {
+          type: String,
+          required: false,
+          default: 'display: block'
+        }
+      },
+      mounted() {
+        (window.adsbygoogle = window.adsbygoogle || []).push({})
+      },
+      template: '<ins class="adsbygoogle" :data-ad-client="adClient" :data-ad-slot="adSlot" :data-ad-format="adFormat" :style="adStyle" data-full-width-responsive="true"></ins>'
+    })
+    var app = new Vue({
+        el: '#app',
+        data: {
+          google_ads: false
+        },
+        created: function() {
+          this.get_google_ads();
+        },
+        methods: {
+          get_google_ads() {
+            self = this;
+            fetch(
+                'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js',
+                {
+                  method: 'GET',
+                  mode: 'no-cors',
+                  credentials: 'same-origin',
+                  headers: {
+                    "Access-Control-Allow-Origin": "*"
+                  }
+                }
+              )
+            .then((res) => { 
+              console.log("Google ads api pinged.")
+              self.google_ads = true;
+            })
+            .catch((error) => { console.log(error) })
+         }
+        }
+      })
+    </script>
+</body>
+</html>
