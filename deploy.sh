@@ -6,6 +6,10 @@ set -e
 # build
 npm run docs:build
 
+# copy version and home page to dist
+cp version.json docs/.vuepress/dist/
+cp home.html docs/.vuepress/dist/
+
 # navigate into the build output directory
 cd docs/.vuepress/dist
 
