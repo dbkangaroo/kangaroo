@@ -1,24 +1,24 @@
 {
   "development": {
     "windows": {
-      "timestamp": "2019-9-8 10:40:30",
-      "version": "0.7.8.20190908",
+      "timestamp": "2019-09-08 15:19:30",
+      "version": "0.7.1.190909",
       "force": "false",
-      "package": "https://github.com/dbkangaroo/kangaroo/raw/master/windows/kangaroo.zip",
+      "package": "https://github.com/dbkangaroo/kangaroo/releases/download/v0.7.1.190909/kangaroo_x64_windows_0.7.1.190909.zip",
       "hash": ""
     },
     "linux": {
-      "timestamp": "2019-9-8 10:40:30",
-      "version": "0.7.8.20190908",
+      "timestamp": "2019-09-08 15:19:30",
+      "version": "0.7.1.190909",
       "force": "false",
-      "package": "https://github.com/dbkangaroo/kangaroo/raw/master/linux/kangaroo.zip",
+      "package": "https://github.com/dbkangaroo/kangaroo/releases/download/v0.7.1.190909/kangaroo_x64_ubuntu_0.7.1.190909.zip",
       "hash": ""
     },
     "macos": {
-      "timestamp": "2019-9-8 10:40:30",
-      "version": "0.7.8.20190908",
+      "timestamp": "",
+      "version": "",
       "force": "false",
-      "package": "https://github.com/dbkangaroo/kangaroo/raw/master/macos/kangaroo.zip",
+      "package": "",
       "hash": ""
     }
   },

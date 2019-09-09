@@ -8,7 +8,7 @@ Development version will be released weekly, Stable and LTS(Long-term Support) v
 | Platform            | Linux(64 bit) 	                   | Windows(64 bit)       	            | MacOS(64 bit) 	                 |
 |---------------------|------------------------------------|------------------------------------|------------------------------------|
 | Support databases   | SQLite 3 / MySQL 8.0 / PostgreSQL 11   | SQLite 3 / MySQL 8.0 / PostgreSQL 11   | SQLite 3 / MySQL 8.0 / PostgreSQL 11   |
-| Development         | [download(ver:0909)](https://github.com/dbkangaroo/kangaroo/releases/download/v0.7.1.190909/kangaroo_x64_ubuntu_0.7.1.190909.zip)  | [download(ver:0909)](https://github.com/dbkangaroo/kangaroo/releases/download/v0.7.1.190909/kangaroo_x64_windows_0.7.1.190909.zip)  | Comming Soon!           |
+| Development         | [download(v0.7.1.190909)](https://github.com/dbkangaroo/kangaroo/releases/download/v0.7.1.190909/kangaroo_x64_ubuntu_0.7.1.190909.zip)  | [download(v0.7.1.190909)](https://github.com/dbkangaroo/kangaroo/releases/download/v0.7.1.190909/kangaroo_x64_windows_0.7.1.190909.zip)  | Comming Soon!           |
 | Stable              | On going......                     | On going......                     | On going......                     |
 
 
