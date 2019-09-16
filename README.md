@@ -33,7 +33,7 @@ If you like Kangaroo and you want to support its development, pls scan QR code t
 ![Support project](./images/pay_wide.png)
 
 # Screenshots
-![Table designer](./images/kangaroo-04.png)
 ![Start page](./images/kangaroo-01.jpg)
+![Table designer](./images/kangaroo-04.png)
 ![Open table](./images/kangaroo-02.png)
 ![Query data](./images/kangaroo-03.png)
