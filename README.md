@@ -13,22 +13,24 @@ Development version will be released weekly, Stable and LTS(Long-term Support) v
 
 # Install
 ## Step one
-__Ubuntu__
-install dependency package via APT: GTK3/Gee/GtkSourceView4/libsoup/libgda/json-glib
+__Linux__
+
+__Ubuntu__: Install dependency package via APT: GTK3/Gee/GtkSourceView4/libsoup/libgda/json-glib
+
 
 __Windows__
-1. install dependency package via MSYS2: GTK3/Gee/GtkSourceView4/libsoup/libgda/json-glib
-2. run windows installer, following the guide to install Kangaroo
+1. Install dependency package via MSYS2: GTK3/Gee/GtkSourceView4/libsoup/libgda/json-glib
+2. Download windows installer and execute it, following the guide to install Kangaroo.
 
 ## Step two
-download latest version to bin path, then run it.<br/>
-__Note__: rename kangaroo.ex to kangaroo.exe on windows platform
+download latest version of Kangaroo to bin path, then run it.<br/>
+__Note__: only for installing Kangaroo vis MSYS2
 
 
 # Support the Project
 If you like Kangaroo and you want to support its development, pls scan QR code to donate via PayPal / Wechat / Alipay.
 
-![Support project](./images/pay_.png)
+![Support project](./images/pay_wide.png)
 
 # Screenshots
 ![Start page](./images/kangaroo-01.jpg)
