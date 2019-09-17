@@ -4,14 +4,14 @@ a database management tool for SQLite / MySQL / PostgreSQL on Windows / MacOS / 
 # Support database
 Database support capability level: __Planned__ / __Partial__ / __Full__
 
-| Database   | Version   | Query     | Editing   | Designer    | Intellisense | Modeling | Export/Import | Data Sync | 
-|------------|-----------|-----------|-----------|-------------|--------------|----------|---------------|-----------|
-| SQLite     | 3.x       | Full      | Partial   | Partial     | Planned      | Planned  | Partial       | Planned   |
-| MySQL      | 8.0       | Full      | Partial   | Partial     | Planned      | Planned  | Partial       | Planned   |
-| MariaDB    | 10.x      | Full      | Partial   | Partial     | Planned      | Planned  | Partial       | Planned   |
-| PostgreSQL | 11.x      | Full      | Partial   | Partial     | Planned      | Planned  | Partial       | Planned   |
-| Redis      |           | Planned   | Planned   | Planned     | Planned      | Planned  | Planned       | Planned   |
-| TBD        |           |           |           |             |              |          |               |           |
+| Database   | Version   | Query     | Editing   | Designer    | Intellisense | Modeling | Data I/O | Data Sync | 
+|------------|-----------|-----------|-----------|-------------|--------------|----------|----------|-----------|
+| SQLite     | 3.x       | Full      | Partial   | Partial     | Planned      | Planned  | Partial  | Planned   |
+| MySQL      | 8.0       | Full      | Partial   | Partial     | Planned      | Planned  | Partial  | Planned   |
+| MariaDB    | 10.x      | Full      | Partial   | Partial     | Planned      | Planned  | Partial  | Planned   |
+| PostgreSQL | 11.x      | Full      | Partial   | Partial     | Planned      | Planned  | Partial  | Planned   |
+| Redis      |           | Planned   | Planned   | Planned     | Planned      | Planned  | Planned  | Planned   |
+| TBD        |           |           |           |             |              |          |          |           |
 
 
 
