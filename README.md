@@ -22,7 +22,7 @@ Development version will be released weekly, Stable and LTS(Long-term Support) v
 |----------|-----------------|-----------------|-----------------|
 | Development | [download(v0.8.0.190923)](https://dbkangaroo.github.io/download/v0.8.0.190923) | [download(v0.8.0.190923)](https://dbkangaroo.github.io/download/v0.8.0.190923) | Comming Soon! |
 | Stable   | On going......  | On going......  | On going......  |
-0.8.0.190923
+
 
 # Install
 ## Step one
