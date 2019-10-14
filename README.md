@@ -20,24 +20,9 @@ Development version will be released weekly, Stable and LTS(Long-term Support) v
 
 | Platform | Linux(64 bit)   | Windows(64 bit) | MacOS(64 bit)   |
 |----------|-----------------|-----------------|-----------------|
-| Development | [download(v0.8.0.190923)](https://dbkangaroo.github.io/download/v0.8.0.190923) | [download(v0.8.0.190923)](https://dbkangaroo.github.io/download/v0.8.0.190923) | Comming Soon! |
 | Stable   | On going......  | On going......  | On going......  |
-
-
-# Install
-## Step one
-__Linux__
-
-__Ubuntu__: Install dependency package via APT: GTK3/Gee/GtkSourceView4/libsoup/libgda/json-glib
-
-
-__Windows__
-1. Install dependency package via MSYS2: GTK3/Gee/GtkSourceView4/libsoup/libgda/json-glib
-2. Download windows installer and execute it, following the guide to install Kangaroo.
-
-## Step two
-download latest version of Kangaroo to bin path, then run it.<br/>
-__Note__: only for installing Kangaroo vis MSYS2
+| Development | [download(v0.8.2.191014)](https://dbkangaroo.github.io/download/v0.8.2.191014) | [download(v0.8.2.191014)](https://dbkangaroo.github.io/download/v0.8.2.191014) | Comming Soon! |
+| Stable   | On going......  | On going......  | On going......  |
 
 
 # Support the Project
@@ -46,7 +31,10 @@ If you like Kangaroo and you want to support its development, pls scan QR code t
 ![Support project](./images/pay_wide.png)
 
 # Screenshots
-![Start page](./images/kangaroo-01.jpg)
-![Table designer](./images/kangaroo-04.png)
-![Open table](./images/kangaroo-02.png)
-![Query data](./images/kangaroo-03.png)
+![Start page of connection](./images/kangaroo-start.png)
+![Kangaroo grid view in table with custom columns](./images/kangaroo-grid.png)
+![Kangaroo grid view in table with where statement](./images/kangaroo-grid2.png)
+![Kangaroo grid view in form](./images/kangaroo-form.png)
+![Kangaroo query view](./images/kangaroo-query.png)
+![Kangaroo schema designer form](./images/kangaroo-designer.png)
+![Kangaroo schema designer form with preview](./images/kangaroo-designer2.png)
