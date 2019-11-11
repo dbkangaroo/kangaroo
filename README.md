@@ -6,10 +6,10 @@ Database support capability level: __Planned__ / __Partial__ / __Full(:100:)__
 
 | Database       | Version   | Query     | Editing   | Designer    | Intellisense | Modeling | Export<br/>Import | DB Sync   | 
 |----------------|-----------|-----------|-----------|-------------|--------------|----------|---------------|---------------|
-| SQLite         | 3.x       | Full:100: | Full:100: | Full:100: | Planned     | Planned  | Partial(30%)       | Planned       |
-| MySQL          | 8.0       | Full:100: | Full:100: | Full:100: | Planned     | Planned  | Partial(30%)       | Planned       |
-| MariaDB        | 10.x      | Full:100: | Full:100: | Full:100: | Planned     | Planned  | Partial(30%)       | Planned       |
-| PostgreSQL     | 11.x      | Full:100: | Full:100: | Full:100: | Planned     | Planned  | Partial(30%)       | Planned       |
+| SQLite         | 3.x       | Full:100: | Full:100: | Full:100: | Planned     | Planned  | Partial(50%)       | Planned       |
+| MySQL          | 8.0       | Full:100: | Full:100: | Full:100: | Planned     | Planned  | Partial(50%)       | Planned       |
+| MariaDB        | 10.x      | Full:100: | Full:100: | Full:100: | Planned     | Planned  | Partial(50%)       | Planned       |
+| PostgreSQL     | 11.x      | Full:100: | Full:100: | Full:100: | Planned     | Planned  | Partial(50%)       | Planned       |
 | Redis          | 5.x       | Planned   | Planned   | Planned      | Planned     | Planned  | Planned       | Planned       |
 | Oracle         |           |           |           |             |              |          |               |               |
 | SQL Server     |           |           |           |             |              |          |               |               |
@@ -21,7 +21,7 @@ Development version will be released weekly, Stable and LTS(Long-term Support) v
 | Platform | Linux(64 bit)   | Windows(64 bit) | MacOS(64 bit)   |
 |----------|-----------------|-----------------|-----------------|
 | Stable(current) | On going......  | On going......  | On going......  |
-| Development | [download(v0.8.5.191104)](https://dbkangaroo.github.io/download/v0.8.5.191104) | [download(v0.8.5.191104)](https://dbkangaroo.github.io/download/v0.8.5.191104) | [download(v0.8.5.191104)](https://dbkangaroo.github.io/download/v0.8.5.191104) |
+| Development | [download(v0.9.0.191111)](https://dbkangaroo.github.io/download/v0.9.0.191111) | [download(v0.9.0.191111)](https://dbkangaroo.github.io/download/v0.9.0.191111) | [download(v0.9.0.191111)](https://dbkangaroo.github.io/download/v0.9.0.191111) |
 
 
 # Support the Project
