@@ -22,7 +22,7 @@ Development version will be released weekly, Stable and LTS(Long-term Support) v
 | Platform | Linux(64 bit)   | Windows(64 bit) | MacOS(64 bit)   |
 |----------|-----------------|-----------------|-----------------|
 | Stable(current) | On going......  | On going......  | On going......  |
-| Development | [download(v0.9.2.191125)](https://dbkangaroo.github.io/download/v0.9.2.191125) | [download(v0.9.2.191125)](https://dbkangaroo.github.io/download/v0.9.2.191125) | [download(v0.9.2.191125)](https://dbkangaroo.github.io/download/v0.9.2.191125) |
+| Development | [download(v0.9.2.191202)](https://dbkangaroo.github.io/download/v0.9.2.191202) | [download(v0.9.2.191202)](https://dbkangaroo.github.io/download/v0.9.2.191202) | [download(v0.9.2.191202)](https://dbkangaroo.github.io/download/v0.9.2.191202) |
 
 
 # Support the Project
