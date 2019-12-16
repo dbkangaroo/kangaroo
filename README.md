@@ -4,16 +4,17 @@ a database management tool for SQLite / MySQL / PostgreSQL on Windows / MacOS / 
 # Support database
 Database support capability level: __Planned__ / __Partial__ / __Full(:100:)__
 
-| Database    | Version | Query     | Editing   | Designer  | Export    | Import  | Intellisense | Modeling | DB Sync |
-|-------------|---------|-----------|-----------|-----------|-----------|---------|--------------|----------|---------|
-| SQLite      | 3.x     | Full:100: | Full:100: | Full:100: | Full:100: | Partial(90%) | Planned      | Planned  | Planned |
-| MySQL       | 8.0     | Full:100: | Full:100: | Full:100: | Full:100: | Partial(90%) | Planned      | Planned  | Planned |
-| MariaDB     | 10.x    | Full:100: | Full:100: | Full:100: | Full:100: | Partial(90%) | Planned      | Planned  | Planned |
-| PostgreSQL  | 11.x    | Full:100: | Full:100: | Full:100: | Full:100: | Partial(90%) | Planned      | Planned  | Planned |
-| Redis       | 5.x     | Planned   | Planned   | Planned   | Planned   | Planned | Planned      | Planned  | Planned |
-| Oracle      |         |           |           |           |           |         |              |          |         |
-| SQL Server  |         |           |           |           |           |         |              |          |         |
+| Database    | Version | Query     | Editing   | Designer  | Export    | Import    | Hint      | Modeling | DB Sync |
+|-------------|---------|-----------|-----------|-----------|-----------|-----------|-----------|----------|---------|
+| SQLite      | 3.x     | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | Planned   | Planned  | Planned |
+| MySQL       | 8.0     | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | Planned   | Planned  | Planned |
+| MariaDB     | 10.x    | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | Planned   | Planned  | Planned |
+| PostgreSQL  | 11.x    | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | Planned   | Planned  | Planned |
+| Redis       | 5.x     | Planned   | Planned   | Planned   | Planned   | Planned   | Planned   | Planned  | Planned |
+| Oracle      |         |           |           |           |           |           |           |          |         |
+| SQL Server  |         |           |           |           |           |           |           |          |         |
 
+**Hint**: Code intellisense or Code autocomplete
 
 
 # Release
