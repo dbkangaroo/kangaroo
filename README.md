@@ -23,7 +23,7 @@ Development version will be released weekly, Stable and LTS(Long-term Support) v
 | Platform | Linux(64 bit)   | Windows(64 bit) | MacOS(64 bit)   |
 |----------|-----------------|-----------------|-----------------|
 | Stable(current) |          |                 |                 |
-| Development | [download(v0.11.1.200113)](https://dbkangaroo.github.io/download/v0.11.1.200113) | [download(v0.11.1.200113)](https://dbkangaroo.github.io/download/v0.11.1.200113) | [download(v0.11.1.200113)](https://dbkangaroo.github.io/download/v0.11.1.200113) |
+| Development | [download(v0.12.1.200120)](https://dbkangaroo.github.io/download/v0.12.1.200120) | [download(v0.12.1.200120)](https://dbkangaroo.github.io/download/v0.12.1.200120) | [download(v0.12.1.200120)](https://dbkangaroo.github.io/download/v0.12.1.200120) |
 
 
 # Support the Project
@@ -42,3 +42,4 @@ If you like Kangaroo and you want to support its development, pls scan QR code t
 ![Kangaroo schema designer form with preview](./images/kangaroo-designer2.png)
 ![Kangaroo export assistant](./images/kangaroo-export.png)
 ![Kangaroo import assistant](./images/kangaroo-import.png)
+![Kangaroo setting dialog with dark theme](./images/kangaroo-setting.png)
