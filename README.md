@@ -20,10 +20,10 @@ Database support capability level: __Planned__ / __Partial__ / __Full(:100:)__
 # Release
 Development version will be released weekly, Stable and LTS(Long-term Support) version depend on test result and stabilization.
 
-| Platform | Linux(64 bit)   | Windows(64 bit) | MacOS(64 bit)   |
-|----------|-----------------|-----------------|-----------------|
-| Stable(current) |          |                 |                 |
-| Development | [download(v0.12.1.200120)](https://dbkangaroo.github.io/download/v0.12.1.200120) | [download(v0.12.1.200120)](https://dbkangaroo.github.io/download/v0.12.1.200120) | [download(v0.12.1.200120)](https://dbkangaroo.github.io/download/v0.12.1.200120) |
+| Platform | Linux(64 bit)   | Windows(32 bit) | Windows(64 bit) | MacOS(64 bit)   |
+|----------|-----------------|-----------------|-----------------|-----------------|
+| Stable   |                 |                 |                 |                 |
+| Development | [v0.12.1.200120](https://dbkangaroo.github.io/download/v0.12.1.200120) | [v0.12.1.200120](https://dbkangaroo.github.io/download/v0.12.1.200120) |  | [v0.12.1.200120](https://dbkangaroo.github.io/download/v0.12.1.200120) |
 
 
 # Support the Project
