@@ -1,0 +1,31 @@
+# Maintainer: HE Ruozhou <howard.main@outlook.com>
+pkgname=kangaroo
+pkgver=0.23.1.200518
+pkgrel=1
+pkgdesc="SQL client and admin tool for popular databases"
+arch=('x86_64')
+url="https://dbkangaroo.github.io/"
+license=('custom')
+depends=('glibc' 'gtk3' 'gdk-pixbuf2' 'libgee' 'json-glib' 
+	'libsoup' 'libgda' 'gtksourceview4' 'webkit2gtk' 'libssh2' 'openssl')
+makedepends=('curl')
+optdepends=('libgda-mysql: for MySQL support' 'libgda-postgres: for PostgreSQL support')
+provides=('kangaroo')
+DLAGENTS=("https::/usr/bin/curl -A 'Mozilla' -fLC - --retry 3 --retry-delay 3 -o %o %u")
+source=("https://raw.githubusercontent.com/dbkangaroo/dbkangaroo.github.io/dev/document/license.md"
+        "https://github.com/dbkangaroo/kangaroo/releases/download/v0.23.1.200518/kangaroo_0.23.1.200518_arch.zip")
+sha256sums=(
+	"cb494825cc3a4e90257a424a9ff3d1e979b83e5baea01a8e4be4055ac240dbc5"
+	"477cb9f6a9f9d69ccab70b2a6aa3cf17a89aeacbf7da95252afe7cf728be88ba"
+)
+
+prepare() {
+	unzip -n "${pkgname}_${pkgver}_arch.zip"
+}
+
+package() {
+	mkdir "${pkgdir}/usr/bin" -p
+	mkdir "${pkgdir}/usr/share/licenses" -p      
+	install -Dm755 "${srcdir}/${pkgname}" "${pkgdir}/usr/bin/${pkgname}"
+	install -Dm644 "${srcdir}/license.md" "${pkgdir}/usr/share/licenses/${pkgname}/license.md"
+}
