@@ -1,0 +1,2474 @@
+# Chinese translations for kangaroo package.
+# Copyright (C) 2020 THE kangaroo'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the kangaroo package.
+# Automatically generated, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kangaroo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-15 20:53+0800\n"
+"PO-Revision-Date: 2020-05-05 17:59+0800\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/Business/subscribe_analytics.vala:71
+#: src/Business/subscribe_analytics.vala:74
+#: src/Business/subscribe_analytics.vala:115
+#: src/Business/subscribe_analytics.vala:118 src/Gui/Layouts/view_home.vala:273
+#: src/Gui/Layouts/view_home.vala:276
+msgid "Failed to send HTTP request."
+msgstr "发送 HTTP 请求失败."
+
+#: src/Gui/Actions/action_application.vala:37
+msgid "Application"
+msgstr "应用"
+
+#: src/Gui/Actions/action_application.vala:59
+#, c-format
+msgid "About %s"
+msgstr "关于 %s"
+
+#: src/Gui/Actions/action_dbtree.vala:86 src/Gui/Layouts/menu_dbtree.vala:258
+msgid "New table"
+msgstr "新建表"
+
+#: src/Gui/Actions/action_dbtree.vala:89
+msgid "New view"
+msgstr "新建视图"
+
+#: src/Gui/Actions/action_dbtree.vala:92 src/Gui/Actions/action_dbtree.vala:116
+#: src/Gui/Layouts/menu_dbtree.vala:265 src/Gui/Layouts/menu_dbtree.vala:273
+msgid "New query"
+msgstr "新建查询"
+
+#: src/Gui/Actions/action_dbtree.vala:95
+msgid "New event"
+msgstr "新建事件"
+
+#: src/Gui/Actions/action_dbtree.vala:98
+msgid "New backup"
+msgstr "新建备份"
+
+#: src/Gui/Actions/action_dbtree.vala:101
+msgid "New function"
+msgstr "新建函数"
+
+#: src/Gui/Actions/action_dbtree.vala:104
+msgid "New report"
+msgstr "新建报表"
+
+#: src/Gui/Actions/action_dbtree.vala:107
+#: src/Gui/Actions/action_dbtree.vala:145
+#: src/Gui/Actions/action_dbtree.vala:169 src/Gui/Actions/action_start.vala:82
+#: src/Gui/Actions/action_workspace.vala:80
+#: src/Gui/Dialogs/dialog_setting.vala:280
+#: src/Gui/Widgets/app_title_bar.vala:103
+msgid "Tools"
+msgstr "工具"
+
+#: src/Gui/Actions/action_dbtree.vala:187
+#, c-format
+msgid "Truncate table failed: %s"
+msgstr "清空表数据失败: %s"
+
+#: src/Gui/Actions/action_dbtree.vala:245
+#: src/Gui/Actions/action_dbtree.vala:270
+#: src/Gui/Actions/action_dbtree.vala:296
+#: src/Gui/Actions/action_dbtree.vala:298
+#, c-format
+msgid "Failed to dump text with schema: %s"
+msgstr "导出表结构文本失败： %s"
+
+#: src/Gui/Actions/action_dbtree.vala:314
+msgid "Save sql script…"
+msgstr "存储SQL脚本为..."
+
+#: src/Gui/Actions/action_dbtree.vala:317 src/Gui/Designer/form_preview.vala:92
+#: src/Gui/Designer/form_preview.vala:100
+#: src/Gui/Dialogs/dialog_connection.vala:821
+#: src/Gui/Dialogs/dialog_message.vala:100 src/Gui/Layouts/view_query.vala:132
+#: src/Gui/Layouts/view_query.vala:140 src/Gui/Layouts/view_structure.vala:230
+msgid "Save"
+msgstr "保存"
+
+#: src/Gui/Actions/action_dbtree.vala:318 src/Gui/Actions/action_start.vala:146
+#: src/Gui/Actions/action_workbench.vala:109
+#: src/Gui/Designer/Popuis/popui_columns.vala:120
+#: src/Gui/Designer/Popuis/popui_textview.vala:56
+#: src/Gui/Designer/form_preview.vala:98
+#: src/Gui/Dialogs/dialog_columns_common.vala:72
+#: src/Gui/Dialogs/dialog_connection.vala:384
+#: src/Gui/Dialogs/dialog_connection.vala:530
+#: src/Gui/Dialogs/dialog_connection.vala:630
+#: src/Gui/Dialogs/dialog_connection.vala:657
+#: src/Gui/Dialogs/dialog_connection.vala:684
+#: src/Gui/Dialogs/dialog_connection.vala:817
+#: src/Gui/Dialogs/dialog_goto_cell.vala:50
+#: src/Gui/Dialogs/dialog_message.vala:99
+#: src/Gui/Dialogs/dialog_setting.vala:670
+#: src/Gui/Dialogs/dialog_setting.vala:817
+#: src/Gui/Dialogs/dialog_view_code.vala:52
+#: src/Gui/Dialogs/dialog_view_text.vala:49
+#: src/Gui/Layouts/menu_dbtree.vala:125 src/Gui/Layouts/menu_dbtree.vala:320
+#: src/Gui/Layouts/view_query.vala:120 src/Gui/Layouts/view_query.vala:138
+msgid "Cancel"
+msgstr "取消"
+
+#: src/Gui/Actions/action_start.vala:87
+#: src/Gui/Dialogs/dialog_connection.vala:954
+#, c-format
+msgid "Open connection failed: %s"
+msgstr "打开数据库连接失败: %s"
+
+#: src/Gui/Actions/action_start.vala:144
+msgid "Are you sure to delete this connection?"
+msgstr "确认删除这个数据库连接吗？"
+
+#: src/Gui/Actions/action_start.vala:145
+#: src/Gui/Actions/action_workbench.vala:108
+#: src/Gui/Designer/Popuis/popui_columns.vala:124
+#: src/Gui/Designer/Popuis/popui_textview.vala:60
+#: src/Gui/Dialogs/dialog_columns_common.vala:76
+#: src/Gui/Dialogs/dialog_goto_cell.vala:51
+#: src/Gui/Dialogs/dialog_view_code.vala:53
+#: src/Gui/Dialogs/dialog_view_text.vala:50
+msgid "OK"
+msgstr "OK"
+
+#: src/Gui/Actions/action_tools.vala:54
+#: src/Gui/Actions/action_workspace.vala:87
+msgid "History logs"
+msgstr "历史记录"
+
+#: src/Gui/Actions/action_workbench.vala:70
+#: src/Gui/Actions/action_workbench.vala:71
+#: src/Gui/Layouts/view_structure.vala:67
+msgid "Untitled"
+msgstr "未命名"
+
+#: src/Gui/Actions/action_workbench.vala:107
+msgid "Are you sure to close this tab window and all children view?"
+msgstr "确认关闭这个数据库空间并关闭所有子视图吗？"
+
+#: src/Gui/Assistants/Export/data_export.vala:87
+msgid "Format & folder"
+msgstr "格式化 & 目录"
+
+#: src/Gui/Assistants/Export/data_export.vala:93
+msgid "Select tables"
+msgstr "选择数据表"
+
+#: src/Gui/Assistants/Export/data_export.vala:99
+#: src/Gui/Assistants/Import/data_import.vala:110
+msgid "Mapping columns"
+msgstr "字段映射"
+
+#: src/Gui/Assistants/Export/data_export.vala:105
+#: src/Gui/Assistants/Export/data_export.vala:171
+#: src/Gui/Assistants/Import/data_import.vala:98
+#: src/Gui/Assistants/Import/data_import.vala:158
+msgid "Format options"
+msgstr "格式设置"
+
+#: src/Gui/Assistants/Export/data_export.vala:111
+#: src/Gui/Assistants/Import/data_import.vala:116
+msgid "Process progress"
+msgstr "处理进度"
+
+#: src/Gui/Assistants/Export/data_export.vala:117
+#: src/Gui/Assistants/Import/data_import.vala:122
+msgid "Process summary"
+msgstr "处理摘要"
+
+#: src/Gui/Assistants/Export/page_columns.vala:34
+#: src/Gui/Assistants/Import/page_columns.vala:223
+msgid "Source column"
+msgstr "原数据列"
+
+#: src/Gui/Assistants/Export/page_columns.vala:34
+msgid "Target title"
+msgstr "目标标题"
+
+#: src/Gui/Assistants/Export/page_columns.vala:94
+msgid "Selected table"
+msgstr "已选择数据表"
+
+#: src/Gui/Assistants/Export/page_columns.vala:143
+#: src/Gui/Designer/Popuis/popui_columns.vala:108
+msgid "All columns"
+msgstr "所有数据列"
+
+#: src/Gui/Assistants/Export/page_format.vala:49
+#: src/Gui/Assistants/Import/page_format.vala:58
+msgid "Data format"
+msgstr "数据的格式:"
+
+#: src/Gui/Assistants/Export/page_format.vala:54
+#: src/Gui/Assistants/Import/page_format.vala:63
+#: src/Gui/Widgets/QueryBuilder/builder_query.vala:377
+#: src/Gui/Widgets/QueryBuilder/builder_query.vala:457
+msgid "Comma seperated values(.csv)"
+msgstr "逗号分隔值(.csv)"
+
+#: src/Gui/Assistants/Export/page_format.vala:55
+#: src/Gui/Assistants/Import/page_format.vala:64
+#: src/Gui/Widgets/QueryBuilder/builder_query.vala:378
+#: src/Gui/Widgets/QueryBuilder/builder_query.vala:458
+msgid "Tab separated values(.tsv)"
+msgstr "Tab分隔值(.tsv)"
+
+#: src/Gui/Assistants/Export/page_format.vala:56
+msgid "Delimiter Separated Values(.txt)"
+msgstr "符号分隔值(.txt)"
+
+#: src/Gui/Assistants/Export/page_format.vala:57
+#: src/Gui/Assistants/Import/page_format.vala:65
+#: src/Gui/Widgets/QueryBuilder/builder_query.vala:379
+#: src/Gui/Widgets/QueryBuilder/builder_query.vala:459
+msgid "JavaScript Object Notation(.json)"
+msgstr "JavaScript 对象标记格式(.json)"
+
+#: src/Gui/Assistants/Export/page_format.vala:58
+#: src/Gui/Assistants/Import/page_format.vala:66
+#: src/Gui/Widgets/QueryBuilder/builder_query.vala:382
+#: src/Gui/Widgets/QueryBuilder/builder_query.vala:460
+msgid "W3C XML Format(.xml)"
+msgstr "W3C XML 格式(.xml)"
+
+#: src/Gui/Assistants/Export/page_format.vala:59
+#: src/Gui/Widgets/QueryBuilder/builder_query.vala:380
+msgid "SQL Insert Statements(.sql)"
+msgstr "SQL 插入语句(.sql)"
+
+#: src/Gui/Assistants/Export/page_format.vala:60
+#: src/Gui/Widgets/QueryBuilder/builder_query.vala:381
+msgid "W3C HTML Format(.html)"
+msgstr "W3C 网页格式(.html)"
+
+#: src/Gui/Assistants/Export/page_format.vala:61
+#: src/Gui/Widgets/QueryBuilder/builder_query.vala:383
+msgid "Markdown Format(.md)"
+msgstr "Markdown 格式(.md)"
+
+#: src/Gui/Assistants/Export/page_format.vala:70
+#: src/Gui/Assistants/Export/page_format.vala:95
+#: src/Gui/Assistants/Import/page_format.vala:79
+#: src/Gui/Assistants/Import/page_format.vala:114
+#: src/Gui/Widgets/QueryBuilder/builder_query.vala:408
+#: src/Gui/Widgets/QueryBuilder/builder_query.vala:484
+msgid "All files(*.*)"
+msgstr "所有文件(*.*)"
+
+#: src/Gui/Assistants/Export/page_format.vala:86
+#: src/Gui/Assistants/Export/page_format.vala:90
+msgid "Choose file folder"
+msgstr "选择文件夹:"
+
+#: src/Gui/Assistants/Export/page_options_xml.vala:45
+msgid "Choose storage format"
+msgstr "选择存储格式:"
+
+#: src/Gui/Assistants/Export/page_options_xml.vala:49
+msgid "Export column as _node"
+msgstr "导出列为节点"
+
+#: src/Gui/Assistants/Export/page_options_xml.vala:50
+msgid "Export column as _attribute"
+msgstr "导出列为属性"
+
+#: src/Gui/Assistants/Export/page_process.vala:146
+#: src/Gui/Assistants/Import/page_process.vala:93
+msgid "Data process progress"
+msgstr "数据处理进度"
+
+#: src/Gui/Assistants/Export/page_process.vala:160
+#: src/Gui/Assistants/Import/page_process.vala:107
+msgid "Data process log"
+msgstr "数据处理日志"
+
+#: src/Gui/Assistants/Export/page_tables.vala:26
+msgid "Table name"
+msgstr "数据表名"
+
+#: src/Gui/Assistants/Export/page_tables.vala:26
+msgid "Export to file"
+msgstr "导出为文件"
+
+#: src/Gui/Assistants/Export/page_tables.vala:204
+msgid "All Tables & Views"
+msgstr "所有数据表和视图"
+
+#: src/Gui/Assistants/Export/page_tables.vala:248
+#: src/Gui/Assistants/Import/page_columns.vala:202
+msgid "Table"
+msgstr "数据表"
+
+#: src/Gui/Assistants/Export/page_tables.vala:248
+#: src/Gui/Widgets/app_title_bar.vala:108
+msgid "View"
+msgstr "数据视图"
+
+#: src/Gui/Assistants/Import/data_import.vala:92
+msgid "Source file"
+msgstr "源码文件"
+
+#: src/Gui/Assistants/Import/data_import.vala:104
+msgid "Data preview"
+msgstr "数据预览"
+
+#: src/Gui/Assistants/Import/page_columns.vala:173
+#: src/Gui/DataGrid/datagrid_view.vala:414
+#: src/Gui/Layouts/view_content.vala:190 src/Gui/Layouts/view_dbtree.vala:493
+#: src/Gui/Widgets/QueryBuilder/builder_query.vala:213
+#, c-format
+msgid "Execute SQL failed: %s"
+msgstr "执行 SQL 失败: %s"
+
+#: src/Gui/Assistants/Import/page_columns.vala:180
+#: src/Gui/Layouts/view_start.vala:33
+msgid "Database"
+msgstr "数据库"
+
+#: src/Gui/Assistants/Import/page_columns.vala:191
+msgid "Schema"
+msgstr "数据模式"
+
+#: src/Gui/Assistants/Import/page_columns.vala:223
+msgid "Target column"
+msgstr "目标列"
+
+#: src/Gui/Assistants/Import/page_columns.vala:265
+msgid "Import action"
+msgstr "导入行为"
+
+#: src/Gui/Assistants/Import/page_columns.vala:269
+msgid "Append: add records to the destination table"
+msgstr "添加: 添加数据行到目标数据表中"
+
+#: src/Gui/Assistants/Import/page_columns.vala:270
+msgid "Update: update records in the table where matching from source"
+msgstr "更新: 更新目标数据表中匹配的数据行"
+
+#: src/Gui/Assistants/Import/page_columns.vala:271
+msgid "Merge: update if records exist in the table, or append them"
+msgstr "合并: 更新目标数据表中匹配的数据行或添加数据行"
+
+#: src/Gui/Assistants/Import/page_columns.vala:272
+msgid "Delete: delete records in table where matching from source"
+msgstr "删除: 删除目标数据表中匹配的数据行"
+
+#: src/Gui/Assistants/Import/page_columns.vala:273
+msgid ""
+"Replace: delete all records in destination table, then append all records"
+msgstr "替换: 删除目标数据表中所有数据，然后添加所有源数据行"
+
+#: src/Gui/Assistants/Import/page_columns.vala:281
+msgid "Insert inconvertible values as null"
+msgstr "插入无法转换的数据为NULL"
+
+#: src/Gui/Assistants/Import/page_columns.vala:285
+msgid "Continue on error"
+msgstr "出错时继续执行"
+
+#: src/Gui/Assistants/Import/page_format.vala:95
+msgid "Choose data file"
+msgstr "选择数据文件"
+
+#: src/Gui/Assistants/Import/page_format.vala:99
+msgid "Select data file"
+msgstr "选择数据文件"
+
+#: src/Gui/Assistants/Import/page_format.vala:127
+msgid "File content encoding"
+msgstr "文件内容编码:"
+
+#: src/Gui/Assistants/Import/page_format.vala:146
+msgid "File content preview"
+msgstr "文件内容预览"
+
+#: src/Gui/Assistants/Import/page_format.vala:181
+#, c-format
+msgid "Load file failed: %s"
+msgstr "加载文件失败: %s"
+
+#: src/Gui/Assistants/Import/page_preview.vala:69
+msgid "Data row limit"
+msgstr "数据最大行数"
+
+#: src/Gui/Assistants/Import/page_preview.vala:75
+msgid "200 rows"
+msgstr "200 行"
+
+#: src/Gui/Assistants/Import/page_preview.vala:76
+msgid "500 rows"
+msgstr "500 行"
+
+#: src/Gui/Assistants/Import/page_preview.vala:77
+msgid "1000 rows"
+msgstr "1000 行"
+
+#: src/Gui/Assistants/Import/page_preview.vala:78
+msgid "5000 rows"
+msgstr "5000 行"
+
+#: src/Gui/Assistants/Import/page_preview.vala:79
+msgid "All data rows"
+msgstr "所有数据行"
+
+#: src/Gui/Assistants/page_options_dsv.vala:126
+msgid "Value separator"
+msgstr "列值分隔符"
+
+#: src/Gui/Assistants/page_options_dsv.vala:131
+msgid "Comma( , )"
+msgstr "逗号(,)"
+
+#: src/Gui/Assistants/page_options_dsv.vala:132
+msgid "Tab( \\t )"
+msgstr "Tab 符(\\t)"
+
+#: src/Gui/Assistants/page_options_dsv.vala:133
+msgid "Semicolon( ; )"
+msgstr "分好(;)"
+
+#: src/Gui/Assistants/page_options_dsv.vala:134
+msgid "Vertical bar( | )"
+msgstr "竖线(|)"
+
+#: src/Gui/Assistants/page_options_dsv.vala:143
+msgid "Row separator"
+msgstr "行分隔符"
+
+#: src/Gui/Assistants/page_options_dsv.vala:148
+msgid "Windows (CR LF)"
+msgstr "Windows (CR LF)"
+
+#: src/Gui/Assistants/page_options_dsv.vala:149
+msgid "Macintosh (CR)"
+msgstr "Macintosh (CR)"
+
+#: src/Gui/Assistants/page_options_dsv.vala:150
+msgid "Unix/Linux (LF)"
+msgstr "Unix/Linux (LF)"
+
+#: src/Gui/Assistants/page_options_dsv.vala:161
+msgid "Row prefix text"
+msgstr "数据行前缀文本"
+
+#: src/Gui/Assistants/page_options_dsv.vala:169
+msgid "Row suffix text"
+msgstr "数据行后缀文本"
+
+#: src/Gui/Assistants/page_options_dsv.vala:172
+msgid "Row qualifier"
+msgstr "数据行包括符号:"
+
+#: src/Gui/Assistants/page_options_dsv.vala:188
+msgid "Null value text"
+msgstr "空值文本"
+
+#: src/Gui/Assistants/page_options_dsv.vala:193
+msgid "Empty string"
+msgstr "空字符串"
+
+#: src/Gui/Assistants/page_options_dsv.vala:194
+msgid "Undefined"
+msgstr "未定义"
+
+#: src/Gui/Assistants/page_options_dsv.vala:195
+msgid "\\N"
+msgstr "\\N"
+
+#: src/Gui/Assistants/page_options_dsv.vala:205
+msgid "Quote values"
+msgstr "引文字符"
+
+#: src/Gui/Assistants/page_options_dsv.vala:218
+msgid "Quote time"
+msgstr "引用时机"
+
+#: src/Gui/Assistants/page_options_dsv.vala:223
+msgid "When needed"
+msgstr "根据需要"
+
+#: src/Gui/Assistants/page_options_dsv.vala:224
+msgid "Always"
+msgstr "总是引用"
+
+#: src/Gui/Assistants/page_options_dsv.vala:234
+msgid "Trim white spaces"
+msgstr "去除空白字符"
+
+#: src/Gui/Assistants/page_options_dsv.vala:243
+msgid "First row is header"
+msgstr "首行为表头"
+
+#: src/Gui/Assistants/page_options_dsv.vala:254
+msgid "Quotation: char(-) not allow"
+msgstr "引文字符: 不允许使用字符(-)"
+
+#: src/Gui/Assistants/page_options_dsv.vala:259
+msgid "add a new quotation"
+msgstr "增加引文"
+
+#: src/Gui/Assistants/page_options_dsv.vala:263
+msgid "delete current quotation"
+msgstr "删除当前引文"
+
+#: src/Gui/Assistants/page_options_dsv.vala:267
+msgid "move current quotation up"
+msgstr "引文上移"
+
+#: src/Gui/Assistants/page_options_dsv.vala:271
+msgid "move current quotation down"
+msgstr "引文下移"
+
+#: src/Gui/Assistants/page_options_dsv.vala:284
+msgid "Quote left"
+msgstr "引文左边符号"
+
+#: src/Gui/Assistants/page_options_dsv.vala:284
+msgid "Quote right"
+msgstr "引文右边符号"
+
+#: src/Gui/Assistants/page_options_dsv.vala:284
+msgid "Escape left"
+msgstr "转义左边符号"
+
+#: src/Gui/Assistants/page_options_dsv.vala:284
+msgid "Escape right"
+msgstr "转义右边符号"
+
+#: src/Gui/DataGrid/Viewers/picker_date.vala:35
+#: src/Gui/DataGrid/Viewers/picker_date.vala:82
+msgid "Jump to Today"
+msgstr "跳转到今天"
+
+#: src/Gui/DataGrid/Viewers/picker_date.vala:38
+#, c-format
+msgid "Today: %s"
+msgstr "今天: %s"
+
+#: src/Gui/DataGrid/Viewers/viewer_binary.vala:52
+#: src/Gui/Widgets/QueryBuilder/builder_query.vala:248
+msgid "Export"
+msgstr "导出"
+
+#: src/Gui/DataGrid/Viewers/viewer_binary.vala:53
+#: src/Gui/Widgets/QueryBuilder/builder_query.vala:255
+msgid "Import"
+msgstr "导入"
+
+#: src/Gui/DataGrid/Viewers/viewer_binary.vala:54
+msgid "DB Null"
+msgstr "数据库空值"
+
+#: src/Gui/DataGrid/datagrid_menu.vala:25
+#: src/Gui/DataGrid/datagrid_menu.vala:131
+#: src/Gui/Designer/PostgreSQL/table_triggers.vala:34
+#: src/Gui/Designer/form_menu.vala:45 src/Gui/Layouts/view_structure.vala:206
+msgid "Insert"
+msgstr "插入"
+
+#: src/Gui/DataGrid/datagrid_menu.vala:32 src/Gui/Designer/form_menu.vala:52
+msgid "Clone"
+msgstr "克隆"
+
+#: src/Gui/DataGrid/datagrid_menu.vala:39
+#: src/Gui/Designer/PostgreSQL/table_triggers.vala:35
+#: src/Gui/Designer/form_menu.vala:59 src/Gui/Layouts/menu_dbtree.vala:214
+#: src/Gui/Layouts/menu_dbtree.vala:320 src/Gui/Layouts/view_structure.vala:212
+#: src/Gui/Widgets/QueryBuilder/builder_order.vala:140
+#: src/Gui/Widgets/QueryBuilder/builder_where.vala:256
+msgid "Delete"
+msgstr "删除"
+
+#: src/Gui/DataGrid/datagrid_menu.vala:51 src/Gui/Designer/form_menu.vala:24
+msgid "Copy"
+msgstr "复制"
+
+#: src/Gui/DataGrid/datagrid_menu.vala:58
+msgid "Copy as"
+msgstr "复制为"
+
+#: src/Gui/DataGrid/datagrid_menu.vala:65 src/Gui/Designer/form_menu.vala:33
+msgid "Paste"
+msgstr "粘贴"
+
+#: src/Gui/DataGrid/datagrid_menu.vala:77 src/Gui/Designer/form_menu.vala:70
+msgid "Select all"
+msgstr "选择全部"
+
+#: src/Gui/DataGrid/datagrid_menu.vala:85 src/Gui/Designer/form_menu.vala:77
+msgid "Select inverse"
+msgstr "反选"
+
+#: src/Gui/DataGrid/datagrid_menu.vala:98
+#: src/Gui/DataGrid/datagrid_menu.vala:102
+msgid "Go to cell"
+msgstr "跳转到单元格"
+
+#: src/Gui/DataGrid/datagrid_menu.vala:110 src/Gui/Layouts/menu_dbtree.vala:228
+#: src/Gui/Layouts/menu_dbtree.vala:242 src/Gui/Layouts/menu_dbtree.vala:288
+#: src/Gui/Layouts/menu_dbtree.vala:302
+msgid "Refresh"
+msgstr "刷新"
+
+#: src/Gui/DataGrid/datagrid_menu.vala:124
+msgid "Replace"
+msgstr "替换"
+
+#: src/Gui/DataGrid/datagrid_menu.vala:145
+msgid "Insert statement"
+msgstr "插入语句"
+
+#: src/Gui/DataGrid/datagrid_menu.vala:152
+msgid "Update statement"
+msgstr "更新语句"
+
+#: src/Gui/DataGrid/datagrid_menu.vala:159
+msgid "Delete statement"
+msgstr "删除语句"
+
+#: src/Gui/DataGrid/datagrid_menu.vala:170
+msgid "Tab seperated values(data only)"
+msgstr "Tab 分隔值(只有数据)"
+
+#: src/Gui/DataGrid/datagrid_menu.vala:177
+msgid "Tab seperated values(title and data)"
+msgstr "Tab 分隔值(列头加数据)"
+
+#: src/Gui/DataGrid/datagrid_menu.vala:188
+msgid "Comma seperated values(data only)"
+msgstr "逗号分隔值(只有数据)"
+
+#: src/Gui/DataGrid/datagrid_menu.vala:195
+msgid "Comma seperated values(title and data)"
+msgstr "逗号分隔值(列头加数据)"
+
+#: src/Gui/DataGrid/datagrid_menu.vala:206
+msgid "JSON"
+msgstr "JSON"
+
+#: src/Gui/DataGrid/datagrid_menu.vala:213
+msgid "PHP Array"
+msgstr "PHP 数组"
+
+#: src/Gui/DataGrid/datagrid_toolbar.vala:200
+#: src/Gui/Designer/form_preview.vala:87
+#: src/Gui/Layouts/view_structure.vala:197
+msgid "SQL builder tools"
+msgstr "SQL 构建工具"
+
+#: src/Gui/DataGrid/datagrid_toolbar.vala:218
+msgid "add a new row"
+msgstr "添加数据行"
+
+#: src/Gui/DataGrid/datagrid_toolbar.vala:224
+msgid "delete current row"
+msgstr "删除当前行"
+
+#: src/Gui/DataGrid/datagrid_toolbar.vala:230
+msgid "save change"
+msgstr "保存修改"
+
+#: src/Gui/DataGrid/datagrid_toolbar.vala:236
+msgid "discard change"
+msgstr "丢弃修改"
+
+#: src/Gui/DataGrid/datagrid_toolbar.vala:239
+msgid "Are you sure to discard the change?"
+msgstr "确认要丢弃修改吗？"
+
+#: src/Gui/DataGrid/datagrid_toolbar.vala:240
+#: src/Gui/DataGrid/datagrid_view.vala:268
+#: src/Gui/Designer/form_common.vala:214
+#: src/Gui/Dialogs/dialog_columns_common.vala:161
+msgid "YES"
+msgstr "YES"
+
+#: src/Gui/DataGrid/datagrid_toolbar.vala:241
+#: src/Gui/DataGrid/datagrid_view.vala:269
+#: src/Gui/Designer/form_common.vala:215
+#: src/Gui/Dialogs/dialog_columns_common.vala:162
+msgid "NO"
+msgstr "NO"
+
+#: src/Gui/DataGrid/datagrid_toolbar.vala:253
+msgid "refresh data"
+msgstr "刷新数据"
+
+#: src/Gui/DataGrid/datagrid_toolbar.vala:287
+msgid "First page"
+msgstr "第一页"
+
+#: src/Gui/DataGrid/datagrid_toolbar.vala:291
+msgid "Previous page"
+msgstr "上一页"
+
+#: src/Gui/DataGrid/datagrid_toolbar.vala:295
+msgid "Next page"
+msgstr "下一页"
+
+#: src/Gui/DataGrid/datagrid_toolbar.vala:299
+msgid "Last page"
+msgstr "最后一页"
+
+#: src/Gui/DataGrid/datagrid_toolbar.vala:303
+msgid "Input page number to jumnp"
+msgstr "跳转到输入的页码页"
+
+#: src/Gui/DataGrid/datagrid_toolbar.vala:304
+msgid "page"
+msgstr "页"
+
+#: src/Gui/DataGrid/datagrid_toolbar.vala:335
+msgid "Previous row"
+msgstr "上一行"
+
+#: src/Gui/DataGrid/datagrid_toolbar.vala:342
+msgid "Next row"
+msgstr "下一行"
+
+#: src/Gui/DataGrid/datagrid_toolbar.vala:358
+msgid "show data as grid layout"
+msgstr "显示数据为网格形式"
+
+#: src/Gui/DataGrid/datagrid_toolbar.vala:365
+msgid "show data as form layout"
+msgstr "显示数据为表单形式"
+
+#: src/Gui/DataGrid/datagrid_toolbar.vala:381
+#: src/Gui/DataGrid/datagrid_toolbar.vala:390
+#: src/Gui/DataGrid/datagrid_toolbar.vala:398
+#: src/Gui/DataGrid/datagrid_toolbar.vala:416
+msgid "Save data in cache and sync batchly"
+msgstr "保存数据在本地缓存并批量提交"
+
+#: src/Gui/DataGrid/datagrid_toolbar.vala:386
+#: src/Gui/DataGrid/datagrid_toolbar.vala:409
+msgid "Save data while row changed"
+msgstr "切换行时提交数据"
+
+#: src/Gui/DataGrid/datagrid_toolbar.vala:394
+#: src/Gui/DataGrid/datagrid_toolbar.vala:423
+msgid "Save data in cache and sync batchly with transaction"
+msgstr "保存数据在本地缓存并以事务模式批量提交"
+
+#: src/Gui/DataGrid/datagrid_toolbar.vala:408
+#: src/Gui/Dialogs/dialog_setting.vala:501
+msgid "Live mode"
+msgstr "即时模式"
+
+#: src/Gui/DataGrid/datagrid_toolbar.vala:415
+#: src/Gui/Dialogs/dialog_setting.vala:502
+msgid "Cache mode"
+msgstr "缓存模式"
+
+#: src/Gui/DataGrid/datagrid_toolbar.vala:422
+#: src/Gui/Dialogs/dialog_setting.vala:503
+msgid "Transaction mode"
+msgstr "事务模式"
+
+#: src/Gui/DataGrid/datagrid_view.vala:267
+#: src/Gui/Designer/form_common.vala:213
+#: src/Gui/Dialogs/dialog_columns_common.vala:160
+msgid "Are you sure to delete selected rows?"
+msgstr "确定要删除已选择的数据行吗？"
+
+#: src/Gui/DataGrid/datagrid_view.vala:479
+#, c-format
+msgid "Error occured: %s"
+msgstr "出错了: %s"
+
+#: src/Gui/Designer/MySQL/table_checks.vala:23
+#: src/Gui/Designer/MySQL/table_columns.vala:30
+#: src/Gui/Designer/MySQL/table_foreigns.vala:22
+#: src/Gui/Designer/MySQL/table_indexes.vala:24
+#: src/Gui/Designer/MySQL/table_triggers.vala:22
+#: src/Gui/Designer/Popuis/popui_columns.vala:83
+#: src/Gui/Designer/PostgreSQL/table_checks.vala:23
+#: src/Gui/Designer/PostgreSQL/table_columns.vala:29
+#: src/Gui/Designer/PostgreSQL/table_excludes.vala:27
+#: src/Gui/Designer/PostgreSQL/table_foreigns.vala:26
+#: src/Gui/Designer/PostgreSQL/table_indexes.vala:30
+#: src/Gui/Designer/PostgreSQL/table_rules.vala:26
+#: src/Gui/Designer/PostgreSQL/table_triggers.vala:34
+#: src/Gui/Designer/PostgreSQL/table_uniques.vala:24
+#: src/Gui/Designer/SQLite/table_checks.vala:23
+#: src/Gui/Designer/SQLite/table_columns.vala:30
+#: src/Gui/Designer/SQLite/table_foreigns.vala:22
+#: src/Gui/Designer/SQLite/table_indexes.vala:22
+#: src/Gui/Designer/SQLite/table_triggers.vala:23
+#: src/Gui/Designer/SQLite/table_uniques.vala:22
+#: src/Gui/Dialogs/dialog_columns_mysql.vala:78
+#: src/Gui/Dialogs/dialog_columns_postgres.vala:30
+#: src/Gui/Dialogs/dialog_columns_selectable.vala:82
+#: src/Gui/Dialogs/dialog_columns_sqlite.vala:78
+#: src/Gui/Layouts/view_start.vala:33
+msgid "Name"
+msgstr "名字"
+
+#: src/Gui/Designer/MySQL/table_checks.vala:23
+#: src/Gui/Designer/MySQL/table_columns.vala:369
+#: src/Gui/Designer/PostgreSQL/table_checks.vala:149
+#: src/Gui/Designer/SQLite/table_checks.vala:23
+msgid "Expression"
+msgstr "表达式"
+
+#: src/Gui/Designer/MySQL/table_checks.vala:23
+msgid "Enforced"
+msgstr "强制"
+
+#: src/Gui/Designer/MySQL/table_checks.vala:124
+#: src/Gui/Designer/PostgreSQL/table_checks.vala:23
+#: src/Gui/Designer/SQLite/table_checks.vala:120
+msgid "Check expression"
+msgstr "校验表达式"
+
+#: src/Gui/Designer/MySQL/table_columns.vala:30
+#: src/Gui/Designer/PostgreSQL/table_columns.vala:29
+#: src/Gui/Designer/SQLite/table_columns.vala:30
+msgid "Type"
+msgstr "类型"
+
+#: src/Gui/Designer/MySQL/table_columns.vala:30
+#: src/Gui/Designer/PostgreSQL/table_columns.vala:29
+#: src/Gui/Designer/SQLite/table_columns.vala:30
+#: src/Gui/Dialogs/dialog_columns_mysql.vala:84
+msgid "Length"
+msgstr "长度"
+
+#: src/Gui/Designer/MySQL/table_columns.vala:30
+#: src/Gui/Designer/PostgreSQL/table_columns.vala:29
+msgid "Decimal"
+msgstr "小数"
+
+#: src/Gui/Designer/MySQL/table_columns.vala:30
+#: src/Gui/Designer/PostgreSQL/table_columns.vala:30
+#: src/Gui/Designer/SQLite/table_columns.vala:30
+msgid "Not Null"
+msgstr "非空"
+
+#: src/Gui/Designer/MySQL/table_columns.vala:31
+msgid "Virtual"
+msgstr "虚拟"
+
+#: src/Gui/Designer/MySQL/table_columns.vala:31
+#: src/Gui/Designer/PostgreSQL/table_columns.vala:30
+#: src/Gui/Designer/SQLite/table_columns.vala:31
+msgid "Key"
+msgstr "关键字"
+
+#: src/Gui/Designer/MySQL/table_columns.vala:31
+#: src/Gui/Designer/PostgreSQL/table_columns.vala:30
+#: src/Gui/Designer/SQLite/table_columns.vala:31
+msgid "Default"
+msgstr "默认"
+
+#: src/Gui/Designer/MySQL/table_columns.vala:31
+#: src/Gui/Designer/MySQL/table_columns.vala:502
+#: src/Gui/Designer/MySQL/table_indexes.vala:24
+#: src/Gui/Designer/MySQL/table_indexes.vala:312
+#: src/Gui/Designer/PostgreSQL/table_checks.vala:23
+#: src/Gui/Designer/PostgreSQL/table_checks.vala:153
+#: src/Gui/Designer/PostgreSQL/table_columns.vala:30
+#: src/Gui/Designer/PostgreSQL/table_columns.vala:333
+#: src/Gui/Designer/PostgreSQL/table_excludes.vala:27
+#: src/Gui/Designer/PostgreSQL/table_excludes.vala:295
+#: src/Gui/Designer/PostgreSQL/table_foreigns.vala:27
+#: src/Gui/Designer/PostgreSQL/table_indexes.vala:30
+#: src/Gui/Designer/PostgreSQL/table_indexes.vala:323
+#: src/Gui/Designer/PostgreSQL/table_rules.vala:26
+#: src/Gui/Designer/PostgreSQL/table_rules.vala:265
+#: src/Gui/Designer/PostgreSQL/table_triggers.vala:35
+#: src/Gui/Designer/PostgreSQL/table_triggers.vala:433
+#: src/Gui/Designer/PostgreSQL/table_uniques.vala:24
+#: src/Gui/Designer/PostgreSQL/table_uniques.vala:260
+#: src/Gui/Designer/form_factory.vala:84 src/Gui/Designer/form_factory.vala:120
+msgid "Comment"
+msgstr "注释"
+
+#: src/Gui/Designer/MySQL/table_columns.vala:360
+msgid "Virtual type"
+msgstr "虚拟类型"
+
+#: src/Gui/Designer/MySQL/table_columns.vala:377
+msgid "Enum values"
+msgstr "枚举值"
+
+#: src/Gui/Designer/MySQL/table_columns.vala:382
+msgid "Values"
+msgstr "值列表"
+
+#: src/Gui/Designer/MySQL/table_columns.vala:390
+#: src/Gui/Designer/MySQL/table_options.vala:51
+msgid "Character set"
+msgstr "字符集"
+
+#: src/Gui/Designer/MySQL/table_columns.vala:402
+#: src/Gui/Designer/MySQL/table_options.vala:51
+#: src/Gui/Designer/PostgreSQL/table_columns.vala:273
+#: src/Gui/Designer/SQLite/table_columns.vala:220
+#: src/Gui/Dialogs/dialog_columns_postgres.vala:30
+#: src/Gui/Dialogs/dialog_columns_sqlite.vala:84
+msgid "Collation"
+msgstr "排序规则"
+
+#: src/Gui/Designer/MySQL/table_columns.vala:413
+msgid "Key length"
+msgstr "关键字长度"
+
+#: src/Gui/Designer/MySQL/table_columns.vala:421
+msgid "Binary"
+msgstr "二进制"
+
+#: src/Gui/Designer/MySQL/table_columns.vala:429
+#: src/Gui/Designer/MySQL/table_options.vala:51
+#: src/Gui/Designer/SQLite/table_columns.vala:240
+#: src/Gui/Designer/SQLite/table_options.vala:79
+msgid "Auto Increment"
+msgstr "自动增长"
+
+#: src/Gui/Designer/MySQL/table_columns.vala:437
+msgid "Unsigned"
+msgstr "无符号"
+
+#: src/Gui/Designer/MySQL/table_columns.vala:445
+msgid "Fill zero"
+msgstr "零值填充"
+
+#: src/Gui/Designer/MySQL/table_columns.vala:453
+msgid "Update with current time stamp"
+msgstr "用当前时间更新"
+
+#: src/Gui/Designer/MySQL/table_columns.vala:461
+msgid "Generated always"
+msgstr "总是产生"
+
+#: src/Gui/Designer/MySQL/table_foreigns.vala:22
+#: src/Gui/Designer/MySQL/table_foreigns.vala:185
+#: src/Gui/Designer/MySQL/table_indexes.vala:24
+#: src/Gui/Designer/MySQL/table_indexes.vala:307
+#: src/Gui/Designer/PostgreSQL/table_excludes.vala:299
+#: src/Gui/Designer/PostgreSQL/table_foreigns.vala:26
+#: src/Gui/Designer/PostgreSQL/table_foreigns.vala:223
+#: src/Gui/Designer/PostgreSQL/table_foreigns.vala:239
+#: src/Gui/Designer/PostgreSQL/table_indexes.vala:30
+#: src/Gui/Designer/PostgreSQL/table_indexes.vala:318
+#: src/Gui/Designer/PostgreSQL/table_options.vala:191
+#: src/Gui/Designer/PostgreSQL/table_triggers.vala:428
+#: src/Gui/Designer/PostgreSQL/table_uniques.vala:24
+#: src/Gui/Designer/PostgreSQL/table_uniques.vala:255
+#: src/Gui/Designer/SQLite/table_foreigns.vala:179
+#: src/Gui/Designer/SQLite/table_foreigns.vala:194
+#: src/Gui/Designer/SQLite/table_indexes.vala:22
+#: src/Gui/Designer/SQLite/table_indexes.vala:140
+#: src/Gui/Designer/SQLite/table_triggers.vala:171
+#: src/Gui/Designer/SQLite/table_uniques.vala:22
+#: src/Gui/Designer/SQLite/table_uniques.vala:138
+#: src/Gui/Designer/form_factory.vala:39 src/Gui/Designer/form_factory.vala:66
+#: src/Gui/Designer/form_factory.vala:93
+#: src/Gui/Widgets/QueryBuilder/builder_query.vala:219
+msgid "Columns"
+msgstr "数据列"
+
+#: src/Gui/Designer/MySQL/table_foreigns.vala:22
+msgid "Referenced database"
+msgstr "引用数据库"
+
+#: src/Gui/Designer/MySQL/table_foreigns.vala:22
+#: src/Gui/Designer/PostgreSQL/table_foreigns.vala:26
+#: src/Gui/Designer/PostgreSQL/table_triggers.vala:397
+#: src/Gui/Designer/SQLite/table_foreigns.vala:22
+msgid "Referenced table"
+msgstr "引用数据表"
+
+#: src/Gui/Designer/MySQL/table_foreigns.vala:22
+#: src/Gui/Designer/PostgreSQL/table_foreigns.vala:26
+#: src/Gui/Designer/SQLite/table_foreigns.vala:22
+msgid "Referenced columns"
+msgstr "引用字段"
+
+#: src/Gui/Designer/MySQL/table_foreigns.vala:22
+msgid "Match"
+msgstr "匹配"
+
+#: src/Gui/Designer/MySQL/table_foreigns.vala:22
+#: src/Gui/Designer/PostgreSQL/table_foreigns.vala:27
+#: src/Gui/Designer/SQLite/table_foreigns.vala:22
+msgid "On update"
+msgstr "On update"
+
+#: src/Gui/Designer/MySQL/table_foreigns.vala:22
+#: src/Gui/Designer/PostgreSQL/table_foreigns.vala:27
+#: src/Gui/Designer/SQLite/table_foreigns.vala:22
+msgid "On delete"
+msgstr "On delete"
+
+#: src/Gui/Designer/MySQL/table_foreigns.vala:201
+msgid "Reference columns"
+msgstr "引用字段"
+
+#: src/Gui/Designer/MySQL/table_indexes.vala:24
+#: src/Gui/Designer/PostgreSQL/table_excludes.vala:27
+#: src/Gui/Designer/PostgreSQL/table_indexes.vala:30
+msgid "Index method"
+msgstr "索引方法"
+
+#: src/Gui/Designer/MySQL/table_indexes.vala:253
+#: src/Gui/Designer/MySQL/table_options.vala:52
+msgid "Key block size"
+msgstr "关键字块大小"
+
+#: src/Gui/Designer/MySQL/table_options.vala:50
+msgid "Engine"
+msgstr "数据库引擎"
+
+#: src/Gui/Designer/MySQL/table_options.vala:50
+#: src/Gui/Designer/PostgreSQL/table_excludes.vala:233
+#: src/Gui/Designer/PostgreSQL/table_indexes.vala:257
+#: src/Gui/Designer/PostgreSQL/table_options.vala:25
+#: src/Gui/Designer/PostgreSQL/table_uniques.vala:216
+msgid "Table space"
+msgstr "表空间"
+
+#: src/Gui/Designer/MySQL/table_options.vala:50
+msgid "Storage"
+msgstr "存储"
+
+#: src/Gui/Designer/MySQL/table_options.vala:50
+msgid "Union"
+msgstr "联合"
+
+#: src/Gui/Designer/MySQL/table_options.vala:50
+msgid "Insert method"
+msgstr "插入方法"
+
+#: src/Gui/Designer/MySQL/table_options.vala:51
+msgid "Checksum"
+msgstr "校验码"
+
+#: src/Gui/Designer/MySQL/table_options.vala:51
+msgid "Row format"
+msgstr "数据行格式"
+
+#: src/Gui/Designer/MySQL/table_options.vala:52
+msgid "Avg row length"
+msgstr "平均数据行长度"
+
+#: src/Gui/Designer/MySQL/table_options.vala:52
+msgid "Max rows"
+msgstr "最大数据行数"
+
+#: src/Gui/Designer/MySQL/table_options.vala:52
+msgid "Min rows"
+msgstr "最小数据行数"
+
+#: src/Gui/Designer/MySQL/table_options.vala:52
+msgid "Pack keys"
+msgstr "封装关键字"
+
+#: src/Gui/Designer/MySQL/table_options.vala:53
+msgid "Delay key write"
+msgstr "延迟关键字写入"
+
+#: src/Gui/Designer/MySQL/table_options.vala:53
+msgid "Data directory"
+msgstr "数据目录"
+
+#: src/Gui/Designer/MySQL/table_options.vala:53
+msgid "Index directory"
+msgstr "索引目录"
+
+#: src/Gui/Designer/MySQL/table_options.vala:53
+msgid "Stats auto recalc"
+msgstr "统计时自动重新计算"
+
+#: src/Gui/Designer/MySQL/table_options.vala:53
+msgid "Stats persistent"
+msgstr "统计持久化"
+
+#: src/Gui/Designer/MySQL/table_options.vala:54
+msgid "Stats sample pages"
+msgstr "统计采样页数"
+
+#: src/Gui/Designer/MySQL/table_options.vala:54
+msgid "Compression"
+msgstr "数据压缩"
+
+#: src/Gui/Designer/MySQL/table_options.vala:54
+msgid "Encryption"
+msgstr "数据加密"
+
+#: src/Gui/Designer/MySQL/table_triggers.vala:22
+#: src/Gui/Designer/SQLite/table_triggers.vala:23
+msgid "Body"
+msgstr "主体"
+
+#: src/Gui/Designer/MySQL/table_triggers.vala:22
+#: src/Gui/Designer/PostgreSQL/table_triggers.vala:34
+#: src/Gui/Designer/SQLite/table_triggers.vala:23
+msgid "Fire Time"
+msgstr "激活时机"
+
+#: src/Gui/Designer/MySQL/table_triggers.vala:22
+#: src/Gui/Designer/PostgreSQL/table_rules.vala:26
+#: src/Gui/Designer/SQLite/table_triggers.vala:23
+msgid "Event"
+msgstr "事件"
+
+#: src/Gui/Designer/MySQL/table_triggers.vala:144
+msgid "Trigger"
+msgstr "触发器"
+
+#: src/Gui/Designer/PostgreSQL/table_checks.vala:23
+msgid "No inherit"
+msgstr "非继承"
+
+#: src/Gui/Designer/PostgreSQL/table_checks.vala:23
+#: src/Gui/Designer/PostgreSQL/table_excludes.vala:280
+#: src/Gui/Designer/PostgreSQL/table_triggers.vala:375
+#: src/Gui/Designer/PostgreSQL/table_uniques.vala:206
+msgid "Deferrable"
+msgstr "可延迟"
+
+#: src/Gui/Designer/PostgreSQL/table_columns.vala:261
+msgid "Namespace"
+msgstr "名字空间"
+
+#: src/Gui/Designer/PostgreSQL/table_columns.vala:284
+msgid "Dimension"
+msgstr "纬度"
+
+#: src/Gui/Designer/PostgreSQL/table_columns.vala:292
+msgid "Identity"
+msgstr "唯一识别"
+
+#: src/Gui/Designer/PostgreSQL/table_excludes.vala:27
+msgid "Element"
+msgstr "元素"
+
+#: src/Gui/Designer/PostgreSQL/table_excludes.vala:244
+#: src/Gui/Designer/PostgreSQL/table_excludes.vala:249
+#: src/Gui/Designer/PostgreSQL/table_indexes.vala:268
+#: src/Gui/Designer/PostgreSQL/table_indexes.vala:273
+#: src/Gui/Designer/PostgreSQL/table_uniques.vala:227
+#: src/Gui/Designer/PostgreSQL/table_uniques.vala:232
+msgid "Include"
+msgstr "包含"
+
+#: src/Gui/Designer/PostgreSQL/table_excludes.vala:256
+#: src/Gui/Designer/PostgreSQL/table_excludes.vala:261
+#: src/Gui/Designer/PostgreSQL/table_indexes.vala:280
+#: src/Gui/Designer/PostgreSQL/table_indexes.vala:285
+#: src/Gui/Designer/PostgreSQL/table_uniques.vala:239
+#: src/Gui/Designer/PostgreSQL/table_uniques.vala:244
+msgid "Parameters"
+msgstr "参数"
+
+#: src/Gui/Designer/PostgreSQL/table_excludes.vala:268
+#: src/Gui/Designer/PostgreSQL/table_excludes.vala:273
+#: src/Gui/Designer/PostgreSQL/table_indexes.vala:292
+#: src/Gui/Designer/PostgreSQL/table_indexes.vala:297
+#: src/Gui/Designer/PostgreSQL/table_rules.vala:212
+#: src/Gui/Designer/PostgreSQL/table_rules.vala:217
+#: src/Gui/Widgets/QueryBuilder/builder_query.vala:227
+msgid "Where"
+msgstr "Where"
+
+#: src/Gui/Designer/PostgreSQL/table_foreigns.vala:26
+#: src/Gui/Designer/PostgreSQL/table_triggers.vala:385
+msgid "Referenced schema"
+msgstr "引用的模式"
+
+#: src/Gui/Designer/PostgreSQL/table_foreigns.vala:27
+msgid "Match full"
+msgstr "完全匹配"
+
+#: src/Gui/Designer/PostgreSQL/table_foreigns.vala:27
+#: src/Gui/Designer/SQLite/table_foreigns.vala:22
+msgid "Deferred"
+msgstr "已延迟"
+
+#: src/Gui/Designer/PostgreSQL/table_indexes.vala:30
+#: src/Gui/Designer/SQLite/table_indexes.vala:22
+msgid "Unique"
+msgstr "唯一"
+
+#: src/Gui/Designer/PostgreSQL/table_indexes.vala:30
+msgid "Cocurrently"
+msgstr "并行"
+
+#: src/Gui/Designer/PostgreSQL/table_indexes.vala:30
+msgid "Only"
+msgstr "唯一"
+
+#: src/Gui/Designer/PostgreSQL/table_options.vala:25
+msgid "Table flag"
+msgstr "表标记"
+
+#: src/Gui/Designer/PostgreSQL/table_options.vala:25
+msgid "Table owner"
+msgstr "表拥有者"
+
+#: src/Gui/Designer/PostgreSQL/table_options.vala:25
+#: src/Gui/Designer/PostgreSQL/table_options.vala:197
+msgid "Inherits from"
+msgstr "继承自"
+
+#: src/Gui/Designer/PostgreSQL/table_options.vala:25
+msgid "Has oids"
+msgstr "拥有 OIDS"
+
+#: src/Gui/Designer/PostgreSQL/table_options.vala:26
+msgid "With arguments"
+msgstr "带有参数"
+
+#: src/Gui/Designer/PostgreSQL/table_options.vala:26
+msgid "Commit action"
+msgstr "提交行为"
+
+#: src/Gui/Designer/PostgreSQL/table_options.vala:26
+msgid "Partition type"
+msgstr "分区类型"
+
+#: src/Gui/Designer/PostgreSQL/table_options.vala:26
+msgid "Partition keys"
+msgstr "分区关键字"
+
+#: src/Gui/Designer/PostgreSQL/table_options.vala:187
+#: src/Gui/Designer/PostgreSQL/table_triggers.vala:355
+#: src/Gui/Designer/PostgreSQL/table_triggers.vala:360
+msgid "Arguments"
+msgstr "参数"
+
+#: src/Gui/Designer/PostgreSQL/table_rules.vala:26
+msgid "Do action"
+msgstr "选择行为"
+
+#: src/Gui/Designer/PostgreSQL/table_rules.vala:26
+#: src/Gui/Designer/PostgreSQL/table_triggers.vala:35
+msgid "Enable"
+msgstr "允许"
+
+#: src/Gui/Designer/PostgreSQL/table_rules.vala:26
+#: src/Gui/Dialogs/dialog_setting.vala:816
+msgid "Apply"
+msgstr "应用"
+
+#: src/Gui/Designer/PostgreSQL/table_rules.vala:224
+#: src/Gui/Designer/PostgreSQL/table_rules.vala:229
+#: src/Gui/Designer/PostgreSQL/table_rules.vala:261
+msgid "Commands"
+msgstr "命令"
+
+#: src/Gui/Designer/PostgreSQL/table_rules.vala:257
+msgid "Condition"
+msgstr "条件"
+
+#: src/Gui/Designer/PostgreSQL/table_triggers.vala:34
+#: src/Gui/Designer/SQLite/table_triggers.vala:23
+msgid "For each"
+msgstr "没一个"
+
+#: src/Gui/Designer/PostgreSQL/table_triggers.vala:34
+#: src/Gui/Widgets/app_title_bar.vala:96
+msgid "Update"
+msgstr "更新"
+
+#: src/Gui/Designer/PostgreSQL/table_triggers.vala:35
+#: src/Gui/Layouts/menu_dbtree.vala:125
+msgid "Truncate"
+msgstr "清空"
+
+#: src/Gui/Designer/PostgreSQL/table_triggers.vala:35
+#: src/Gui/Designer/SQLite/table_triggers.vala:23
+msgid "Update of columns"
+msgstr "更新列清单"
+
+#: src/Gui/Designer/PostgreSQL/table_triggers.vala:320
+#: src/Gui/Designer/PostgreSQL/table_triggers.vala:325
+#: src/Gui/Designer/SQLite/table_triggers.vala:23
+msgid "When"
+msgstr "当"
+
+#: src/Gui/Designer/PostgreSQL/table_triggers.vala:332
+msgid "Function schema"
+msgstr "函数模式"
+
+#: src/Gui/Designer/PostgreSQL/table_triggers.vala:344
+msgid "Function name"
+msgstr "函数名"
+
+#: src/Gui/Designer/PostgreSQL/table_triggers.vala:367
+msgid "Constraint"
+msgstr "约束"
+
+#: src/Gui/Designer/SQLite/table_columns.vala:30
+msgid "Scale"
+msgstr "缩放"
+
+#: src/Gui/Designer/SQLite/table_columns.vala:230
+msgid "Not Null ON CONFLICT"
+msgstr "冲突上非空"
+
+#: src/Gui/Designer/SQLite/table_foreigns.vala:22
+msgid "Local columns"
+msgstr "本地列"
+
+#: src/Gui/Designer/SQLite/table_options.vala:69
+msgid "Primary key on conflict"
+msgstr "关键字冲突"
+
+#: src/Gui/Designer/SQLite/table_options.vala:87
+msgid "Without ROWID"
+msgstr "不带 ROWID"
+
+#: src/Gui/Designer/SQLite/table_triggers.vala:183
+msgid "Trigger body"
+msgstr "触发器主体"
+
+#: src/Gui/Designer/SQLite/table_uniques.vala:22
+msgid "On Conflict"
+msgstr "冲突处理"
+
+#: src/Gui/Designer/form_factory.vala:42 src/Gui/Designer/form_factory.vala:69
+#: src/Gui/Designer/form_factory.vala:96
+msgid "Indexes"
+msgstr "索引列表"
+
+#: src/Gui/Designer/form_factory.vala:45 src/Gui/Designer/form_factory.vala:72
+#: src/Gui/Designer/form_factory.vala:99
+msgid "Foreign keys"
+msgstr "外键"
+
+#: src/Gui/Designer/form_factory.vala:48 src/Gui/Designer/form_factory.vala:102
+msgid "Uniques"
+msgstr "唯一性"
+
+#: src/Gui/Designer/form_factory.vala:51 src/Gui/Designer/form_factory.vala:75
+#: src/Gui/Designer/form_factory.vala:105
+msgid "Checks"
+msgstr "检查"
+
+#: src/Gui/Designer/form_factory.vala:54 src/Gui/Designer/form_factory.vala:78
+#: src/Gui/Designer/form_factory.vala:114
+msgid "Triggers"
+msgstr "触发器"
+
+#: src/Gui/Designer/form_factory.vala:57 src/Gui/Designer/form_factory.vala:81
+#: src/Gui/Designer/form_factory.vala:117
+msgid "Options"
+msgstr "属性"
+
+#: src/Gui/Designer/form_factory.vala:60 src/Gui/Designer/form_factory.vala:87
+#: src/Gui/Designer/form_factory.vala:123
+msgid "SQL preview"
+msgstr "SQL 预览"
+
+#: src/Gui/Designer/form_factory.vala:108
+msgid "Excludes"
+msgstr "排除"
+
+#: src/Gui/Designer/form_factory.vala:111
+msgid "Rules"
+msgstr "规则"
+
+#: src/Gui/Designer/form_preview.vala:95 src/Gui/Layouts/view_query.vala:135
+msgid "Save SQL to file(.sql)..."
+msgstr "保存SQL到文件(.sql)..."
+
+#: src/Gui/Dialogs/dialog_columns_mysql.vala:91
+#: src/Gui/Dialogs/dialog_columns_sqlite.vala:90
+#: src/Gui/Widgets/QueryBuilder/builder_query.vala:234
+msgid "Order"
+msgstr "顺序"
+
+#: src/Gui/Dialogs/dialog_columns_postgres.vala:30
+msgid "Collation schema"
+msgstr "排序规则所在模式"
+
+#: src/Gui/Dialogs/dialog_columns_postgres.vala:30
+msgid "class schema"
+msgstr "类所属模式"
+
+#: src/Gui/Dialogs/dialog_columns_postgres.vala:30
+msgid "Operator class"
+msgstr "操作类"
+
+#: src/Gui/Dialogs/dialog_columns_postgres.vala:30
+msgid "Sort order"
+msgstr "排序顺序"
+
+#: src/Gui/Dialogs/dialog_columns_postgres.vala:30
+msgid "Nulls order"
+msgstr "空值顺序"
+
+#: src/Gui/Dialogs/dialog_connection.vala:84
+msgid "Connection"
+msgstr "数据库连接"
+
+#: src/Gui/Dialogs/dialog_connection.vala:152
+msgid "Saving Connection"
+msgstr "保存连接..."
+
+#: src/Gui/Dialogs/dialog_connection.vala:194
+msgid "Connection Saved!"
+msgstr "连接已保存."
+
+#: src/Gui/Dialogs/dialog_connection.vala:223
+#: src/Gui/Dialogs/dialog_connection.vala:226
+msgid "Connection's name"
+msgstr "连接名称"
+
+#: src/Gui/Dialogs/dialog_connection.vala:244
+#: src/Gui/Dialogs/dialog_setting.vala:262
+msgid "General"
+msgstr "通用"
+
+#: src/Gui/Dialogs/dialog_connection.vala:258
+msgid "SSH tunnel"
+msgstr "SSH 隧道"
+
+#: src/Gui/Dialogs/dialog_connection.vala:264
+#: src/Gui/Layouts/view_start.vala:33
+msgid "SSL"
+msgstr "SSL"
+
+#: src/Gui/Dialogs/dialog_connection.vala:282
+msgid "Database type"
+msgstr "数据库类型"
+
+#: src/Gui/Dialogs/dialog_connection.vala:297
+#: src/Gui/Dialogs/dialog_setting.vala:719 src/Gui/Layouts/view_start.vala:33
+msgid "Host"
+msgstr "代理主机"
+
+#: src/Gui/Dialogs/dialog_connection.vala:317
+#: src/Gui/Dialogs/dialog_connection.vala:321
+msgid "Database name"
+msgstr "数据库名称"
+
+#: src/Gui/Dialogs/dialog_connection.vala:327
+#: src/Gui/Dialogs/dialog_setting.vala:740 src/Gui/Layouts/view_start.vala:33
+msgid "Username"
+msgstr "用户名"
+
+#: src/Gui/Dialogs/dialog_connection.vala:331
+msgid "Your login username"
+msgstr "你的登录用户名"
+
+#: src/Gui/Dialogs/dialog_connection.vala:337
+#: src/Gui/Dialogs/dialog_connection.vala:479
+#: src/Gui/Dialogs/dialog_setting.vala:750
+msgid "Password"
+msgstr "密码"
+
+#: src/Gui/Dialogs/dialog_connection.vala:342
+msgid "Your login password"
+msgstr "你的登录密码"
+
+#: src/Gui/Dialogs/dialog_connection.vala:359
+msgid "File Path"
+msgstr "文件路径"
+
+#: src/Gui/Dialogs/dialog_connection.vala:363
+msgid "SQLite database"
+msgstr "SQLite 数据库"
+
+#: src/Gui/Dialogs/dialog_connection.vala:369
+msgid "Click icon to create or select sqlite file"
+msgstr "点击图标创建或选择 SQLite 文件"
+
+#: src/Gui/Dialogs/dialog_connection.vala:371
+#: src/Gui/Dialogs/dialog_connection.vala:381
+msgid "Create new SQLite database"
+msgstr "创建新 SQLite 数据库"
+
+#: src/Gui/Dialogs/dialog_connection.vala:373
+#: src/Gui/Dialogs/dialog_connection.vala:376
+msgid "Select a SQLite database"
+msgstr "选择一个 SQLite 数据库"
+
+#: src/Gui/Dialogs/dialog_connection.vala:375
+#: src/Gui/Dialogs/dialog_connection.vala:529
+#: src/Gui/Dialogs/dialog_connection.vala:629
+#: src/Gui/Dialogs/dialog_connection.vala:656
+#: src/Gui/Dialogs/dialog_connection.vala:683
+#: src/Gui/Dialogs/dialog_setting.vala:669
+msgid "Select"
+msgstr "选择"
+
+#: src/Gui/Dialogs/dialog_connection.vala:379
+msgid "Create"
+msgstr "创建"
+
+#: src/Gui/Dialogs/dialog_connection.vala:404
+msgid "Create SQLite database successfully."
+msgstr "创建 SQLite 数据库成功"
+
+#: src/Gui/Dialogs/dialog_connection.vala:406
+msgid "Faild to create SQLite database."
+msgstr "创建 SQLite 数据库失败."
+
+#: src/Gui/Dialogs/dialog_connection.vala:426
+msgid "Connect via SSH tunnel"
+msgstr "通过 SSH 隧道连接"
+
+#: src/Gui/Dialogs/dialog_connection.vala:439
+msgid "SSH server"
+msgstr "SSH 服务器"
+
+#: src/Gui/Dialogs/dialog_connection.vala:443
+msgid "host: 127.0.0.1"
+msgstr "主机: 127.0.0.1"
+
+#: src/Gui/Dialogs/dialog_connection.vala:444
+msgid "SSH server host"
+msgstr "SSH 服务器"
+
+#: src/Gui/Dialogs/dialog_connection.vala:451
+msgid "SSH server port"
+msgstr "SSH 服务器监听端口"
+
+#: src/Gui/Dialogs/dialog_connection.vala:452
+msgid "port: 22"
+msgstr "端口: 22"
+
+#: src/Gui/Dialogs/dialog_connection.vala:465
+msgid "SSH username"
+msgstr "SSH 用户名"
+
+#: src/Gui/Dialogs/dialog_connection.vala:468
+msgid "Your secure shell username"
+msgstr "您的 SSH 用户名"
+
+#: src/Gui/Dialogs/dialog_connection.vala:475
+msgid "Auth type"
+msgstr "认证类型"
+
+#: src/Gui/Dialogs/dialog_connection.vala:480
+msgid "Private key file(OpenSSH or PuTTY)"
+msgstr "私有密匙文件(OpenSSH or PuTTY)"
+
+#: src/Gui/Dialogs/dialog_connection.vala:489
+msgid "SSH password"
+msgstr "SSH 密码"
+
+#: src/Gui/Dialogs/dialog_connection.vala:492
+msgid "Your secure shell password"
+msgstr "您的SSH 登录密码"
+
+#: src/Gui/Dialogs/dialog_connection.vala:512
+#: src/Gui/Dialogs/dialog_connection.vala:519
+msgid "Private key file"
+msgstr "私有密匙文件"
+
+#: src/Gui/Dialogs/dialog_connection.vala:523
+msgid "Click icon to select private key file"
+msgstr "点击图标选择私有密匙文件"
+
+#: src/Gui/Dialogs/dialog_connection.vala:526
+msgid "Select private key file…"
+msgstr "选择私有密匙文件..."
+
+#: src/Gui/Dialogs/dialog_connection.vala:544
+msgid "Passphrase"
+msgstr "密匙密码"
+
+#: src/Gui/Dialogs/dialog_connection.vala:548
+msgid "Passphrase to decode private key"
+msgstr "解密密匙的密码"
+
+#: src/Gui/Dialogs/dialog_connection.vala:554
+msgid "Missing SSH Key file!"
+msgstr "SSH 密匙文件不存在"
+
+#: src/Gui/Dialogs/dialog_connection.vala:561
+msgid "Generate SSH Key"
+msgstr "生成 SSH 私有密匙"
+
+#: src/Gui/Dialogs/dialog_connection.vala:588
+msgid "Connect with SSL"
+msgstr "通过 SSL 连接"
+
+#: src/Gui/Dialogs/dialog_connection.vala:603
+msgid "Privacy Enhanced Mail certificates"
+msgstr "增强型私匙邮件证书"
+
+#: src/Gui/Dialogs/dialog_connection.vala:607
+msgid "Certificate Signing Request"
+msgstr "认证签名请求"
+
+#: src/Gui/Dialogs/dialog_connection.vala:611
+msgid "Certificates"
+msgstr "客户端认证文件"
+
+#: src/Gui/Dialogs/dialog_connection.vala:615
+msgid "All files"
+msgstr "所有文件(*.*)"
+
+#: src/Gui/Dialogs/dialog_connection.vala:619
+msgid "CA file"
+msgstr "CA 文件"
+
+#: src/Gui/Dialogs/dialog_connection.vala:623
+msgid "Click icon to select CA file"
+msgstr "点击图标选择 CA 文件"
+
+#: src/Gui/Dialogs/dialog_connection.vala:626
+msgid "Select CA file…"
+msgstr "选择 CA 文件"
+
+#: src/Gui/Dialogs/dialog_connection.vala:646
+msgid "Client certificate file"
+msgstr "客户端认证文件"
+
+#: src/Gui/Dialogs/dialog_connection.vala:650
+msgid "Click icon to select client certificate file"
+msgstr "点击图标选择客户端认证文件"
+
+#: src/Gui/Dialogs/dialog_connection.vala:653
+msgid "Select client certificate file…"
+msgstr "选择客户端认证文件"
+
+#: src/Gui/Dialogs/dialog_connection.vala:673
+msgid "Client key file"
+msgstr "客户端私密匙文件"
+
+#: src/Gui/Dialogs/dialog_connection.vala:677
+msgid "Click icon to select client key file"
+msgstr "点击图标选择客户端私密匙文件"
+
+#: src/Gui/Dialogs/dialog_connection.vala:680
+msgid "Select client key file…"
+msgstr "选择客户端私密匙文件"
+
+#: src/Gui/Dialogs/dialog_connection.vala:700
+msgid "Mode"
+msgstr "模式"
+
+#: src/Gui/Dialogs/dialog_connection.vala:704
+msgid "Require"
+msgstr "必须的"
+
+#: src/Gui/Dialogs/dialog_connection.vala:705
+msgid "Verify CA"
+msgstr "校验CA"
+
+#: src/Gui/Dialogs/dialog_connection.vala:706
+msgid "Full Verification"
+msgstr "完全校验"
+
+#: src/Gui/Dialogs/dialog_connection.vala:714
+msgid "Specified cipher"
+msgstr "制定的加解密引擎"
+
+#: src/Gui/Dialogs/dialog_connection.vala:718
+msgid "SSL cipher"
+msgstr "SSL加解密引擎"
+
+#: src/Gui/Dialogs/dialog_connection.vala:813
+msgid "Test connection"
+msgstr "测试连接"
+
+#: src/Gui/Dialogs/dialog_connection.vala:909
+#: src/Gui/Dialogs/dialog_connection.vala:919
+msgid "Connection name is empty"
+msgstr "连接名字不能为空"
+
+#: src/Gui/Dialogs/dialog_connection.vala:938
+msgid "Testing connection"
+msgstr "测试连接"
+
+#: src/Gui/Dialogs/dialog_connection.vala:949
+msgid "Open connection successfully."
+msgstr "打开连接成功"
+
+#: src/Gui/Dialogs/dialog_connection.vala:951
+msgid "Failed to open connection"
+msgstr "打开连接失败"
+
+#: src/Gui/Dialogs/dialog_goto_cell.vala:37
+msgid "Row[:Column]"
+msgstr "行[:列]"
+
+#: src/Gui/Dialogs/dialog_goto_cell.vala:43
+#, c-format
+msgid "[Max sample] %d:%u"
+msgstr "[最大参考值] %d:%u"
+
+#: src/Gui/Dialogs/dialog_setting.vala:70
+#: src/Gui/Widgets/app_title_bar.vala:109
+msgid "Settings"
+msgstr "设置"
+
+#: src/Gui/Dialogs/dialog_setting.vala:268
+msgid "Editor"
+msgstr "编辑器"
+
+#: src/Gui/Dialogs/dialog_setting.vala:274
+msgid "DataGrid"
+msgstr "数据网格"
+
+#: src/Gui/Dialogs/dialog_setting.vala:286
+msgid "Network"
+msgstr "网络"
+
+#: src/Gui/Dialogs/dialog_setting.vala:293
+msgid "Logging"
+msgstr "日志"
+
+#: src/Gui/Dialogs/dialog_setting.vala:310
+msgid "Prefer dark theme"
+msgstr "选择黑色主题"
+
+#: src/Gui/Dialogs/dialog_setting.vala:324
+#, fuzzy
+msgid "Check new version"
+msgstr "校验表达式"
+
+#: src/Gui/Dialogs/dialog_setting.vala:334
+msgid "Title bar background"
+msgstr "标题栏背景图"
+
+#: src/Gui/Dialogs/dialog_setting.vala:338
+msgid "CSS background-image expresstion"
+msgstr "CSS background-image 表达式"
+
+#: src/Gui/Dialogs/dialog_setting.vala:354
+msgid "Enable highlight syntax"
+msgstr "允许语法高亮"
+
+#: src/Gui/Dialogs/dialog_setting.vala:364
+msgid "Enable autocompletion"
+msgstr "允许自动完成"
+
+#: src/Gui/Dialogs/dialog_setting.vala:374
+msgid "Enable code folding"
+msgstr "允许代码折叠"
+
+#: src/Gui/Dialogs/dialog_setting.vala:384
+msgid "Enable text wrapping"
+msgstr "允许文本自动换行"
+
+#: src/Gui/Dialogs/dialog_setting.vala:394
+msgid "Enable auto indent"
+msgstr "允许自动缩进"
+
+#: src/Gui/Dialogs/dialog_setting.vala:404
+msgid "Highlight matching brackets"
+msgstr "高亮匹配括号"
+
+#: src/Gui/Dialogs/dialog_setting.vala:414
+msgid "Highlight current line"
+msgstr "高亮显示当前行"
+
+#: src/Gui/Dialogs/dialog_setting.vala:424
+msgid "Display line numbers"
+msgstr "显示行号"
+
+#: src/Gui/Dialogs/dialog_setting.vala:434
+msgid "Insert spaces instead of tabs"
+msgstr "用空格代替Tab符"
+
+#: src/Gui/Dialogs/dialog_setting.vala:444
+msgid "Tab width(spaces)"
+msgstr "Tab符宽度(空格数)"
+
+#: src/Gui/Dialogs/dialog_setting.vala:455
+msgid "Indent width(spaces)"
+msgstr "缩进宽度(空格数)"
+
+#: src/Gui/Dialogs/dialog_setting.vala:466
+#: src/Gui/Dialogs/dialog_setting.vala:523
+msgid "Font name & size"
+msgstr "字体名称和大小"
+
+#: src/Gui/Dialogs/dialog_setting.vala:496
+msgid "Favorite edit mode"
+msgstr "首选编辑模式"
+
+#: src/Gui/Dialogs/dialog_setting.vala:512
+msgid "Max records"
+msgstr "最大行数"
+
+#: src/Gui/Dialogs/dialog_setting.vala:537
+msgid "Background(dark) color"
+msgstr "背景色(暗色)"
+
+#: src/Gui/Dialogs/dialog_setting.vala:546
+msgid "Background(light) color"
+msgstr "背景色(明亮)"
+
+#: src/Gui/Dialogs/dialog_setting.vala:555
+msgid "Background(dirty) color"
+msgstr "背景色(变更)"
+
+#: src/Gui/Dialogs/dialog_setting.vala:564
+msgid "Text column color"
+msgstr "文本列颜色"
+
+#: src/Gui/Dialogs/dialog_setting.vala:573
+msgid "Integer column color"
+msgstr "整数列颜色"
+
+#: src/Gui/Dialogs/dialog_setting.vala:582
+msgid "Float column color"
+msgstr "浮点列颜色"
+
+#: src/Gui/Dialogs/dialog_setting.vala:591
+msgid "Date & time column color"
+msgstr "日期时间列颜色"
+
+#: src/Gui/Dialogs/dialog_setting.vala:600
+msgid "Binary column color"
+msgstr "二进制列颜色"
+
+#: src/Gui/Dialogs/dialog_setting.vala:609
+msgid "Spatial column color"
+msgstr "空间列颜色"
+
+#: src/Gui/Dialogs/dialog_setting.vala:618
+msgid "Compute column color"
+msgstr "计算列颜色"
+
+#: src/Gui/Dialogs/dialog_setting.vala:627
+msgid "Other column color"
+msgstr "其它列颜色"
+
+#: src/Gui/Dialogs/dialog_setting.vala:659
+msgid "External editor"
+msgstr "外部编辑器"
+
+#: src/Gui/Dialogs/dialog_setting.vala:663
+msgid "Click icon to select executable file"
+msgstr "点击图标选择可执行文件"
+
+#: src/Gui/Dialogs/dialog_setting.vala:666
+msgid "Select text editor(.exe)"
+msgstr "选择编辑器可执行文件"
+
+#: src/Gui/Dialogs/dialog_setting.vala:694
+msgid "Enable proxy"
+msgstr "允许代理"
+
+#: src/Gui/Dialogs/dialog_setting.vala:707
+msgid "Proxy type"
+msgstr "代理类型"
+
+#: src/Gui/Dialogs/dialog_setting.vala:729 src/Gui/Layouts/view_start.vala:33
+msgid "Port"
+msgstr "监听端口"
+
+#: src/Gui/Dialogs/dialog_setting.vala:744
+msgid "Your proxy username"
+msgstr "您的代理登录用户名"
+
+#: src/Gui/Dialogs/dialog_setting.vala:753
+msgid "Your proxy password"
+msgstr "您的代理登录密码"
+
+#: src/Gui/Dialogs/dialog_setting.vala:782
+msgid "Max log file size"
+msgstr "最大日志文件大小"
+
+#: src/Gui/Dialogs/dialog_setting.vala:785
+msgid "1 MB"
+msgstr "1 MB"
+
+#: src/Gui/Dialogs/dialog_setting.vala:786
+msgid "2 MB"
+msgstr "2 MB"
+
+#: src/Gui/Dialogs/dialog_setting.vala:787
+msgid "5 MB"
+msgstr "5 MB"
+
+#: src/Gui/Dialogs/dialog_setting.vala:788
+msgid "10 MB"
+msgstr "10 MB"
+
+#: src/Gui/Dialogs/dialog_setting.vala:796
+msgid "Logger level"
+msgstr "日志级别"
+
+#: src/Gui/Dialogs/dialog_setting.vala:800
+msgid "All level messages"
+msgstr "所有日志消息"
+
+#: src/Gui/Dialogs/dialog_setting.vala:801
+#: src/Gui/Layouts/view_history.vala:102
+msgid "Level trace"
+msgstr "追踪级别"
+
+#: src/Gui/Dialogs/dialog_setting.vala:802
+#: src/Gui/Layouts/view_history.vala:103
+msgid "Level debug"
+msgstr "调试级别"
+
+#: src/Gui/Dialogs/dialog_setting.vala:803
+#: src/Gui/Layouts/view_history.vala:104
+msgid "Level information"
+msgstr "信息级别"
+
+#: src/Gui/Dialogs/dialog_setting.vala:804
+#: src/Gui/Layouts/view_history.vala:105
+msgid "Level warning"
+msgstr "警告级别"
+
+#: src/Gui/Dialogs/dialog_setting.vala:805
+#: src/Gui/Layouts/view_history.vala:106
+msgid "Level error"
+msgstr "错误级别"
+
+#: src/Gui/Dialogs/dialog_type_values.vala:66
+msgid "Value"
+msgstr "数据值"
+
+#: src/Gui/Editor/code_style.vala:45
+#, c-format
+msgid "Couldn't apply style to code view: %s"
+msgstr "无法应用样式到代码视图: %s"
+
+#: src/Gui/Editor/code_view.vala:106
+msgid "file is read-only."
+msgstr "文件只读"
+
+#: src/Gui/Layouts/menu_dbtree.vala:56
+msgid "_Open"
+msgstr "打开(_O)"
+
+#: src/Gui/Layouts/menu_dbtree.vala:63
+msgid "_Query"
+msgstr "查询(_Q)"
+
+#: src/Gui/Layouts/menu_dbtree.vala:74
+msgid "_Rename"
+msgstr "重命名(_R)"
+
+#: src/Gui/Layouts/menu_dbtree.vala:81 src/Gui/Layouts/menu_dbtree.vala:205
+msgid "Copy name"
+msgstr "复制名字"
+
+#: src/Gui/Layouts/menu_dbtree.vala:90
+msgid "_Designer"
+msgstr "设计器(_D)"
+
+#: src/Gui/Layouts/menu_dbtree.vala:97
+msgid "_Source editor"
+msgstr "源代码编辑器(_S)"
+
+#: src/Gui/Layouts/menu_dbtree.vala:108
+msgid "SQL scripts"
+msgstr "SQL 脚本"
+
+#: src/Gui/Layouts/menu_dbtree.vala:117
+msgid "_Truncate"
+msgstr "清空(_T)"
+
+#: src/Gui/Layouts/menu_dbtree.vala:123
+#, c-format
+msgid "Are you sure to delete all rows from table: %s ?"
+msgstr "确定要删除数据表( %s )中的所有数据行吗？"
+
+#: src/Gui/Layouts/menu_dbtree.vala:124 src/Gui/Layouts/menu_dbtree.vala:319
+msgid ""
+"<span foreground=\"red\">Suggest you backup your data before do this action. "
+"</span>"
+msgstr "<span foreground=\"red\">操作前建议您先备份您的数据.</span>"
+
+#: src/Gui/Layouts/menu_dbtree.vala:131
+msgid "_Delete"
+msgstr "删除(_D)"
+
+#: src/Gui/Layouts/menu_dbtree.vala:145
+msgid "Short name"
+msgstr "短名字"
+
+#: src/Gui/Layouts/menu_dbtree.vala:152
+msgid "Full name"
+msgstr "完整名字"
+
+#: src/Gui/Layouts/menu_dbtree.vala:166
+msgid "Schema to clipboard"
+msgstr "复制表结构到剪贴板"
+
+#: src/Gui/Layouts/menu_dbtree.vala:173
+msgid "Schema to file"
+msgstr "保存表结构到文件"
+
+#: src/Gui/Layouts/menu_dbtree.vala:187 src/Gui/Layouts/view_query.vala:122
+msgid "Open"
+msgstr "打开"
+
+#: src/Gui/Layouts/menu_dbtree.vala:194
+msgid "Query"
+msgstr "查询"
+
+#: src/Gui/Layouts/menu_dbtree.vala:318
+#, c-format
+msgid "Are you sure to delete %s ?"
+msgstr "确定删除 %s ？"
+
+#: src/Gui/Layouts/view_dbtree.vala:55
+msgid "Tables"
+msgstr "数据表"
+
+#: src/Gui/Layouts/view_dbtree.vala:56
+msgid "Views"
+msgstr "数据视图"
+
+#: src/Gui/Layouts/view_dbtree.vala:57
+msgid "Functions"
+msgstr "函数"
+
+#: src/Gui/Layouts/view_dbtree.vala:58
+msgid "Events"
+msgstr "事件"
+
+#: src/Gui/Layouts/view_dbtree.vala:59
+msgid "Queries"
+msgstr "查询"
+
+#: src/Gui/Layouts/view_dbtree.vala:60
+msgid "Reports"
+msgstr "报表"
+
+#: src/Gui/Layouts/view_dbtree.vala:61
+msgid "Backups"
+msgstr "备份"
+
+#: src/Gui/Layouts/view_dbtree.vala:62
+msgid "Loading..."
+msgstr "加载..."
+
+#: src/Gui/Layouts/view_dbtree.vala:82
+msgid "Refresh treeview"
+msgstr "刷新目录树"
+
+#: src/Gui/Layouts/view_dbtree.vala:89
+msgid "Search items by name"
+msgstr "搜索名字"
+
+#: src/Gui/Layouts/view_dbtree.vala:292
+#, c-format
+msgid "Delete object failed: %s"
+msgstr "删除数据库对象失败: %s"
+
+#: src/Gui/Layouts/view_dbtree.vala:314
+#, c-format
+msgid "Load database failed: %s"
+msgstr "加载数据库失败: %s"
+
+#: src/Gui/Layouts/view_dbtree.vala:378
+#, c-format
+msgid "Load table space failed: %s"
+msgstr "加载表空间失败: %s"
+
+#: src/Gui/Layouts/view_dbtree.vala:554
+msgid "Rename to new name: "
+msgstr "重命名为: "
+
+#: src/Gui/Layouts/view_dbtree.vala:574
+#, c-format
+msgid "Rename database object failed: %s"
+msgstr "重命名数据库对象失败: %s"
+
+#: src/Gui/Layouts/view_history.vala:101
+msgid "Show all logs"
+msgstr "显示所有日志"
+
+#: src/Gui/Layouts/view_history.vala:110
+#: src/Gui/Widgets/view_color_text.vala:77
+msgid "Clear all"
+msgstr "清空"
+
+#: src/Gui/Layouts/view_history.vala:111
+#: src/Gui/Widgets/view_color_text.vala:78
+msgid "Clear all log history"
+msgstr "清空所有日志"
+
+#: src/Gui/Layouts/view_history.vala:116 src/Gui/Layouts/view_history.vala:118
+#: src/Gui/Widgets/view_color_text.vala:83
+#: src/Gui/Widgets/view_color_text.vala:85
+msgid "Word wrap"
+msgstr "自动换行"
+
+#: src/Gui/Layouts/view_home.vala:68
+msgid "DBKangaroo official website"
+msgstr "袋鼠数据库工具 官方网站"
+
+#: src/Gui/Layouts/view_home.vala:135 src/Gui/Layouts/view_home.vala:144
+msgid "Donate by Wechat"
+msgstr "通过 微信支付 打赏"
+
+#: src/Gui/Layouts/view_home.vala:138 src/Gui/Layouts/view_home.vala:141
+msgid "Donate by Paypal"
+msgstr "通过 Paypal 打赏"
+
+#: src/Gui/Layouts/view_home.vala:148
+msgid "Donate by Alipay"
+msgstr "通过 支付宝 打赏"
+
+#: src/Gui/Layouts/view_query.vala:57
+msgid "Message"
+msgstr "消息"
+
+#: src/Gui/Layouts/view_query.vala:98
+msgid "Show or hide results"
+msgstr "显示或隐藏结果"
+
+#: src/Gui/Layouts/view_query.vala:108
+msgid "Execute SQL"
+msgstr "执行 SQL"
+
+#: src/Gui/Layouts/view_query.vala:109
+msgid "Execute SELECT SQL step by step"
+msgstr "逐条执行SQL"
+
+#: src/Gui/Layouts/view_query.vala:114
+msgid "Load"
+msgstr "加载"
+
+#: src/Gui/Layouts/view_query.vala:117
+msgid "Load SQL from file(.sql)..."
+msgstr "加载SQL文件(.sql)..."
+
+#: src/Gui/Layouts/view_query.vala:200
+#, c-format
+msgid "SQL invalid: %s"
+msgstr "SQL 语法错误: %s"
+
+#: src/Gui/Layouts/view_query.vala:268
+#, c-format
+msgid "Result %d"
+msgstr "查询结果 %d"
+
+#: src/Gui/Layouts/view_start.vala:33
+msgid "Vendor"
+msgstr "数据库系统"
+
+#: src/Gui/Layouts/view_start.vala:33
+msgid "SSH"
+msgstr "SSH"
+
+#: src/Gui/Layouts/view_start.vala:204
+msgid "New connection"
+msgstr "新建连接"
+
+#: src/Gui/Layouts/view_start.vala:234
+#, c-format
+msgid "Database type %s"
+msgstr "数据库类型 %s"
+
+#: src/Gui/Layouts/view_start.vala:305
+msgid "Edit connection"
+msgstr "编辑连接"
+
+#: src/Gui/Layouts/view_start.vala:312
+msgid "Clone connection"
+msgstr "克隆连接"
+
+#: src/Gui/Layouts/view_start.vala:323
+msgid "Delete connection"
+msgstr "删除连接"
+
+#: src/Gui/Layouts/view_structure.vala:67
+msgid "Input table name"
+msgstr "输入数据表名"
+
+#: src/Gui/Layouts/view_structure.vala:129
+msgid "Parse SQL failed: "
+msgstr "分析 SQL 失败: "
+
+#: src/Gui/Layouts/view_structure.vala:200
+msgid "Append"
+msgstr "添加"
+
+#: src/Gui/Layouts/view_structure.vala:202
+msgid "Append a new item on the end"
+msgstr "添加新条目"
+
+#: src/Gui/Layouts/view_structure.vala:208
+msgid "Create a new item on current position"
+msgstr "插入新条目"
+
+#: src/Gui/Layouts/view_structure.vala:214
+msgid "Delete selected item"
+msgstr "删除已选择条目"
+
+#: src/Gui/Layouts/view_structure.vala:218
+msgid "Move up"
+msgstr "上移"
+
+#: src/Gui/Layouts/view_structure.vala:220
+msgid "Move forward selected item"
+msgstr "上移已选择的条目"
+
+#: src/Gui/Layouts/view_structure.vala:224
+msgid "Move down"
+msgstr "下移"
+
+#: src/Gui/Layouts/view_structure.vala:226
+msgid "Move backward selected item"
+msgstr "下移已选择的条目"
+
+#: src/Gui/Layouts/view_structure.vala:232
+msgid "Save schema's change to database"
+msgstr "保存表结构修改"
+
+#: src/Gui/Widgets/QueryBuilder/builder_order.vala:152
+#: src/Gui/Widgets/QueryBuilder/builder_where.vala:268
+msgid "Delete all"
+msgstr "删除全部"
+
+#: src/Gui/Widgets/QueryBuilder/builder_query.vala:241
+msgid "Limit"
+msgstr "行数"
+
+#: src/Gui/Widgets/QueryBuilder/builder_query.vala:262
+msgid "Preview"
+msgstr "预览"
+
+#: src/Gui/Widgets/QueryBuilder/builder_query.vala:361
+msgid "default: -1 for all rows"
+msgstr "默认： -1 表示全部行"
+
+#: src/Gui/Widgets/app_title_bar.vala:62
+msgid "Main menu"
+msgstr "主菜单"
+
+#: src/Gui/Widgets/app_title_bar.vala:75 src/Gui/Widgets/app_title_bar.vala:107
+msgid "Open a database"
+msgstr "打开一个数据库"
+
+#: src/Gui/Widgets/app_title_bar.vala:92
+msgid "Online document"
+msgstr "在线文档"
+
+#: src/Gui/Widgets/app_title_bar.vala:95
+msgid "About"
+msgstr "关于"
+
+#: src/Gui/Widgets/app_title_bar.vala:97
+msgid "License"
+msgstr "许可证"
+
+#: src/Gui/Widgets/app_title_bar.vala:98 src/Gui/Widgets/app_title_bar.vala:111
+msgid "Help"
+msgstr "帮助"
+
+#: src/Gui/Widgets/app_title_bar.vala:99
+msgid "About kangaroo"
+msgstr "关于 袋鼠数据库工具"
+
+#: src/Gui/Widgets/app_title_bar.vala:102
+msgid "DB Tree"
+msgstr "数据库树"
+
+#: src/Gui/Widgets/app_title_bar.vala:104
+msgid "History"
+msgstr "历史"
+
+#: src/Gui/Widgets/app_title_bar.vala:110
+msgid "Report issues"
+msgstr "报告缺陷"
+
+#: src/Gui/Widgets/app_title_bar.vala:112
+msgid "Quit"
+msgstr "退出"
+
+#: src/Illuminate/Supports/Credential/credential_dbus.vala:38
+#: src/Illuminate/Supports/Credential/credential_mac.vala:25
+#: src/Illuminate/Supports/Credential/credential_mac.vala:30
+#: src/Illuminate/Supports/Credential/credential_win.vala:29
+msgid "Failed to save credential"
+msgstr "保存密匙失败"
+
+#: src/Illuminate/Supports/Credential/credential_dbus.vala:51
+#: src/Illuminate/Supports/Credential/credential_dbus.vala:66
+#: src/Illuminate/Supports/Credential/credential_dbus.vala:78
+#: src/Illuminate/Supports/Credential/credential_mac.vala:51
+#: src/Illuminate/Supports/Credential/credential_win.vala:38
+msgid "Failed to read credential"
+msgstr "读取密匙失败"
+
+#: src/Illuminate/Supports/Credential/credential_mac.vala:34
+#: src/Illuminate/Supports/Credential/credential_mac.vala:70
+msgid "Failed to find credential"
+msgstr "查找密匙失败"
+
+#: src/Illuminate/Supports/Credential/credential_mac.vala:81
+msgid "Failed to remove credential"
+msgstr "删除密匙失败"
+
+#: src/Illuminate/Supports/Credential/credential_win.vala:52
+msgid "Failed to delete credential"
+msgstr "删除密匙失败"
+
+#: src/Illuminate/Supports/Credential/credential_win.vala:62
+msgid "Failed to list credential"
+msgstr "枚举密匙失败"
+
+#: src/Illuminate/Supports/Crypto/pubkey_openssl.vala:25
+msgid "Failed to set bignum word."
+msgstr "设置大整数失败"
+
+#: src/Illuminate/Supports/Crypto/pubkey_openssl.vala:29
+msgid "Failed to generate RSA key."
+msgstr "生产RSA秘钥失败"
+
+#: src/Illuminate/Supports/Crypto/pubkey_openssl.vala:34
+msgid "Failed to set RSA engine to public key."
+msgstr "设置RSA引擎公匙失败"
+
+#: src/Illuminate/Supports/Crypto/pubkey_openssl.vala:41
+msgid "Failed to load public key."
+msgstr "加载公匙失败"
+
+#: src/Illuminate/Supports/Crypto/pubkey_openssl.vala:50
+msgid "Failed to load private key."
+msgstr "加载私匙失败"
+
+#: src/Illuminate/Supports/Crypto/pubkey_openssl.vala:77
+msgid "Failed to write private key."
+msgstr "写入私匙失败"
+
+#: src/Illuminate/Supports/Crypto/pubkey_openssl.vala:83
+msgid "Failed to write public key."
+msgstr "写入公匙失败"
+
+#: src/Illuminate/Supports/Crypto/pubkey_openssl.vala:96
+#: src/Illuminate/Supports/Crypto/pubkey_openssl.vala:117
+msgid "Failed to create public key context."
+msgstr "创建公匙上下文失败"
+
+#: src/Illuminate/Supports/Crypto/pubkey_openssl.vala:99
+msgid "Failed to call encrypt_init method."
+msgstr "调用 encrypt_init 失败"
+
+#: src/Illuminate/Supports/Crypto/pubkey_openssl.vala:102
+msgid "Failed to set encrypt parameter: PKCS1_OAEP_PADDING."
+msgstr "设置加密参数失败: PKCS1_OAEP_PADDING"
+
+#: src/Illuminate/Supports/Crypto/pubkey_openssl.vala:106
+msgid "Failed to get cipher data length."
+msgstr "获取密匙数据长度失败"
+
+#: src/Illuminate/Supports/Crypto/pubkey_openssl.vala:110
+msgid "Failed to encrypt data."
+msgstr "加密数据失败"
+
+#: src/Illuminate/Supports/Crypto/pubkey_openssl.vala:120
+msgid "Failed to call decrypt_init method."
+msgstr "调用 decrypt_init 失败"
+
+#: src/Illuminate/Supports/Crypto/pubkey_openssl.vala:123
+msgid "Failed to set decrypt parameter: PKCS1_OAEP_PADDING."
+msgstr "设置解密参数失败: PKCS1_OAEP_PADDING"
+
+#: src/Illuminate/Supports/Crypto/pubkey_openssl.vala:127
+msgid "Failed to get plain data length."
+msgstr "获取明文数据长度失败"
+
+#: src/Illuminate/Supports/Crypto/pubkey_openssl.vala:132
+msgid "Failed to decrypt data."
+msgstr "解密数据失败"
+
+#: src/Illuminate/Supports/Data/Extractors/extractor_dsv.vala:644
+#: src/Illuminate/Supports/Data/Extractors/extractor_json.vala:268
+#: src/Illuminate/Supports/Data/Extractors/extractor_json.vala:327
+#: src/Illuminate/Supports/Data/Extractors/extractor_xml.vala:273
+msgid "data model create row failed."
+msgstr "创建数据行失败"
+
+#: src/Illuminate/Supports/Data/Extractors/extractor_json.vala:138
+#: src/Illuminate/Supports/Data/Extractors/extractor_json.vala:189
+#: src/Illuminate/Supports/Data/Extractors/extractor_json.vala:241
+#: src/Illuminate/Supports/Data/Extractors/extractor_json.vala:300
+msgid "invalid json format: root object not exist."
+msgstr "无效的 JSON 格式： 根对象不存在"
+
+#: src/Illuminate/Supports/Data/Extractors/extractor_json.vala:143
+#: src/Illuminate/Supports/Data/Extractors/extractor_json.vala:194
+#: src/Illuminate/Supports/Data/Extractors/extractor_json.vala:246
+#: src/Illuminate/Supports/Data/Extractors/extractor_json.vala:305
+msgid "invalid json format: RECORDS member not exist."
+msgstr "无效的 JSON 格式： RECORDS 节点不存在"
+
+#: src/Illuminate/Supports/Data/Extractors/extractor_json.vala:148
+#: src/Illuminate/Supports/Data/Extractors/extractor_json.vala:199
+#: src/Illuminate/Supports/Data/Extractors/extractor_json.vala:251
+#: src/Illuminate/Supports/Data/Extractors/extractor_json.vala:310
+msgid "invalid json format: object array not exist."
+msgstr "无效的 JSON 格式： 对象数据不存在"
+
+#: src/Illuminate/Supports/Data/Extractors/extractor_xml.vala:71
+#: src/Illuminate/Supports/Data/Extractors/extractor_xml.vala:90
+#: src/Illuminate/Supports/Data/Extractors/extractor_xml.vala:110
+#: src/Illuminate/Supports/Data/Extractors/extractor_xml.vala:129
+msgid "load xml document failed."
+msgstr "加载 XML 文件失败"
+
+#: src/Illuminate/Supports/Data/Extractors/extractor_xml.vala:160
+msgid "data model iter invalid."
+msgstr "数据迭代指针无效"
+
+#: src/Illuminate/Supports/Network/tunnel_http.vala:96
+msgid "could not open socket!"
+msgstr "无法创建 Socket"
+
+#: src/Illuminate/Supports/Network/tunnel_ssh.vala:69
+#, c-format
+msgid "Libssh2 initialization failed (%d)"
+msgstr "libssh2 初始化失败: %d"
+
+#: src/Illuminate/Supports/Network/tunnel_ssh.vala:111
+msgid "Proxy as ssh tunnel not yet support"
+msgstr "代理作为 ssh 隧道尚未支持"
+
+#: src/Illuminate/Supports/Network/tunnel_ssh.vala:144
+#, c-format
+msgid "Error when starting up SSH session: %d"
+msgstr "启动 SSH 会话失败: %d"
+
+#: src/Illuminate/Supports/Network/tunnel_ssh.vala:165
+msgid "Authentication by password failed!"
+msgstr "密码认证失败"
+
+#: src/Illuminate/Supports/Network/tunnel_ssh.vala:181
+msgid "Authentication by public key failed!"
+msgstr "公匙认证失败"
+
+#: src/Illuminate/Supports/Network/tunnel_ssh.vala:191
+msgid "No supported authentication methods found!"
+msgstr "支持的认证方式不存在"
+
+#: src/Illuminate/Supports/Network/tunnel_ssh.vala:266
+msgid ""
+"Could not open the direct-tcpip channel! (Note that this can be a problem at "
+"the server! Please review the server logs.)"
+msgstr "无法打开 SSH 连接通道（可能服务器不支持）"
+
+#: src/attributes.vala.in:8
+msgid "Kangaroo"
+msgstr "袋鼠数据库工具"
+
+#: src/attributes.vala.in:9
+msgid "SQL client and admin tool for popular databases"
+msgstr "专为大众数据库系统打造的 SQL 客户端管理工具"
+
+#: src/attributes.vala.in:10
+msgid "Copyright 2018-2020 Kangaroo development team. All rights reserved"
+msgstr "版权所有 2018-2020 袋鼠开发组。保留的所有权利"
+
+#: src/attributes.vala.in:11
+msgid "Kangaroo official website"
+msgstr "袋鼠数据库工具 官方网站"
