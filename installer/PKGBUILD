@@ -1,0 +1,39 @@
+# Maintainer: HE Ruozhou <howard.main@outlook.com>
+pkgname=kangaroo
+pkgver=0.23.1.200518
+pkgrel=2
+pkgdesc="SQL client and admin tool for popular databases"
+arch=('x86_64')
+url="https://dbkangaroo.github.io/"
+license=('custom')
+depends=('glibc' 'gtk3' 'gdk-pixbuf2' 'libgee' 'json-glib' 
+	'libsoup' 'libgda' 'gtksourceview4' 'webkit2gtk' 'libssh2' 'openssl')
+makedepends=('curl')
+optdepends=('libgda-mysql: for MySQL support' 'libgda-postgres: for PostgreSQL support')
+provides=('kangaroo')
+#options=()
+source=("https://raw.githubusercontent.com/dbkangaroo/dbkangaroo.github.io/dev/document/license.md"
+	"https://raw.githubusercontent.com/dbkangaroo/dbkangaroo.github.io/dev/images/kangaroo.png"
+	"Kangaroo.desktop"
+        "${pkgname}_${pkgver}_arch.zip")
+sha256sums=(
+	"cb494825cc3a4e90257a424a9ff3d1e979b83e5baea01a8e4be4055ac240dbc5"
+	"aee54f115fc5b54913a81b5c03a1f166fc2e6d5f31f137475fae885ff27a34dc"
+	"ade7038ecb35c62a6abea56b15ed9b9d622f3df53e871d894c35e05616ab57dd"
+	"477cb9f6a9f9d69ccab70b2a6aa3cf17a89aeacbf7da95252afe7cf728be88ba"
+)
+
+prepare() {
+	unzip -n "${pkgname}_${pkgver}_arch.zip"
+}
+
+package() {
+	mkdir "${pkgdir}/usr/bin" -p
+	mkdir "${pkgdir}/usr/share/pixmaps" -p
+	mkdir "${pkgdir}/usr/share/licenses" -p
+	mkdir "${pkgdir}/usr/share/applications" -p
+	install -Dm755 "${srcdir}/${pkgname}" "${pkgdir}/usr/bin/${pkgname}"
+	install -Dm644 "${srcdir}/license.md" "${pkgdir}/usr/share/licenses/${pkgname}/license.md"
+	install -Dm644 "${srcdir}/${pkgname}.png" "${pkgdir}/usr/share/pixmaps/${pkgname}.png"
+	install -Dm644 "${srcdir}/Kangaroo.desktop" "${pkgdir}/usr/share/applications/Kangaroo.desktop"
+}
