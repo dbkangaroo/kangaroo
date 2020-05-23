@@ -28,7 +28,7 @@ Unicode true
 ;General
 BrandingText "Kangaroo development team"
 Name "${APP_NAME} $%VERSION%"
-OutFile "..\build\${APP_NAME}_$%VERSION%_$%PROCESSOR_ARCHITECTURE%.exe"
+OutFile "..\..\build\${APP_NAME}_$%VERSION%_$%PROCESSOR_ARCHITECTURE%.exe"
 
 ;Default compress method
 SetCompressor /SOLID /FINAL lzma
@@ -47,8 +47,8 @@ RequestExecutionLevel admin
 ;--------------------------------
 ;Interface Settings
 
-!define MUI_ICON "..\data\assets\kangaroo.ico"
-!define MUI_UNICON "..\data\assets\kangaroo.ico"
+!define MUI_ICON "..\..\data\assets\kangaroo.ico"
+!define MUI_UNICON "..\..\data\assets\kangaroo.ico"
 !define MUI_ABORTWARNING
 !define MUI_FINISHPAGE_NOAUTOCLOSE
 
@@ -174,7 +174,7 @@ Section "Install Kangaroo"
     SetShellVarContext all
 
     SetOutPath "$INSTDIR"
-    File /r "..\build\windows\*.*"
+    File /r "..\..\build\windows\*.*"
 
     ; Store installation folder
     WriteRegStr HKLM "${APP_INSTDIR_KEY}" "${APP_INSTDIR_VALUENAME}" $INSTDIR

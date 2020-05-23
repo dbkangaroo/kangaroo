@@ -119,7 +119,7 @@ fi
 
 # make windows installer(exe)
 echo -n "make windows installer......"
-makensis.exe "${SOURCEDIR}/tools/installer_windows.nsi"
+makensis.exe "${SOURCEDIR}/tools/installers/windows.nsi"
 if [ $? -eq 0 ]; then
   echo "[done]"
 else
