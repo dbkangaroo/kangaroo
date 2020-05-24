@@ -1,0 +1,32 @@
+# Maintainer: HE Ruozhou <howard.main@outlook.com>
+pkgname=kangaroo
+pkgver=${VERSION}
+pkgrel=1
+pkgdesc="SQL client and admin tool for popular databases"
+arch=('x86_64')
+url="https://dbkangaroo.github.io/"
+license=('LGPL', 'custom')
+depends=('glib2>=2.64.0' 'gtk3' 'gdk-pixbuf2' 'libgee' 'json-glib' 
+    'libsoup' 'libgda' 'gtksourceview4' 'webkit2gtk' 'libssh2' 'openssl')
+makedepends=('curl')
+optdepends=('libgda-mysql: for MySQL support' 'libgda-postgres: for PostgreSQL support')
+provides=('kangaroo')
+conflicts=('kangaroo')
+options=()
+source=("https://github.com/dbkangaroo/kangaroo/releases/download/v${pkgver}/${pkgname}_${pkgver}_arch.tar.gz")
+sha256sums=("")
+
+prepare() {
+    tar xzf "${pkgname}_${pkgver}_arch.tar.gz"
+}
+
+package() {
+    mkdir "${pkgdir}/usr/bin" -p
+    mkdir "${pkgdir}/usr/share/pixmaps" -p
+    mkdir "${pkgdir}/usr/share/licenses" -p
+    mkdir "${pkgdir}/usr/share/applications" -p
+    install -Dm755 "${startdir}/${pkgname}/${pkgname}" "${pkgdir}/usr/bin/${pkgname}"
+    install -Dm644 "${startdir}/${pkgname}/LICENSE" "${pkgdir}/usr/share/licenses/${pkgname}/LICENSE"
+    install -Dm644 "${startdir}/${pkgname}/${pkgname}.svg" "${pkgdir}/usr/share/pixmaps/${pkgname}.svg"
+    install -Dm644 "${startdir}/${pkgname}/kangaroo.desktop" "${pkgdir}/usr/share/applications/${pkgname}.desktop"
+}
