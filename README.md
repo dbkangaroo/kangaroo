@@ -20,10 +20,10 @@ Database support capability level: __Planned__ / __Partial__ / __Full(:100:)__
 # Release
 Development version will be released weekly, Stable and LTS(Long-term Support) version depend on test result and stabilization.
 
-| Platform | Windows(32 bit) | Windows(64 bit) | Linux(64 bit)   | MacOS(64 bit)   |
-|----------|-----------------|-----------------|-----------------|-----------------|
-| Stable |  | [v0.23.1.200518](https://dbkangaroo.github.io/download/v0.23.1.200518) | [v0.23.1.200518](https://dbkangaroo.github.io/download/v0.23.1.200518) | [v0.23.1.200518](https://dbkangaroo.github.io/download/v0.23.1.200518) |
-| Development |  | [v0.24.1.200525](https://dbkangaroo.github.io/download/v0.24.1.200525) | [v0.24.1.200525](https://dbkangaroo.github.io/download/v0.24.1.200525) | [v0.24.1.200525](https://dbkangaroo.github.io/download/v0.24.1.200525) |
+| Platform | Windows(64 bit) | Linux(64 bit)   | MacOS(64 bit)   |
+|----------|-----------------|-----------------|-----------------|
+| Stable | [v0.23.1.200518](https://dbkangaroo.github.io/download/v0.23.1.200518) | [v0.23.1.200518](https://dbkangaroo.github.io/download/v0.23.1.200518) | [v0.23.1.200518](https://dbkangaroo.github.io/download/v0.23.1.200518) |
+| Development | [v0.24.1.200525](https://dbkangaroo.github.io/download/v0.24.1.200525) | [v0.24.1.200525](https://dbkangaroo.github.io/download/v0.24.1.200525) | [v0.24.1.200525](https://dbkangaroo.github.io/download/v0.24.1.200525) |
 
 
 # Support the Project
