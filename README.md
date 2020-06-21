@@ -6,11 +6,11 @@ Database support capability level: __Planned__ / __Partial__ / __Full(:100:)__
 
 | Database    | Version | Query     | Editing   | Designer  | Export    | Import    | Hint      | Modeling | DB Sync |
 |-------------|---------|-----------|-----------|-----------|-----------|-----------|-----------|----------|---------|
-| SQLite      | 3.x     | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | Partial(80%) | Planned  | Planned |
-| MySQL       | 8.0     | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | Partial(80%) | Planned  | Planned |
-| MariaDB     | 10.x    | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | Partial(80%) | Planned  | Planned |
-| PostgreSQL  | 11.x    | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | Partial(80%) | Planned  | Planned |
-| Redis       | 5.x     | Planned   | Planned   | Planned   | Planned   | Planned   | Planned   | Planned  | Planned |
+| SQLite      | 3.0 +   | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | Planned  | Planned |
+| MySQL       | 5.5 +   | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | Planned  | Planned |
+| MariaDB     | 10.0 +  | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | Planned  | Planned |
+| PostgreSQL  | 9.0 +   | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | Planned  | Planned |
+| Redis       |         | Planned   | Planned   | Planned   | Planned   | Planned   | Planned   | Planned  | Planned |
 | Oracle      |         |           |           |           |           |           |           |          |         |
 | SQL Server  |         |           |           |           |           |           |           |          |         |
 
@@ -22,14 +22,13 @@ Development version will be released weekly, Stable and LTS(Long-term Support) v
 
 | Platform | Windows(64 bit) | Linux(64 bit)   | MacOS(64 bit)   |
 |----------|-----------------|-----------------|-----------------|
-| Stable | [v0.25.1.200601](https://dbkangaroo.github.io/download/v0.25.1.200601) | [v0.25.1.200601](https://dbkangaroo.github.io/download/v0.25.1.200601) | [v0.25.1.200601](https://dbkangaroo.github.io/download/v0.25.1.200601) |
+| Stable | [v0.27.1.200622](https://dbkangaroo.github.io/download/v0.27.1.200622) | [v0.27.1.200622](https://dbkangaroo.github.io/download/v0.27.1.200622) | [v0.27.1.200622](https://dbkangaroo.github.io/download/v0.27.1.200622) |
 | Development | [v0.26.1.200615](https://dbkangaroo.github.io/download/v0.26.1.200615) | [v0.26.1.200615](https://dbkangaroo.github.io/download/v0.26.1.200615) | [v0.26.1.200615](https://dbkangaroo.github.io/download/v0.26.1.200615) |
 
 
 # Support the Project
-If you like Kangaroo and you want to support its development, pls scan QR code to donate via PayPal / Wechat / Alipay.
-
-![Support project](./images/pay_wide.png)
+If you like Kangaroo and you want to support its development, you could __buy me a coffee__ or __scan QR code__ to donate via PayPal / Wechat / Alipay.
+[![./images/pay_wide.png](./images/buymeacoffee.png)](https://www.buymeacoffee.com/dbkangaroo) ![Support project](./images/pay_wide.png)
 
 # Screenshots
 ![Start page of connection](./images/kangaroo-start.png)
