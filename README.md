@@ -28,6 +28,7 @@ Development version will be released weekly, Stable and LTS(Long-term Support) v
 
 # Support the Project
 If you like Kangaroo and you want to support its development, you could __buy me a coffee__ or __scan QR code__ to donate via PayPal / Wechat / Alipay.
+
 [![./images/pay_wide.png](./images/buymeacoffee.png)](https://www.buymeacoffee.com/dbkangaroo) ![Support project](./images/pay_wide.png)
 
 # Screenshots
