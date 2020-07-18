@@ -1,5 +1,6 @@
-# Kangaroo [English](https://dbkangaroo.github.io)  [中文](https://dbkangaroo.github.io/zh/)
+# Kangaroo [Offical website](https://dbkangaroo.github.io)  [中文官网](https://dbkangaroo.github.io/zh/)
 SQL client and admin tool for popular databases(SQLite / MySQL / PostgreSQL / ...) on Windows / MacOS / Linux.
+
 
 # Support database
 Database support capability level: __Planned__ / __Partial__ / __Full(:100:)__
