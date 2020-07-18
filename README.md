@@ -1,4 +1,4 @@
-# [Kangaroo](https://dbkangaroo.github.io)
+# Kangaroo [English](https://dbkangaroo.github.io)  [中文](https://dbkangaroo.github.io/zh/)
 SQL client and admin tool for popular databases(SQLite / MySQL / PostgreSQL / ...) on Windows / MacOS / Linux.
 
 # Support database
