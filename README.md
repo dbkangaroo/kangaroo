@@ -23,7 +23,7 @@ Development version will be released weekly, Stable and LTS(Long-term Support) v
 
 | Platform | Windows(64 bit) | Linux(64 bit)   | MacOS(64 bit)   |
 |----------|-----------------|-----------------|-----------------|
-| Stable | [Kangaroo 2020(Beta 2)](https://dbkangaroo.github.io/download/v0.99.2.200907) | [Kangaroo 2020(Beta 2)](https://dbkangaroo.github.io/download/v0.99.2.200907) | [Kangaroo 2020(Beta 2)](https://dbkangaroo.github.io/download/v0.99.2.200907) |
+| Stable | [Kangaroo 2020(Beta 3)](https://dbkangaroo.github.io/download/v0.99.3.200921) | [Kangaroo 2020(Beta 3)](https://dbkangaroo.github.io/download/v0.99.3.200921) | [Kangaroo 2020(Beta 3)](https://dbkangaroo.github.io/download/v0.99.3.200921) |
 | Development | [v0.33.1.200817](https://dbkangaroo.github.io/download/v0.33.1.200817) | [v0.33.1.200817](https://dbkangaroo.github.io/download/v0.33.1.200817) | [v0.33.1.200817](https://dbkangaroo.github.io/download/v0.33.1.200817) |
 
 
