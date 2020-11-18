@@ -7,10 +7,10 @@ Database support capability level: __Planned__ / __Partial__ / __Full(:100:)__
 
 | Database    | Version | Query     | Editing   | Designer  | Export    | Import    | Hint      | Modeling | DB Sync |
 |-------------|---------|-----------|-----------|-----------|-----------|-----------|-----------|----------|---------|
-| SQLite      | 3.0 +   | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | Planned  | Planned |
-| MySQL       | 5.5 +   | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | Planned  | Planned |
-| MariaDB     | 10.0 +  | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | Planned  | Planned |
-| PostgreSQL  | 9.0 +   | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | Planned  | Planned |
+| SQLite      | 3.0 +   | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | in progress | Planned |
+| MySQL       | 5.5 +   | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | in progress | Planned |
+| MariaDB     | 10.0 +  | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | in progress | Planned |
+| PostgreSQL  | 9.0 +   | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | in progress | Planned |
 | Redis       |         | Planned   | Planned   | Planned   | Planned   | Planned   | Planned   | Planned  | Planned |
 | Oracle      |         |           |           |           |           |           |           |          |         |
 | SQL Server  |         |           |           |           |           |           |           |          |         |
