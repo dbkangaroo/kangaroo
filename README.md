@@ -24,7 +24,7 @@ Development version will be released weekly, Stable and LTS(Long-term Support) v
 | Platform | Windows(64 bit) | Linux(64 bit)   | MacOS(64 bit)   |
 |----------|-----------------|-----------------|-----------------|
 | Stable | [Kangaroo 2020(Beta 6)](https://www.datatable.online/en/download/v1.0.6.201109) | [Kangaroo 2020(Beta 6)](https://www.datatable.online/en/download/v1.0.6.201109) | [Kangaroo 2020(Beta 6)](https://www.datatable.online/en/download/v1.0.6.201109) |
-| Development | [Kangaroo 2021(Preview 1)](https://www.datatable.online/en/download/v1.3.1.201102) | [Kangaroo 2021(Preview 1)](https://www.datatable.online/en/download/v1.3.1.201102) | [Kangaroo 2021(Preview 1)](https://www.datatable.online/en/download/v1.3.1.201102) |
+| Development | [Kangaroo 2021(Preview 2)](https://www.datatable.online/en/download/v1.5.1.201231) | [Kangaroo 2021(Preview 2)](https://www.datatable.online/en/download/v1.5.1.201231) | [Kangaroo 2021(Preview 2)](https://www.datatable.online/en/download/v1.5.1.201231) |
 
 
 # Support the Project
