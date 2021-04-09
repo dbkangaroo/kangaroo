@@ -1,7 +1,7 @@
 # Kangaroo 
 Kangaroo is a SQL client and admin tool for popular databases(SQLite / MySQL / PostgreSQL / ...) on Windows / MacOS / Linux, support table design, query, model, sync, export/import etc, focus on comfortable, fun and developer friendly.
 
-English | [中文(Chinese)](./README_zh.md)
+__Read this in other languages:__ English | [中文(Chinese)](./README_zh.md)
 
 ## Official website / 官方网站
 [English](https://www.datatable.online) | [中文(Chinese)](https://www.datatable.online/zh/)
