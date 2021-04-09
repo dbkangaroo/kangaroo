@@ -1,5 +1,5 @@
 # Kangaroo 
-SQL client and admin tool for popular databases(SQLite / MySQL / PostgreSQL / ...) on Windows / MacOS / Linux.
+Kangaroo is a SQL client and admin tool for popular databases(SQLite / MySQL / PostgreSQL / ...) on Windows / MacOS / Linux, support table design, query, model, sync, export/import etc, focus on comfortable, fun and developer friendly.
 
 English | [中文(Chinese)](./README_zh.md)
 

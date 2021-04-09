@@ -1,10 +1,10 @@
 # 袋鼠数据库工具 / Kangaroo
-为热门数据库系统打造的 SQL 客户端和管理工具(SQLite / MySQL / PostgreSQL / ...) ，支持 Windows / Linux / MacOS
+袋鼠 是一款为热门数据库系统打造的管理客户端(SQLite / MySQL / PostgreSQL / ...) ，支持建表、查询、模型、同步、导入导出等功能，支持 Windows / Mac / Linux 等操作系统，力求打造成好用、好玩、开发友好的SQL工具。
 
-[英文](./README.md) | 中文
+中文 | [英文(English)](./README.md)
 
 ## 官方网站 / Official website
-[中文](https://www.datatable.online/zh/) | [英文](https://www.datatable.online)
+[中文](https://www.datatable.online/zh/) | [英文(English)](https://www.datatable.online)
 
 
 ## 支持的数据库系统
