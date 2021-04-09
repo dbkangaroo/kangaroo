@@ -1,7 +1,7 @@
 # 袋鼠数据库工具 / Kangaroo
 为热门数据库系统打造的 SQL 客户端和管理工具(SQLite / MySQL / PostgreSQL / ...) ，支持 Windows / Linux / MacOS
 
-[英文](README) | 中文
+[英文](./README) | 中文
 
 ## 官方网站 / Official website
 [中文](https://www.datatable.online/zh/) | [英文](https://www.datatable.online)

@@ -1,7 +1,7 @@
 # Kangaroo 
 SQL client and admin tool for popular databases(SQLite / MySQL / PostgreSQL / ...) on Windows / MacOS / Linux.
 
-English | [中文(Chinese)](README_zh)
+English | [中文(Chinese)](./README_zh)
 
 ## Official website / 官方网站
 [English](https://www.datatable.online) | [中文(Chinese)](https://www.datatable.online/zh/)
