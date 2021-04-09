@@ -33,19 +33,8 @@
 ![支持项目](./images/pay_wide.png) [![./images/pay_wide.png](./images/buymeacoffee.png)](https://www.buymeacoffee.com/dbkangaroo) 
 
 ## 更多技术支持
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center"><img src="https://gitee.com/dbkangaroo/kangaroo/raw/master/images/kangaroo_mp.png" width="200" height="200"  alt="微信公众号: 袋鼠数据库工具"/></td>
-    <td align="center"><img src="https://gitee.com/dbkangaroo/kangaroo/raw/master/images/kangaroo_qq.png" width="200" height="200"  alt="袋鼠宝宝QQ群"/></td>
-    <td align="center" style="width:200px;">&nbsp;&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td align="center">微信公众号</td>
-    <td align="center">QQ 交流群</td>
-    <td align="center">微信交流群</td>
-  </tr>
-</table>
+|![微信公众号](./images/kangaroo_mp.png)|![QQ 交流群](./images/kangaroo_qq.png)||
+|微信公众号|QQ 交流群|微信交流群|
 
 ## 工具界面快照
 ![链接首页](./images/kangaroo-start.png)
