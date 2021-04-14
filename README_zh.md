@@ -25,8 +25,8 @@ __其他语言版本:__ 中文 | [英文(English)](./README.md)
 
 | 版本类型    | Windows(64 bit)   | Linux(64 bit)   | MacOS(64 bit)   |
 |-------------|-------------------|-------------------|-----------------|
-| 稳定版本 | [Kangaroo 2020(Beta 6)](https://www.datatable.online/zh/download/v1.0.6.201109) | [Kangaroo 2020(Beta 6)](https://www.datatable.online/zh/download/v1.0.6.201109) | [Kangaroo 2020(Beta 6)](https://www.datatable.online/zh/download/v1.0.6.201109) |
-| 开发版本 | [Kangaroo 2021(Preview 4)](https://www.datatable.online/zh/download/v1.7.1.210331) | [Kangaroo 2021(Preview 4)](https://www.datatable.online/zh/download/v1.7.1.210331) | [Kangaroo 2021(Preview 4)](https://www.datatable.online/zh/download/v1.7.1.210331) |
+| 稳定版本 | [Kangaroo v1.0.6.201109](https://www.datatable.online/zh/download/v1.0.6.201109) | [Kangaroo v1.0.6.201109](https://www.datatable.online/zh/download/v1.0.6.201109) | [Kangaroo v1.0.6.201109](https://www.datatable.online/zh/download/v1.0.6.201109) |
+| 开发版本 | [Kangaroo v1.7.1.210331](https://www.datatable.online/zh/download/v1.7.1.210331) | [Kangaroo v1.7.1.210331](https://www.datatable.online/zh/download/v1.7.1.210331) | [Kangaroo v1.7.1.210331](https://www.datatable.online/zh/download/v1.7.1.210331) |
 
 ## 支持和赞助项目
 如果您觉得袋鼠数据库工具有用且愿意支持它持续丰富功能，您可以通过如下方式支持和赞助项目（点击链接或扫码即可通过 PayPal / 微信支持 / 支付宝付款）.<br/>
