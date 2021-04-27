@@ -48,3 +48,4 @@ If you like Kangaroo and you want to support its development, you could __buy me
 ![Kangaroo export assistant](./images/kangaroo-export.png)
 ![Kangaroo import assistant](./images/kangaroo-import.png)
 ![Kangaroo setting dialog with dark theme](./images/kangaroo-setting.png)
+![Kangaroo shortcut setting dialog](./images/kangaroo-shortcut.png)
