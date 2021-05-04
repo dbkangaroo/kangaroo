@@ -28,7 +28,7 @@ Development version will be released weekly, Stable and LTS(Long-term Support) v
 | Platform | Windows(64 bit) | Linux(64 bit)   | MacOS(64 bit)   |
 |----------|-----------------|-----------------|-----------------|
 | Stable | [Kangaroo v1.0.6.201109](https://www.datatable.online/en/download/v1.0.6.201109) | [Kangaroo v1.0.6.201109](https://www.datatable.online/en/download/v1.0.6.201109) | [Kangaroo v1.0.6.201109](https://www.datatable.online/en/download/v1.0.6.201109) |
-| Development | [Kangaroo v1.7.1.210331](https://www.datatable.online/en/download/v1.7.1.210331) | [Kangaroo v1.7.1.210331](https://www.datatable.online/en/download/v1.7.1.210331) | [Kangaroo v1.7.1.210331](https://www.datatable.online/en/download/v1.7.1.210331) |
+| Development | [Kangaroo v1.8.1.210430](https://www.datatable.online/en/download/v1.8.1.210430) | [Kangaroo v1.8.1.210430](https://www.datatable.online/en/download/v1.8.1.210430) | [Kangaroo v1.8.1.210430](https://www.datatable.online/en/download/v1.8.1.210430) |
 
 
 ## Support the Project
