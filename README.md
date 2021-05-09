@@ -4,7 +4,8 @@ Kangaroo is a SQL client and admin tool for popular databases(SQLite / MySQL / P
 __Read this in other languages:__ English | [中文(Chinese)](./README_zh.md)
 
 ## Official website / 官方网站
-[English](https://www.datatable.online) | [中文(Chinese)](https://www.datatable.online/zh/)
+[English](https://www.datatable.online/?from=github) | [中文(Chinese)](https://www.datatable.online/zh/?from=github)
+
 
 ## Support database
 Database support capability level: __Planned__ / __Partial__ / __Full(:100:)__
@@ -27,8 +28,8 @@ Development version will be released weekly, Stable and LTS(Long-term Support) v
 
 | Platform | Windows(64 bit) | Linux(64 bit)   | MacOS(64 bit)   |
 |----------|-----------------|-----------------|-----------------|
-| Stable | [Kangaroo v1.0.6.201109](https://www.datatable.online/en/download/v1.0.6.201109) | [Kangaroo v1.0.6.201109](https://www.datatable.online/en/download/v1.0.6.201109) | [Kangaroo v1.0.6.201109](https://www.datatable.online/en/download/v1.0.6.201109) |
-| Development | [Kangaroo v1.8.1.210430](https://www.datatable.online/en/download/v1.8.1.210430) | [Kangaroo v1.8.1.210430](https://www.datatable.online/en/download/v1.8.1.210430) | [Kangaroo v1.8.1.210430](https://www.datatable.online/en/download/v1.8.1.210430) |
+| Stable | [Kangaroo v1.0.6.201109](https://www.datatable.online/en/download/v1.0.6.201109?from=github&os=windows) | [Kangaroo v1.0.6.201109](https://www.datatable.online/en/download/v1.0.6.201109?from=github&os=macos) | [Kangaroo v1.0.6.201109](https://www.datatable.online/en/download/v1.0.6.201109?from=github&os=linux) |
+| Development | [Kangaroo v1.8.1.210430](https://www.datatable.online/en/download/v1.8.1.210430?from=github&os=windows) | [Kangaroo v1.8.1.210430](https://www.datatable.online/en/download/v1.8.1.210430?from=github&os=macos) | [Kangaroo v1.8.1.210430](https://www.datatable.online/en/download/v1.8.1.210430?from=github&os=linux) |
 
 
 ## Support the Project
