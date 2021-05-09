@@ -23,7 +23,7 @@ __其他语言版本:__ 中文 | [英文(English)](./README.md)
 ## 版本发布
 开发版本按周发布，计划一周或两周发布一个, 稳定版本和长周期支持版本(LTS) 根据版本质量评估情况不定期发布。
 
-| 版本类型    | Windows(64 bit)   | Linux(64 bit)   | MacOS(64 bit)   |
+| 版本类型    | Windows(64 bit)   | MacOS(64 bit)   | Linux(64 bit)   |
 |-------------|-------------------|-------------------|-----------------|
 | 稳定版本 | [Kangaroo v1.0.6.201109](https://www.datatable.online/zh/download/v1.0.6.201109?from=github&os=windows) | [Kangaroo v1.0.6.201109](https://www.datatable.online/zh/download/v1.0.6.201109?from=github&os=macos) | [Kangaroo v1.0.6.201109](https://www.datatable.online/zh/download/v1.0.6.201109?from=github&os=linux) |
 | 开发版本 | [Kangaroo v1.8.1.210430](https://www.datatable.online/zh/download/v1.8.1.210430?from=github&os=windows) | [Kangaroo v1.8.1.210430](https://www.datatable.online/zh/download/v1.8.1.210430?from=github&os=macos) | [Kangaroo v1.8.1.210430](https://www.datatable.online/zh/download/v1.8.1.210430?from=github&os=linux) |

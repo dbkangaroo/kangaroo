@@ -26,7 +26,7 @@ Database support capability level: __Planned__ / __Partial__ / __Full(:100:)__
 ## Release
 Development version will be released weekly, Stable and LTS(Long-term Support) version depend on test result and stabilization.
 
-| Platform | Windows(64 bit) | Linux(64 bit)   | MacOS(64 bit)   |
+| Platform | Windows(64 bit) | MacOS(64 bit)   | Linux(64 bit)   |
 |----------|-----------------|-----------------|-----------------|
 | Stable | [Kangaroo v1.0.6.201109](https://www.datatable.online/en/download/v1.0.6.201109?from=github&os=windows) | [Kangaroo v1.0.6.201109](https://www.datatable.online/en/download/v1.0.6.201109?from=github&os=macos) | [Kangaroo v1.0.6.201109](https://www.datatable.online/en/download/v1.0.6.201109?from=github&os=linux) |
 | Development | [Kangaroo v1.8.1.210430](https://www.datatable.online/en/download/v1.8.1.210430?from=github&os=windows) | [Kangaroo v1.8.1.210430](https://www.datatable.online/en/download/v1.8.1.210430?from=github&os=macos) | [Kangaroo v1.8.1.210430](https://www.datatable.online/en/download/v1.8.1.210430?from=github&os=linux) |
