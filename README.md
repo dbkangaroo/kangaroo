@@ -47,6 +47,7 @@ If you like Kangaroo and you want to support its development, you could __buy me
 ![Kangaroo schema designer form](./images/kangaroo-designer.png)
 ![Kangaroo schema designer form with preview](./images/kangaroo-designer2.png)
 ![Kangaroo view designer](./images/kangaroo-view.png)
+![Kangaroo visual builder](./images/kangaroo-sql-builder.png)
 ![Kangaroo export assistant](./images/kangaroo-export.png)
 ![Kangaroo import assistant](./images/kangaroo-import.png)
 ![Kangaroo setting dialog with dark theme](./images/kangaroo-setting.png)
