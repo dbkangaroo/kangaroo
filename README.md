@@ -26,10 +26,10 @@ Database support capability level: __Planned__ / __Partial__ / __Full(:100:)__
 ## Release
 Development version will be released weekly, Stable and LTS(Long-term Support) version depend on test result and stabilization.
 
-| Platform | Windows(64 bit) | MacOS(64 bit)   | Linux(64 bit)   |
-|----------|-----------------|-----------------|-----------------|
-| Stable | [Kangaroo v1.0.6.201109](https://www.datatable.online/en/download/v1.0.6.201109?from=github&os=windows) | [Kangaroo v1.0.6.201109](https://www.datatable.online/en/download/v1.0.6.201109?from=github&os=macos) | [Kangaroo v1.0.6.201109](https://www.datatable.online/en/download/v1.0.6.201109?from=github&os=linux) |
-| Development | [Kangaroo v1.9.1.210531](https://www.datatable.online/en/download/v1.9.1.210531?from=github&os=windows) | [Kangaroo v1.9.1.210531](https://www.datatable.online/en/download/v1.9.1.210531?from=github&os=macos) | [Kangaroo v1.9.1.210531](https://www.datatable.online/en/download/v1.9.1.210531?from=github&os=linux) |
+| Platform | Windows         | MacOS           | Linux           | iOS             | Android         |
+|----------|-----------------|-----------------|-----------------|-----------------|-----------------|
+| Stable | [v1.0.6](https://www.datatable.online/en/download/v1.0.6.201109?from=github&os=windows) | [v1.0.6](https://www.datatable.online/en/download/v1.0.6.201109?from=github&os=macos) | [v1.0.6](https://www.datatable.online/en/download/v1.0.6.201109?from=github&os=linux) |
+| Development | [v1.10.1](https://www.datatable.online/en/download/v1.10.1.210731?from=github&os=windows) | [v1.10.1](https://www.datatable.online/en/download/v1.10.1.210731?from=github&os=macos) | [v1.10.1](https://www.datatable.online/en/download/v1.10.1.210731?from=github&os=linux) |
 
 
 ## Support the Project
