@@ -26,8 +26,8 @@ Database support capability level: __Planned__ / __Partial__ / __Full(:100:)__
 ## Release
 Development version will be released weekly, Stable and LTS(Long-term Support) version depend on test result and stabilization.
 
-| Platform | Windows         | MacOS           | Linux           | iOS             | Android         |
-|----------|-----------------|-----------------|-----------------|-----------------|-----------------|
+| Platform | Windows         | MacOS           | Linux           | iOS             | Android         | Harmony         |
+|----------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|
 | Stable | [v1.10.1](https://www.datatable.online/en/download/v1.10.1.210731?from=github&os=windows) | [v1.10.1](https://www.datatable.online/en/download/v1.10.1.210731?from=github&os=macos) | [v1.10.1](https://www.datatable.online/en/download/v1.10.1.210731?from=github&os=linux) |
 
 
