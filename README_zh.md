@@ -32,20 +32,9 @@ __其他语言版本:__ 中文 | [英文(English)](./README.md)
 如果您觉得袋鼠数据库工具有用且愿意支持它持续丰富功能，您可以通过如下方式支持和赞助项目（点击链接或扫码即可通过 PayPal / 微信支持 / 支付宝付款）.<br/>
 ![支持项目](./images/pay_wide.png) [![./images/pay_wide.png](./images/buymeacoffee.png)](https://www.buymeacoffee.com/dbkangaroo) 
 
-## 更多技术支持
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/dbkangaroo/kangaroo/master/images/kangaroo_mp.png" width="200" height="200"  alt="微信公众号: 袋鼠数据库工具"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/dbkangaroo/kangaroo/master/images/kangaroo_qq.png" width="200" height="200"  alt="袋鼠宝宝QQ群"/></td>
-    <td align="center" style="width:200px;">&nbsp;&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td align="center">微信公众号</td>
-    <td align="center">QQ 交流群</td>
-    <td align="center">微信交流群</td>
-  </tr>
-</table>
+## 微信公众号
+为即时推送关于袋鼠的大篇幅文章和视频，故开通了微信公众号： 袋鼠数据库工具 (DataTableOnline)，有兴趣的同学可关注。 <br/>
+![袋鼠微信公众号](./images/kangaroo_mp.png)
 
 ## 工具界面快照
 ![链接首页](./images/kangaroo-start.png)
