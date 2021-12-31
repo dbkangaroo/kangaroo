@@ -28,7 +28,8 @@ Development version will be released weekly, Stable and LTS(Long-term Support) v
 
 | Platform | Windows         | MacOS           | Linux           | iOS             | Android         | Harmony         |
 |----------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|
-| Stable | [v1.10.1](https://www.datatable.online/en/download/v1.10.1.210731?from=github&os=windows) | [v1.10.1](https://www.datatable.online/en/download/v1.10.1.210731?from=github&os=macos) | [v1.10.1](https://www.datatable.online/en/download/v1.10.1.210731?from=github&os=linux) |
+| Beta | [v1.10.1](https://www.datatable.online/en/download/v1.10.1.210731?from=github&os=windows) | [v1.10.1](https://www.datatable.online/en/download/v1.10.1.210731?from=github&os=macos) | [v1.10.1](https://www.datatable.online/en/download/v1.10.1.210731?from=github&os=linux) |
+| Development | [v1.90.1](https://www.datatable.online/en/download/v1.90.1.211231?from=github&os=windows) | [v1.10.1] | [v1.10.1] |
 
 
 ## Support the Project
