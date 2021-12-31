@@ -24,7 +24,7 @@ Database support capability level: __Planned__ / __Partial__ / __Full(:100:)__
 
 
 ## Release
-Development version will be released weekly, Stable and LTS(Long-term Support) version depend on test result and stabilization.
+Development version will be released weekly, Beta and Stable version depend on test result and stabilization.
 
 | Platform | Windows         | MacOS           | Linux           | iOS             | Android         | Harmony         |
 |----------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|
