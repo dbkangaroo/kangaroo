@@ -39,7 +39,7 @@ If you like Kangaroo and you want to support its development, you could __buy me
 
 ## Screenshots
 ![Start page of connection](./images/kangaroo-start.png)
-![Tools page of connection](./images/kangaroo-workspace.png)
+![Object explorer](./images/kangaroo-explorer.png)
 ![Kangaroo grid view in table with custom columns](./images/kangaroo-grid.png)
 ![Kangaroo grid view in table with where statement](./images/kangaroo-grid2.png)
 ![Kangaroo grid view in form](./images/kangaroo-form.png)

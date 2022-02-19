@@ -39,7 +39,7 @@ __其他语言版本:__ 中文 | [英文(English)](./README.md)
 
 ## 工具界面快照
 ![链接首页](./images/kangaroo-start.png)
-![链接登录后页面](./images/kangaroo-workspace.png)
+![对象浏览界面](./images/kangaroo-explorer.png)
 ![数据网格（自定义列）](./images/kangaroo-grid.png)
 ![数据网格（条件查询）](./images/kangaroo-grid2.png)
 ![数据编辑表单](./images/kangaroo-form.png)
