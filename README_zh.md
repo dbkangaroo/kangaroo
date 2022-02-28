@@ -26,7 +26,7 @@ __其他语言版本:__ 中文 | [英文(English)](./README.md)
 | 版本类型  | Windows         | MacOS           | Linux           | iOS             | Android         | Harmony         |
 |----------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|
 | Beta | [v1.10.1](https://www.datatable.online/zh/download/v1.10.1.210731?from=github&os=windows) | [v1.10.1](https://www.datatable.online/zh/download/v1.10.1.210731?from=github&os=macos) | [v1.10.1](https://www.datatable.online/zh/download/v1.10.1.210731?from=github&os=linux) |
-| Development | [v1.91.1](https://www.datatable.online/zh/download/v1.91.1.220128?from=github&os=windows) | [v1.91.1](https://www.datatable.online/zh/download/v1.91.1.220128?from=github&os=linux) | [v1.91.1] |
+| Development | [v1.92.1](https://www.datatable.online/zh/download/v1.92.1.220228?from=github&os=windows) | [v1.92.1] | [v1.92.1](https://www.datatable.online/zh/download/v1.92.1.220228?from=github&os=linux) |
 
 
 ## 支持和赞助项目
