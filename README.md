@@ -29,17 +29,17 @@ Development version will be released weekly, Beta and Stable version depend on t
 | Platform | Windows         | MacOS           | Linux           | iOS             | Android         | Harmony         |
 |----------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|
 | Beta | [v1.10.2](https://www.datatable.online/en/download/v1.10.2.220701?from=github&os=windows) | [v1.10.2](https://www.datatable.online/en/download/v1.10.2.220701?from=github&os=macos) | [v1.10.2](https://www.datatable.online/en/download/v1.10.2.220701?from=github&os=linux) |
-| Development | [v1.98.1](https://www.datatable.online/en/download/v1.98.1.220904?from=github&os=windows) | [v1.98.1] | [v1.98.1](https://www.datatable.online/en/download/v1.98.1.220904?from=github&os=linux) |
+| Development | [v1.99.1](https://www.datatable.online/en/download/v1.99.1.221001?from=github&os=windows) | [v1.99.1] | [v1.99.1](https://www.datatable.online/en/download/v1.99.1.221001?from=github&os=linux) |
 
 
 ## Support the Project
-If you like Kangaroo and you want to support its development, you could __buy me a coffee__ or __scan QR code__ to donate via PayPal / Wechat / Alipay.
-
-[![./images/pay_wide.png](./images/buymeacoffee.png)](https://www.buymeacoffee.com/dbkangaroo) ![Support project](./images/pay_wide.png)
+If you like Kangaroo and you want to support its development, you could __scan QR code__ to donate via PayPal / Wechat / Alipay.<br/>
+![Support project](./images/pay_wide.png)
 
 ## Screenshots
 ![Start page of connection](./images/kangaroo-start.png)
 ![Object explorer](./images/kangaroo-explorer.png)
+![Object search](./images/kangaroo-search.png)
 ![Kangaroo grid view in table with custom columns](./images/kangaroo-grid.png)
 ![Kangaroo grid view in table with where statement](./images/kangaroo-grid2.png)
 ![Kangaroo grid view in form](./images/kangaroo-form.png)
