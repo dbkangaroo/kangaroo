@@ -21,12 +21,12 @@ __其他语言版本:__ 中文 | [英文(English)](./README.md)
 | SQL Server  |         |           |           |           |           |           |           |          |         |
 
 ## 版本发布
-开发版本按周发布，计划一周或两周发布一个, Beta 版本和稳定版本根据版本质量评估情况不定期发布。
+从 2023年开始，开发版本统一使用一个版本号发布，App 版本和发布包定期更新，计划一周或两周发布一个, Beta 版本和稳定版本根据版本质量评估情况不定期发布。
 
 | 版本类型  | Windows         | MacOS           | Linux           | iOS             | Android         | Harmony         |
 |----------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|
-| Beta | [v1.10.2](https://www.datatable.online/zh/download/v1.10.2.220701?from=github&os=windows) | [v1.10.2](https://www.datatable.online/zh/download/v1.10.2.220701?from=github&os=macos) | [v1.10.2](https://www.datatable.online/zh/download/v1.10.2.220701?from=github&os=linux) |
-| Development | [v1.99.1](https://www.datatable.online/zh/download/v1.99.1.221001?from=github&os=windows) | [v1.99.1] | [v1.99.1](https://www.datatable.online/zh/download/v1.99.1.221001?from=github&os=linux) |
+| Beta | [v2.0.0](https://www.datatable.online/zh/download/v2.0.0.221101?from=github&os=windows) | [v2.0.0](https://www.datatable.online/zh/download/v2.0.0.221101?from=github&os=macos) | [v2.0.0](https://www.datatable.online/zh/download/v2.0.0.221101?from=github&os=linux) |
+| Development | [vNext](https://www.datatable.online/en/download/vNext?from=github&os=windows) | [vNext](https://www.datatable.online/en/download/vNext?from=github&os=macos) | [vNext](https://www.datatable.online/en/download/vNext?from=github&os=linux) |
 
 
 ## 支持和赞助项目
