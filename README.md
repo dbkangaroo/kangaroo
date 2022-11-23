@@ -26,10 +26,11 @@ Database support capability level: __Planned__ / __Partial__ / __Full(:100:)__
 ## Release
 Development version keep one version(vNext) only from year 2023, App version and its packages will be updated regularly(one or two weeks), Beta and Stable version depend on test result and stabilization.
 
-| Platform | Windows         | MacOS           | Linux           | iOS             | Android         | Harmony         |
+| Architect | Windows         | MacOS           | Linux           | iOS             | Android         | Harmony         |
 |----------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|
-| Beta | [v2.0.0](https://www.datatable.online/en/download/v2.0.0.221101?from=github&os=windows) | [v2.0.0](https://www.datatable.online/en/download/v2.0.0.221101?from=github&os=macos) | [v2.0.0](https://www.datatable.online/en/download/v2.0.0.221101?from=github&os=linux) |
-| Development | [vNext](https://www.datatable.online/en/download/vNext?from=github&os=windows) | [vNext](https://www.datatable.online/en/download/vNext?from=github&os=macos) | [vNext](https://www.datatable.online/en/download/vNext?from=github&os=linux) |
+| x86-64 | [v2.1.1](https://www.datatable.online/en/download/v2.1.1.221201?from=github&os=windows) | [v2.1.1](https://www.datatable.online/en/download/v2.1.1.221201?from=github&os=macos) | [v2.1.1](https://www.datatable.online/en/download/v2.1.1.221201?from=github&os=linux) |
+| ARM64 | | | | | | |
+| RISCV64 | | | | | | |
 
 
 ## Support the Project
