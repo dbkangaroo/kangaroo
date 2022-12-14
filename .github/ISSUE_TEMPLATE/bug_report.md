@@ -8,9 +8,9 @@ assignees: ''
 ---
 
 **Enviroment (please complete the following information):**
-- OS: [e.g. Windows 10.xxxx x86-64/arm64]
-- Database [e.g. SQLite/MySQL/MariaDB/PostgreSQL 8.xxx]
-- Kangaroo Version [2.x.x.xxxx]
+- Arch and OS: [e.g. Windows 10.xxxx x86-64/arm64]
+- Database version [e.g. SQLite/MySQL/MariaDB/PostgreSQL 8.xxx]
+- Kangaroo version [2.x.x.xxxx]
 
 **Describe the bug**
 A clear and concise description of what the bug is.
