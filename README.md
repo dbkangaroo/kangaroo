@@ -28,7 +28,7 @@ Development version keep one version(vNext) only from year 2023, App version and
 
 | Architect | Windows         | MacOS           | Linux           | iOS             | Android         | Harmony         |
 |----------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|
-| x86-64 | [v2.2.1](https://www.datatable.online/en/download/v2.2.1.230101?from=github&os=windows) | [v2.2.1](https://www.datatable.online/en/download/v2.2.1.230101?from=github&os=macos) | [v2.2.1](https://www.datatable.online/en/download/v2.2.1.230101?from=github&os=linux) |
+| x86-64 | [v2.3.1](https://www.datatable.online/en/download/v2.3.1.230201?from=github&os=windows) | [v2.3.1](https://www.datatable.online/en/download/v2.3.1.230201?from=github&os=macos) | [v2.3.1](https://www.datatable.online/en/download/v2.3.1.230201?from=github&os=linux) |
 | ARM64 | | | | | | |
 | RISCV64 | | | | | | |
 
@@ -41,6 +41,7 @@ If you like Kangaroo and you want to support its development, you could __scan Q
 ![Start page of connection](./images/kangaroo-start.png)
 ![Object explorer](./images/kangaroo-explorer.png)
 ![Object search](./images/kangaroo-search.png)
+![Kangaroo split view](./images/kangaroo-workspace.png)
 ![Kangaroo grid view in table with custom columns](./images/kangaroo-grid.png)
 ![Kangaroo grid view in table with where statement](./images/kangaroo-grid2.png)
 ![Kangaroo grid view in form](./images/kangaroo-form.png)

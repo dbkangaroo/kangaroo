@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kangaroo\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-27 18:16+0800\n"
+"POT-Creation-Date: 2023-01-26 15:25+0800\n"
 "PO-Revision-Date: 2021-03-01 17:24+0800\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -122,13 +122,13 @@ msgstr ""
 
 #: Illuminate/Supports/Data/Documents/document_html.vala:86
 #: Illuminate/Supports/Data/Documents/document_md.vala:38
-#: Kangaroo/Resource/ui/workspace.ui:118
+#: Kangaroo/Resource/ui/workspace.ui:119
 msgid "Data table"
 msgstr ""
 
 #: Illuminate/Supports/Data/Documents/document_html.vala:92
 #: Illuminate/Supports/Data/Documents/document_md.vala:44
-#: Kangaroo/Resource/ui/workspace.ui:147
+#: Kangaroo/Resource/ui/workspace.ui:148
 msgid "Data view"
 msgstr ""
 
@@ -166,13 +166,12 @@ msgstr ""
 #: Illuminate/Supports/Data/Documents/document_md.vala:86
 #: Illuminate/Supports/Data/Documents/document_md.vala:113
 #: Kangaroo/Actions/action_table.vala:106 Kangaroo/DataGrid/dataview.vala:426
-#: Kangaroo/DataGrid/dataview.vala:481
-#: Kangaroo/Dialogs/dialog_connection.vala:620
-#: Kangaroo/Dialogs/dialog_documents.vala:261
-#: Kangaroo/Dialogs/dialog_message.vala:48
-#: Kangaroo/Objects/Query/query.vala:273 Kangaroo/Objects/Query/query.vala:297
-#: Kangaroo/Objects/Query/query.vala:424 Kangaroo/Objects/Query/query.vala:448
-#: Kangaroo/Objects/Query/query.vala:462 Kangaroo/Objects/Query/query.vala:477
+#: Kangaroo/DataGrid/dataview.vala:480
+#: Kangaroo/Dialogs/dialog_connection.vala:651
+#: Kangaroo/Dialogs/dialog_documents.vala:270
+#: Kangaroo/Objects/Query/query.vala:248 Kangaroo/Objects/Query/query.vala:268
+#: Kangaroo/Objects/Query/query.vala:415 Kangaroo/Objects/Query/query.vala:438
+#: Kangaroo/Objects/Query/query.vala:452 Kangaroo/Objects/Query/query.vala:466
 msgid "No"
 msgstr ""
 
@@ -184,15 +183,14 @@ msgstr ""
 #: Illuminate/Supports/Data/Documents/document_md.vala:87
 #: Illuminate/Supports/Data/Documents/document_md.vala:113
 #: Illuminate/Supports/Data/Documents/document_md.vala:114
-#: Kangaroo/Actions/action_application.vala:62
-#: Kangaroo/Actions/action_table.vala:105 Kangaroo/DataGrid/dataview.vala:426
-#: Kangaroo/DataGrid/dataview.vala:481
-#: Kangaroo/Dialogs/dialog_connection.vala:620
-#: Kangaroo/Dialogs/dialog_documents.vala:261
-#: Kangaroo/Dialogs/dialog_message.vala:47
-#: Kangaroo/Objects/Query/query.vala:273 Kangaroo/Objects/Query/query.vala:297
-#: Kangaroo/Objects/Query/query.vala:424 Kangaroo/Objects/Query/query.vala:448
-#: Kangaroo/Objects/Query/query.vala:462 Kangaroo/Objects/Query/query.vala:477
+#: Kangaroo/Actions/action_application.vala:66
+#: Kangaroo/Actions/action_table.vala:107 Kangaroo/DataGrid/dataview.vala:426
+#: Kangaroo/DataGrid/dataview.vala:480
+#: Kangaroo/Dialogs/dialog_connection.vala:651
+#: Kangaroo/Dialogs/dialog_documents.vala:270
+#: Kangaroo/Objects/Query/query.vala:248 Kangaroo/Objects/Query/query.vala:268
+#: Kangaroo/Objects/Query/query.vala:415 Kangaroo/Objects/Query/query.vala:438
+#: Kangaroo/Objects/Query/query.vala:452 Kangaroo/Objects/Query/query.vala:466
 #: Kangaroo/Starter/view_home.vala:294
 msgid "Yes"
 msgstr ""
@@ -348,7 +346,7 @@ msgstr ""
 #: Kangaroo/Dialogs/dialog_columns_postgres.vala:49
 #: Kangaroo/Dialogs/dialog_columns_sqlite.vala:38
 #: Kangaroo/Dialogs/dialog_documents.vala:66
-#: Kangaroo/Dialogs/dialog_entities.vala:137
+#: Kangaroo/Dialogs/dialog_entities.vala:138
 #: Kangaroo/Resource/ui/Dialogs/connection.ui:315
 #: Kangaroo/Resource/ui/Objects/Function/general_mysql.ui:200
 #: Kangaroo/Resource/ui/Objects/Function/general_postgresql.ui:202
@@ -364,7 +362,7 @@ msgstr ""
 #: Kangaroo/Resource/ui/Objects/Model/shape.ui:9
 #: Kangaroo/Resource/ui/Objects/Model/shape.ui:14
 #: Kangaroo/Resource/ui/Objects/Model/text.ui:14
-#: Kangaroo/Resource/ui/Objects/Search/search.ui:87
+#: Kangaroo/Resource/ui/Objects/Search/search.ui:89
 #: Kangaroo/Resource/ui/Objects/Table/mysql/check.ui:37
 #: Kangaroo/Resource/ui/Objects/Table/mysql/column.ui:43
 #: Kangaroo/Resource/ui/Objects/Table/mysql/foreign.ui:37
@@ -384,6 +382,7 @@ msgstr ""
 #: Kangaroo/Resource/ui/Objects/Table/sqlite/index.ui:37
 #: Kangaroo/Resource/ui/Objects/Table/sqlite/trigger.ui:37
 #: Kangaroo/Resource/ui/Objects/Table/sqlite/unique.ui:37
+#: Kangaroo/Resource/ui/Panes/file.ui:43
 #: Kangaroo/Resource/ui/starter/starter.ui:134
 msgid "Name"
 msgstr ""
@@ -504,8 +503,8 @@ msgstr ""
 #: Illuminate/Supports/Database/PostgreSQL/postgres_explorer.vala:721
 #: Kangaroo/Objects/Database/database.vala:128
 #: Kangaroo/Objects/Database/database.vala:146
-#: Kangaroo/Objects/Function/routine.vala:242
-#: Kangaroo/Objects/Function/routine.vala:287
+#: Kangaroo/Objects/Function/routine.vala:213
+#: Kangaroo/Objects/Function/routine.vala:258
 #: Kangaroo/Objects/Index/index.vala:89
 #: Kangaroo/Objects/Table/MySQL/column.vala:484
 #: Kangaroo/Objects/Table/MySQL/index.vala:319
@@ -652,7 +651,7 @@ msgstr ""
 #: Kangaroo/Resource/ui/Objects/Table/sqlite/column.ui:58
 #: Kangaroo/Resource/ui/Objects/Trigger/general_postgresql.ui:24
 #: Kangaroo/Resource/ui/Objects/Trigger/general_sqlite.ui:24
-#: Kangaroo/Resource/ui/dumper.ui:49 Kangaroo/Resource/ui/workspace.ui:690
+#: Kangaroo/Resource/ui/dumper.ui:49 Kangaroo/Resource/ui/workspace.ui:881
 msgid "Type"
 msgstr ""
 
@@ -672,16 +671,16 @@ msgstr ""
 #: Illuminate/Supports/Database/PostgreSQL/postgres_explorer.vala:373
 #: Illuminate/Supports/Database/SQLite/sqlite_explorer.vala:130
 #: Kangaroo/Assistants/Export/page_tables.vala:227
-#: Kangaroo/Dialogs/dialog_documents.vala:313
+#: Kangaroo/Dialogs/dialog_documents.vala:321
 #: Kangaroo/Objects/Explorer/explorer.vala:66
-#: Kangaroo/Objects/Search/search.vala:146 Kangaroo/dumper.vala:348
+#: Kangaroo/Objects/Search/search.vala:146 Kangaroo/dumper.vala:335
 #: Kangaroo/Resource/ui/Assistants/Import/column.ui:55
 #: Kangaroo/Resource/ui/Objects/Model/menu.ui:9
 #: Kangaroo/Resource/ui/Objects/Model/toolbar.ui:202
-#: Kangaroo/Resource/ui/Objects/Search/search.ui:33
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:576
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:763
-#: Kangaroo/Resource/ui/workspace.ui:134
+#: Kangaroo/Resource/ui/Objects/Search/search.ui:35
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:579
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:766
+#: Kangaroo/Resource/ui/workspace.ui:135
 msgid "Table"
 msgstr ""
 
@@ -758,7 +757,7 @@ msgstr ""
 #: Illuminate/Supports/Database/PostgreSQL/postgres_explorer.vala:572
 #: Kangaroo/Objects/Explorer/explorer.vala:62
 #: Kangaroo/Resource/ui/Objects/Table/postgresql/rule.ui:58
-#: Kangaroo/Resource/ui/workspace.ui:575 Kangaroo/Resource/ui/workspace.ui:598
+#: Kangaroo/Resource/ui/workspace.ui:766 Kangaroo/Resource/ui/workspace.ui:789
 msgid "Event"
 msgstr ""
 
@@ -925,14 +924,14 @@ msgstr ""
 #: Illuminate/Supports/Database/PostgreSQL/postgres_explorer.vala:183
 #: Illuminate/Supports/Database/PostgreSQL/postgres_explorer.vala:206
 #: Kangaroo/Objects/Explorer/explorer.vala:62
-#: Kangaroo/Objects/Search/search.vala:158 Kangaroo/dumper.vala:352
-#: Kangaroo/Resource/ui/Objects/Search/search.ui:37
+#: Kangaroo/Objects/Search/search.vala:158 Kangaroo/dumper.vala:339
+#: Kangaroo/Resource/ui/Objects/Search/search.ui:39
 #: Kangaroo/Resource/ui/Objects/Trigger/general_postgresql.ui:215
 msgid "Function"
 msgstr ""
 
 #: Illuminate/Supports/Database/PostgreSQL/postgres_explorer.vala:154
-#: Kangaroo/Resource/ui/executor.ui:38
+#: Kangaroo/Resource/ui/executor.ui:38 Kangaroo/Resource/ui/workspace.ui:564
 msgid "Context"
 msgstr ""
 
@@ -1053,7 +1052,7 @@ msgstr ""
 #: Kangaroo/Objects/Explorer/explorer.vala:63
 #: Kangaroo/Resource/ui/Objects/Function/advanced_mysql.ui:105
 #: Kangaroo/Resource/ui/Objects/Function/advanced_postgresql.ui:41
-#: Kangaroo/Resource/ui/workspace.ui:648
+#: Kangaroo/Resource/ui/workspace.ui:839
 msgid "Language"
 msgstr ""
 
@@ -1077,7 +1076,7 @@ msgstr ""
 #: Kangaroo/Objects/Explorer/explorer.vala:66
 #: Kangaroo/Resource/ui/Objects/Database/general_postgresql.ui:118
 #: Kangaroo/Resource/ui/Objects/View/advanced_materialized.ui:37
-#: Kangaroo/Resource/ui/workspace.ui:570 Kangaroo/Resource/ui/workspace.ui:631
+#: Kangaroo/Resource/ui/workspace.ui:761 Kangaroo/Resource/ui/workspace.ui:822
 msgid "Tablespace"
 msgstr ""
 
@@ -1260,6 +1259,7 @@ msgid "Row security"
 msgstr ""
 
 #: Illuminate/Supports/Database/PostgreSQL/postgres_explorer.vala:545
+#: Kangaroo/Resource/ui/Panes/file.ui:129
 msgid "Location"
 msgstr ""
 
@@ -1311,13 +1311,13 @@ msgstr ""
 
 #: Illuminate/Supports/Database/PostgreSQL/postgres_explorer.vala:588
 #: Kangaroo/Objects/Explorer/explorer.vala:63
-#: Kangaroo/Resource/ui/workspace.ui:176 Kangaroo/Resource/ui/workspace.ui:192
+#: Kangaroo/Resource/ui/workspace.ui:177 Kangaroo/Resource/ui/workspace.ui:193
 msgid "Index"
 msgstr ""
 
 #: Illuminate/Supports/Database/PostgreSQL/postgres_explorer.vala:591
 #: Kangaroo/Objects/Explorer/explorer.vala:65
-#: Kangaroo/Resource/ui/workspace.ui:608 Kangaroo/Resource/ui/workspace.ui:685
+#: Kangaroo/Resource/ui/workspace.ui:799 Kangaroo/Resource/ui/workspace.ui:876
 msgid "Sequence"
 msgstr ""
 
@@ -1328,18 +1328,18 @@ msgstr ""
 #: Illuminate/Supports/Database/PostgreSQL/postgres_explorer.vala:597
 #: Illuminate/Supports/Database/SQLite/sqlite_explorer.vala:130
 #: Kangaroo/Assistants/Export/page_tables.vala:227
-#: Kangaroo/Dialogs/dialog_documents.vala:321
+#: Kangaroo/Dialogs/dialog_documents.vala:329
 #: Kangaroo/Objects/Explorer/explorer.vala:67
-#: Kangaroo/Objects/Search/search.vala:149 Kangaroo/dumper.vala:350
+#: Kangaroo/Objects/Search/search.vala:149 Kangaroo/dumper.vala:337
 #: Kangaroo/Resource/ui/Objects/Model/menu.ui:14
 #: Kangaroo/Resource/ui/Objects/Model/toolbar.ui:230
-#: Kangaroo/Resource/ui/Objects/Search/search.ui:34
-#: Kangaroo/Resource/ui/workbench.ui:136 Kangaroo/Resource/ui/workspace.ui:163
+#: Kangaroo/Resource/ui/Objects/Search/search.ui:36
+#: Kangaroo/Resource/ui/workspace.ui:164
 msgid "View"
 msgstr ""
 
 #: Illuminate/Supports/Database/PostgreSQL/postgres_explorer.vala:600
-#: Kangaroo/Resource/ui/workspace.ui:653
+#: Kangaroo/Resource/ui/workspace.ui:844
 msgid "Materialized view"
 msgstr ""
 
@@ -1381,9 +1381,9 @@ msgid "Input"
 msgstr ""
 
 #: Illuminate/Supports/Database/PostgreSQL/postgres_explorer.vala:656
-#: Kangaroo/Resource/ui/Objects/Function/function.ui:35
-#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:34
-#: Kangaroo/Resource/ui/Objects/View/view.ui:36
+#: Kangaroo/Resource/ui/Objects/Function/function.ui:37
+#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:36
+#: Kangaroo/Resource/ui/Objects/View/view.ui:38
 msgid "Output"
 msgstr ""
 
@@ -1483,56 +1483,25 @@ msgstr ""
 msgid "Application level actions"
 msgstr ""
 
-#: Kangaroo/Actions/action_application.vala:62
+#: Kangaroo/Actions/action_application.vala:66
 #: Kangaroo/Actions/action_explorer.vala:512
-#: Kangaroo/Actions/action_explorer.vala:602
-#: Kangaroo/Actions/action_explorer.vala:748
-#: Kangaroo/Actions/action_explorer.vala:789
-#: Kangaroo/Actions/action_explorer.vala:899
-#: Kangaroo/Actions/action_repository.vala:265
-#: Kangaroo/Actions/action_repository.vala:292
-#: Kangaroo/Actions/action_repository.vala:400
-#: Kangaroo/Actions/action_repository.vala:518
-#: Kangaroo/Actions/action_starter.vala:130
-#: Kangaroo/Assistants/Export/page_format.vala:63
-#: Kangaroo/Assistants/Import/page_format.vala:99
-#: Kangaroo/DataGrid/cellview.vala:75 Kangaroo/DataGrid/cellview.vala:118
-#: Kangaroo/DataGrid/dataview.vala:426 Kangaroo/DataGrid/dataview.vala:481
-#: Kangaroo/Dialogs/attach_database.vala:48
-#: Kangaroo/Dialogs/dialog_connection.vala:390
-#: Kangaroo/Dialogs/dialog_connection.vala:426
-#: Kangaroo/Dialogs/dialog_connection.vala:458
-#: Kangaroo/Dialogs/dialog_connection.vala:481
-#: Kangaroo/Dialogs/dialog_connection.vala:506
-#: Kangaroo/Dialogs/dialog_connection.vala:531
-#: Kangaroo/Dialogs/dialog_connection.vala:637
-#: Kangaroo/Dialogs/dialog_documents.vala:166
+#: Kangaroo/Actions/action_explorer.vala:600
+#: Kangaroo/Actions/action_explorer.vala:872
+#: Kangaroo/Actions/action_repository.vala:274
+#: Kangaroo/Actions/action_repository.vala:301
+#: Kangaroo/Actions/action_repository.vala:503
+#: Kangaroo/Actions/action_starter.vala:130 Kangaroo/DataGrid/dataview.vala:426
+#: Kangaroo/DataGrid/dataview.vala:480
 #: Kangaroo/Dialogs/dialog_goto_cell.vala:50
-#: Kangaroo/Dialogs/dialog_message.vala:49
-#: Kangaroo/Dialogs/dialog_preferences.vala:301
-#: Kangaroo/Dialogs/dialog_preferences.vala:456
 #: Kangaroo/Dialogs/dialog_sql_builder.vala:68
 #: Kangaroo/Dialogs/dialog_view_code.vala:63
 #: Kangaroo/Dialogs/dialog_view_text.vala:56
-#: Kangaroo/Helpers/helper_action.vala:55
-#: Kangaroo/Objects/Content/builder.vala:292
-#: Kangaroo/Objects/Content/builder.vala:335
-#: Kangaroo/Objects/Content/content.vala:105
-#: Kangaroo/Objects/Function/routine.vala:110
-#: Kangaroo/Objects/Model/helper.vala:59 Kangaroo/Objects/Model/helper.vala:95
-#: Kangaroo/Objects/Model/helper.vala:132
-#: Kangaroo/Objects/Model/view_model.vala:96
-#: Kangaroo/Objects/Query/query.vala:183 Kangaroo/Objects/Query/query.vala:330
-#: Kangaroo/Objects/Query/query.vala:389 Kangaroo/Objects/Role/role.vala:89
-#: Kangaroo/Objects/Table/table.vala:98 Kangaroo/Objects/User/user.vala:89
-#: Kangaroo/Objects/View/view.vala:164 Kangaroo/Starter/view_home.vala:294
-#: Kangaroo/dumper.vala:244 Kangaroo/executor.vala:118
-#: Kangaroo/workspace.vala:219
+#: Kangaroo/Starter/view_home.vala:294 Kangaroo/workspace.vala:275
 #: Kangaroo/Resource/ui/Dialogs/attach_database.ui:93
 #: Kangaroo/Resource/ui/Dialogs/columns.ui:79
 #: Kangaroo/Resource/ui/Dialogs/connection.ui:814
 #: Kangaroo/Resource/ui/Dialogs/documents.ui:165
-#: Kangaroo/Resource/ui/Dialogs/entities.ui:49
+#: Kangaroo/Resource/ui/Dialogs/entities.ui:126
 msgid "Cancel"
 msgstr ""
 
@@ -1573,66 +1542,66 @@ msgid "Object explorer actions"
 msgstr ""
 
 #: Kangaroo/Actions/action_explorer.vala:321
-#: Kangaroo/Actions/action_repository.vala:138
+#: Kangaroo/Actions/action_repository.vala:147
 #: Kangaroo/Actions/action_search.vala:131
 #, c-format
 msgid "%s - Query"
 msgstr ""
 
 #: Kangaroo/Actions/action_explorer.vala:431
-#: Kangaroo/Actions/action_repository.vala:91
+#: Kangaroo/Actions/action_repository.vala:100
 msgid "New database"
 msgstr ""
 
 #: Kangaroo/Actions/action_explorer.vala:436
 #: Kangaroo/Actions/action_explorer.vala:480
-#: Kangaroo/Actions/action_repository.vala:96
+#: Kangaroo/Actions/action_repository.vala:105
 msgid "New function"
 msgstr ""
 
 #: Kangaroo/Actions/action_explorer.vala:439
 #: Kangaroo/Actions/action_explorer.vala:489
-#: Kangaroo/Actions/action_repository.vala:99
+#: Kangaroo/Actions/action_repository.vala:108
 msgid "New procedure"
 msgstr ""
 
 #: Kangaroo/Actions/action_explorer.vala:442
-#: Kangaroo/Actions/action_repository.vala:102
+#: Kangaroo/Actions/action_repository.vala:111
 msgid "New index"
 msgstr ""
 
 #: Kangaroo/Actions/action_explorer.vala:445
-#: Kangaroo/Actions/action_repository.vala:105
+#: Kangaroo/Actions/action_repository.vala:114
 msgid "New materialized view"
 msgstr ""
 
 #: Kangaroo/Actions/action_explorer.vala:448
-#: Kangaroo/Actions/action_repository.vala:108
+#: Kangaroo/Actions/action_repository.vala:117
 msgid "New table"
 msgstr ""
 
 #: Kangaroo/Actions/action_explorer.vala:451
-#: Kangaroo/Actions/action_repository.vala:111
+#: Kangaroo/Actions/action_repository.vala:120
 msgid "New trigger"
 msgstr ""
 
 #: Kangaroo/Actions/action_explorer.vala:454
-#: Kangaroo/Actions/action_repository.vala:114
+#: Kangaroo/Actions/action_repository.vala:123
 msgid "New role"
 msgstr ""
 
 #: Kangaroo/Actions/action_explorer.vala:460
-#: Kangaroo/Actions/action_repository.vala:118
+#: Kangaroo/Actions/action_repository.vala:127
 msgid "New schema"
 msgstr ""
 
 #: Kangaroo/Actions/action_explorer.vala:464
-#: Kangaroo/Actions/action_repository.vala:122
+#: Kangaroo/Actions/action_repository.vala:131
 msgid "New user"
 msgstr ""
 
 #: Kangaroo/Actions/action_explorer.vala:467
-#: Kangaroo/Actions/action_repository.vala:125
+#: Kangaroo/Actions/action_repository.vala:134
 #: Kangaroo/Resource/ui/repository/menu_mariadb.ui:283
 #: Kangaroo/Resource/ui/repository/menu_mysql.ui:283
 #: Kangaroo/Resource/ui/repository/menu_odbc.ui:261
@@ -1645,21 +1614,20 @@ msgid "Are you sure to delete selected items?"
 msgstr ""
 
 #: Kangaroo/Actions/action_explorer.vala:511
-#: Kangaroo/Actions/action_explorer.vala:601
-#: Kangaroo/Actions/action_repository.vala:264
-#: Kangaroo/Actions/action_repository.vala:291
+#: Kangaroo/Actions/action_explorer.vala:599
+#: Kangaroo/Actions/action_repository.vala:273
 msgid ""
 "<span foreground=\"red\">Suggest you backup your data before do this action. "
 "</span>"
 msgstr ""
 
 #: Kangaroo/Actions/action_explorer.vala:512
-#: Kangaroo/Actions/action_repository.vala:292
+#: Kangaroo/Actions/action_repository.vala:301
 #: Kangaroo/Resource/ui/Assistants/option_dsv.ui:151
 #: Kangaroo/Resource/ui/Dialogs/connection.ui:227
 #: Kangaroo/Resource/ui/Objects/Content/builder.ui:501
 #: Kangaroo/Resource/ui/Objects/Content/builder.ui:515
-#: Kangaroo/Resource/ui/Objects/Explorer/explorer.ui:122
+#: Kangaroo/Resource/ui/Objects/Explorer/explorer.ui:124
 #: Kangaroo/Resource/ui/Objects/Explorer/menu_mariadb.ui:49
 #: Kangaroo/Resource/ui/Objects/Explorer/menu_mariadb.ui:121
 #: Kangaroo/Resource/ui/Objects/Explorer/menu_mariadb.ui:188
@@ -1722,9 +1690,10 @@ msgstr ""
 #: Kangaroo/Resource/ui/Objects/Model/menu.ui:164
 #: Kangaroo/Resource/ui/Objects/Table/menu.ui:34
 #: Kangaroo/Resource/ui/Objects/Table/postgresql/trigger.ui:116
-#: Kangaroo/Resource/ui/Objects/Table/table.ui:123
+#: Kangaroo/Resource/ui/Objects/Table/table.ui:125
 #: Kangaroo/Resource/ui/Objects/Trigger/general_postgresql.ui:179
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:197
+#: Kangaroo/Resource/ui/Panes/file.ui:122
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:199
 #: Kangaroo/Resource/ui/datagrid/view_menu.ui:163
 #: Kangaroo/Resource/ui/repository/menu_mariadb.ui:45
 #: Kangaroo/Resource/ui/repository/menu_mariadb.ui:119
@@ -1744,30 +1713,30 @@ msgid "Delete"
 msgstr ""
 
 #: Kangaroo/Actions/action_explorer.vala:537
-#: Kangaroo/Actions/action_explorer.vala:626
+#: Kangaroo/Actions/action_explorer.vala:624
 #: Kangaroo/Repository/panel_repository.vala:271
 #, c-format
 msgid "Delete object failed: %s"
 msgstr ""
 
-#: Kangaroo/Actions/action_explorer.vala:579
+#: Kangaroo/Actions/action_explorer.vala:577
 #: Kangaroo/Actions/action_search.vala:163
 #, c-format
 msgid "%s - Source"
 msgstr ""
 
-#: Kangaroo/Actions/action_explorer.vala:584
+#: Kangaroo/Actions/action_explorer.vala:582
 #: Kangaroo/Actions/action_search.vala:171
 #, c-format
 msgid "Fetch object's source failed: %s"
 msgstr ""
 
-#: Kangaroo/Actions/action_explorer.vala:600
+#: Kangaroo/Actions/action_explorer.vala:598
 msgid "Are you sure to delete all rows from selected tables?"
 msgstr ""
 
-#: Kangaroo/Actions/action_explorer.vala:602
-#: Kangaroo/Actions/action_repository.vala:265
+#: Kangaroo/Actions/action_explorer.vala:600
+#: Kangaroo/Actions/action_repository.vala:274
 #: Kangaroo/Resource/ui/Objects/Explorer/menu_mariadb.ui:44
 #: Kangaroo/Resource/ui/Objects/Explorer/menu_mariadb.ui:116
 #: Kangaroo/Resource/ui/Objects/Explorer/menu_mysql.ui:44
@@ -1789,59 +1758,60 @@ msgstr ""
 msgid "Truncate"
 msgstr ""
 
-#: Kangaroo/Actions/action_explorer.vala:744
-#: Kangaroo/Actions/action_explorer.vala:785
-#: Kangaroo/Assistants/Export/page_format.vala:59
-msgid "Choose file folder"
+#: Kangaroo/Actions/action_explorer.vala:741
+#: Kangaroo/Actions/action_explorer.vala:771
+#: Kangaroo/Assistants/Export/page_format.vala:64
+msgid "Open folder"
 msgstr ""
 
-#: Kangaroo/Actions/action_explorer.vala:747
-#: Kangaroo/Actions/action_explorer.vala:788
-#: Kangaroo/Assistants/Export/page_format.vala:62
-#: Kangaroo/Dialogs/dialog_connection.vala:389
-#: Kangaroo/Dialogs/dialog_connection.vala:425
-#: Kangaroo/Dialogs/dialog_connection.vala:457
-#: Kangaroo/Dialogs/dialog_connection.vala:480
-#: Kangaroo/Dialogs/dialog_connection.vala:505
-#: Kangaroo/Dialogs/dialog_connection.vala:530
-#: Kangaroo/Dialogs/dialog_connection.vala:630
-#: Kangaroo/Dialogs/dialog_preferences.vala:300
-msgid "Select"
+#: Kangaroo/Actions/action_explorer.vala:742
+#: Kangaroo/Actions/action_explorer.vala:772
+#: Kangaroo/Assistants/Export/page_format.vala:65
+msgid "Select folder"
 msgstr ""
 
-#: Kangaroo/Actions/action_explorer.vala:834
-#: Kangaroo/Actions/action_repository.vala:352
-#: Kangaroo/Actions/action_repository.vala:362
-#: Kangaroo/Actions/action_repository.vala:427
+#: Kangaroo/Actions/action_explorer.vala:752
+#: Kangaroo/Actions/action_explorer.vala:753
+#: Kangaroo/Actions/action_explorer.vala:782
+#: Kangaroo/Actions/action_explorer.vala:783
+#: Kangaroo/Assistants/Export/page_format.vala:75
+#: Kangaroo/Assistants/Export/page_format.vala:76
+#, c-format
+msgid "Failed to open the folder: %s"
+msgstr ""
+
+#: Kangaroo/Actions/action_explorer.vala:807
+#: Kangaroo/Actions/action_repository.vala:361
+#: Kangaroo/Actions/action_repository.vala:371
 #: Kangaroo/Objects/Database/database.vala:67
-#: Kangaroo/Objects/Function/routine.vala:151
-#: Kangaroo/Objects/Index/index.vala:130 Kangaroo/Objects/Role/role.vala:132
+#: Kangaroo/Objects/Function/routine.vala:122
+#: Kangaroo/Objects/Index/index.vala:130 Kangaroo/Objects/Role/role.vala:103
 #: Kangaroo/Objects/Schema/schema.vala:67
 #: Kangaroo/Objects/Trigger/trigger.vala:119
-#: Kangaroo/Objects/User/user.vala:132 Kangaroo/Objects/View/view.vala:205
+#: Kangaroo/Objects/User/user.vala:103 Kangaroo/Objects/View/view.vala:176
 #, c-format
 msgid "Failed to dump schema: %s"
 msgstr ""
 
-#: Kangaroo/Actions/action_explorer.vala:875
-#: Kangaroo/Actions/action_repository.vala:498
+#: Kangaroo/Actions/action_explorer.vala:848
+#: Kangaroo/Actions/action_repository.vala:484
 #: Kangaroo/Business/connection_manager.vala:81
 #, c-format
 msgid "Failed to attach database: %s"
 msgstr ""
 
-#: Kangaroo/Actions/action_explorer.vala:898
-#: Kangaroo/Actions/action_repository.vala:517
+#: Kangaroo/Actions/action_explorer.vala:870
+#: Kangaroo/Actions/action_repository.vala:502
 msgid "Are you sure to detach selected database?"
 msgstr ""
 
-#: Kangaroo/Actions/action_explorer.vala:899
-#: Kangaroo/Actions/action_repository.vala:518
+#: Kangaroo/Actions/action_explorer.vala:872
+#: Kangaroo/Actions/action_repository.vala:503
 msgid "Detach"
 msgstr ""
 
-#: Kangaroo/Actions/action_explorer.vala:937
-#: Kangaroo/Actions/action_repository.vala:531
+#: Kangaroo/Actions/action_explorer.vala:910
+#: Kangaroo/Actions/action_repository.vala:516
 #, c-format
 msgid "Detach database failed: %s"
 msgstr ""
@@ -1858,14 +1828,13 @@ msgstr ""
 msgid "The function / procedure not yet saved"
 msgstr ""
 
-#: Kangaroo/Actions/action_function.vala:100
-#: Kangaroo/Actions/action_sqlview.vala:95
-msgid "SQL view name"
+#: Kangaroo/Actions/action_function.vala:98
+#: Kangaroo/Resource/ui/Objects/Table/postgresql/trigger.ui:244
+msgid "Function name"
 msgstr ""
 
-#: Kangaroo/Actions/action_function.vala:101
-#: Kangaroo/Actions/action_sqlview.vala:96
-msgid "Input new view name here"
+#: Kangaroo/Actions/action_function.vala:98
+msgid "Input new function name here"
 msgstr ""
 
 #: Kangaroo/Actions/action_home.vala:46
@@ -1884,13 +1853,11 @@ msgstr ""
 msgid "Index view actions"
 msgstr ""
 
-#: Kangaroo/Actions/action_index.vala:57
-#: Kangaroo/Actions/action_trigger.vala:49
+#: Kangaroo/Actions/action_index.vala:55
 msgid "Index name"
 msgstr ""
 
-#: Kangaroo/Actions/action_index.vala:58
-#: Kangaroo/Actions/action_trigger.vala:50
+#: Kangaroo/Actions/action_index.vala:55
 msgid "Input new index name here"
 msgstr ""
 
@@ -1905,68 +1872,145 @@ msgid "Query view actions"
 msgstr ""
 
 #: Kangaroo/Actions/action_query.vala:83 Kangaroo/Actions/action_query.vala:84
-#: Kangaroo/Objects/Query/query.vala:207 Kangaroo/Objects/Query/query.vala:208
-#: Kangaroo/Objects/Query/query.vala:281 Kangaroo/Objects/Query/query.vala:282
-#: Kangaroo/Objects/Query/query.vala:351 Kangaroo/Objects/Query/query.vala:352
-#: Kangaroo/Objects/Query/query.vala:522 Kangaroo/Objects/Query/query.vala:523
+#: Kangaroo/Objects/Query/query.vala:182 Kangaroo/Objects/Query/query.vala:183
+#: Kangaroo/Objects/Query/query.vala:332 Kangaroo/Objects/Query/query.vala:333
 #, c-format
 msgid "Failed to save file: %s"
 msgstr ""
 
-#: Kangaroo/Actions/action_repository.vala:76
+#: Kangaroo/Actions/action_repository.vala:85
 msgid "Object tree"
 msgstr ""
 
-#: Kangaroo/Actions/action_repository.vala:77
+#: Kangaroo/Actions/action_repository.vala:86
 msgid "Object tree actions"
 msgstr ""
 
-#: Kangaroo/Actions/action_repository.vala:263
+#: Kangaroo/Actions/action_repository.vala:272
 #, c-format
 msgid "Are you sure to delete all rows from table: %s ?"
 msgstr ""
 
-#: Kangaroo/Actions/action_repository.vala:274
+#: Kangaroo/Actions/action_repository.vala:285
 #, c-format
 msgid "Truncate table failed: %s"
 msgstr ""
 
-#: Kangaroo/Actions/action_repository.vala:290
+#: Kangaroo/Actions/action_repository.vala:299
 #, c-format
 msgid "Are you sure to delete %s ?"
 msgstr ""
 
-#: Kangaroo/Actions/action_repository.vala:396
-msgid "Save sql script"
+#: Kangaroo/Actions/action_repository.vala:300
+msgid "Suggest you backup your data before do this action."
 msgstr ""
 
 #: Kangaroo/Actions/action_repository.vala:399
-#: Kangaroo/DataGrid/cellview.vala:75 Kangaroo/DataGrid/cellview.vala:118
-#: Kangaroo/Dialogs/dialog_documents.vala:166
-#: Kangaroo/Objects/Content/builder.vala:291
-#: Kangaroo/Objects/Content/content.vala:105
-#: Kangaroo/Objects/Function/routine.vala:110
-#: Kangaroo/Objects/Model/helper.vala:94 Kangaroo/Objects/Model/helper.vala:131
-#: Kangaroo/Objects/Model/view_model.vala:96
-#: Kangaroo/Objects/Query/query.vala:183 Kangaroo/Objects/Query/query.vala:389
-#: Kangaroo/Objects/Role/role.vala:89 Kangaroo/Objects/Table/table.vala:98
-#: Kangaroo/Objects/User/user.vala:89 Kangaroo/Objects/View/view.vala:164
-#: Kangaroo/dumper.vala:243 Kangaroo/workspace.vala:219
-#: Kangaroo/Resource/ui/Dialogs/connection.ui:825
-#: Kangaroo/Resource/ui/Objects/Database/database.ui:35
-#: Kangaroo/Resource/ui/Objects/Function/function.ui:66
-#: Kangaroo/Resource/ui/Objects/Index/index.ui:36
+msgid "Dump SQL"
+msgstr ""
+
+#: Kangaroo/Actions/action_repository.vala:400
+#: Kangaroo/DataGrid/cellview.vala:84
+#: Kangaroo/Dialogs/dialog_documents.vala:170
+#: Kangaroo/Objects/Content/builder.vala:304
+#: Kangaroo/Objects/Model/helper.vala:102
+#: Kangaroo/Objects/Model/helper.vala:155 Kangaroo/Objects/Query/query.vala:376
+#: Kangaroo/dumper.vala:243 Kangaroo/executor.vala:117
+#: Kangaroo/workspace.vala:275 Kangaroo/Resource/ui/Dialogs/connection.ui:825
+#: Kangaroo/Resource/ui/Objects/Database/database.ui:37
+#: Kangaroo/Resource/ui/Objects/Function/function.ui:68
+#: Kangaroo/Resource/ui/Objects/Index/index.ui:38
 #: Kangaroo/Resource/ui/Objects/Model/toolbar.ui:115
-#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:65
-#: Kangaroo/Resource/ui/Objects/Role/role.ui:36
-#: Kangaroo/Resource/ui/Objects/Schema/schema.ui:35
-#: Kangaroo/Resource/ui/Objects/Table/table.ui:36
-#: Kangaroo/Resource/ui/Objects/Trigger/trigger.ui:36
-#: Kangaroo/Resource/ui/Objects/User/user.ui:36
-#: Kangaroo/Resource/ui/Objects/View/view.ui:67
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:226
-#: Kangaroo/Resource/ui/workspace.ui:699
+#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:67
+#: Kangaroo/Resource/ui/Objects/Role/role.ui:38
+#: Kangaroo/Resource/ui/Objects/Schema/schema.ui:37
+#: Kangaroo/Resource/ui/Objects/Table/table.ui:38
+#: Kangaroo/Resource/ui/Objects/Trigger/trigger.ui:38
+#: Kangaroo/Resource/ui/Objects/User/user.ui:38
+#: Kangaroo/Resource/ui/Objects/View/view.ui:69
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:228
+#: Kangaroo/Resource/ui/workspace.ui:890
 msgid "Save"
+msgstr ""
+
+#: Kangaroo/Actions/action_repository.vala:417
+#: Kangaroo/Actions/action_repository.vala:418
+#, c-format
+msgid "Failed to dump sql: %s"
+msgstr ""
+
+#: Kangaroo/Actions/action_repository.vala:543
+msgid "Failed to delete file"
+msgstr ""
+
+#: Kangaroo/Actions/action_repository.vala:570
+msgid "Locate user file folder..."
+msgstr ""
+
+#: Kangaroo/Actions/action_repository.vala:571
+#: Kangaroo/Assistants/Import/page_format.vala:110
+#: Kangaroo/Dialogs/attach_database.vala:51
+#: Kangaroo/Dialogs/dialog_connection.vala:399
+#: Kangaroo/Dialogs/dialog_connection.vala:443
+#: Kangaroo/Dialogs/dialog_connection.vala:482
+#: Kangaroo/Dialogs/dialog_connection.vala:508
+#: Kangaroo/Dialogs/dialog_connection.vala:534
+#: Kangaroo/Dialogs/dialog_connection.vala:560
+#: Kangaroo/Dialogs/dialog_connection.vala:664
+#: Kangaroo/Dialogs/dialog_preferences.vala:312
+#: Kangaroo/Dialogs/dialog_preferences.vala:313
+#: Kangaroo/Dialogs/dialog_preferences.vala:489
+#: Kangaroo/Helpers/helper_action.vala:83
+#: Kangaroo/Objects/Content/builder.vala:351
+#: Kangaroo/Objects/Model/common.vala:167 Kangaroo/Objects/Model/helper.vala:66
+#: Kangaroo/Objects/Model/helper.vala:182 Kangaroo/Objects/Query/query.vala:308
+#: Kangaroo/Resource/ui/Objects/Explorer/explorer.ui:37
+#: Kangaroo/Resource/ui/Objects/Explorer/menu_mariadb.ui:15
+#: Kangaroo/Resource/ui/Objects/Explorer/menu_mariadb.ui:87
+#: Kangaroo/Resource/ui/Objects/Explorer/menu_mariadb.ui:159
+#: Kangaroo/Resource/ui/Objects/Explorer/menu_mysql.ui:15
+#: Kangaroo/Resource/ui/Objects/Explorer/menu_mysql.ui:87
+#: Kangaroo/Resource/ui/Objects/Explorer/menu_mysql.ui:159
+#: Kangaroo/Resource/ui/Objects/Explorer/menu_odbc.ui:15
+#: Kangaroo/Resource/ui/Objects/Explorer/menu_odbc.ui:45
+#: Kangaroo/Resource/ui/Objects/Explorer/menu_odbc.ui:75
+#: Kangaroo/Resource/ui/Objects/Explorer/menu_odbc.ui:147
+#: Kangaroo/Resource/ui/Objects/Explorer/menu_postgresql.ui:15
+#: Kangaroo/Resource/ui/Objects/Explorer/menu_postgresql.ui:87
+#: Kangaroo/Resource/ui/Objects/Explorer/menu_postgresql.ui:139
+#: Kangaroo/Resource/ui/Objects/Explorer/menu_postgresql.ui:211
+#: Kangaroo/Resource/ui/Objects/Explorer/menu_sqlite.ui:15
+#: Kangaroo/Resource/ui/Objects/Explorer/menu_sqlite.ui:45
+#: Kangaroo/Resource/ui/Objects/Explorer/menu_sqlite.ui:75
+#: Kangaroo/Resource/ui/Objects/Explorer/menu_sqlite.ui:147
+#: Kangaroo/Resource/ui/Objects/Model/toolbar.ui:87
+#: Kangaroo/Resource/ui/Objects/Search/search.ui:332
+#: Kangaroo/Resource/ui/Panes/file.ui:115
+#: Kangaroo/Resource/ui/repository/menu_mariadb.ui:6
+#: Kangaroo/Resource/ui/repository/menu_mariadb.ui:85
+#: Kangaroo/Resource/ui/repository/menu_mariadb.ui:164
+#: Kangaroo/Resource/ui/repository/menu_mysql.ui:6
+#: Kangaroo/Resource/ui/repository/menu_mysql.ui:85
+#: Kangaroo/Resource/ui/repository/menu_mysql.ui:164
+#: Kangaroo/Resource/ui/repository/menu_odbc.ui:6
+#: Kangaroo/Resource/ui/repository/menu_odbc.ui:42
+#: Kangaroo/Resource/ui/repository/menu_odbc.ui:63
+#: Kangaroo/Resource/ui/repository/menu_odbc.ui:142
+#: Kangaroo/Resource/ui/repository/menu_postgresql.ui:6
+#: Kangaroo/Resource/ui/repository/menu_postgresql.ui:76
+#: Kangaroo/Resource/ui/repository/menu_postgresql.ui:126
+#: Kangaroo/Resource/ui/repository/menu_postgresql.ui:205
+#: Kangaroo/Resource/ui/repository/menu_sqlite.ui:6
+#: Kangaroo/Resource/ui/repository/menu_sqlite.ui:54
+#: Kangaroo/Resource/ui/repository/menu_sqlite.ui:87
+#: Kangaroo/Resource/ui/repository/menu_sqlite.ui:171
+msgid "Open"
+msgstr ""
+
+#: Kangaroo/Actions/action_repository.vala:582
+#: Kangaroo/Actions/action_repository.vala:583
+#, c-format
+msgid "Failed to locate query files: %s"
 msgstr ""
 
 #: Kangaroo/Actions/action_schema.vala:29
@@ -1985,6 +2029,14 @@ msgstr ""
 msgid "Search view actions"
 msgstr ""
 
+#: Kangaroo/Actions/action_sqlview.vala:93
+msgid "SQL view name"
+msgstr ""
+
+#: Kangaroo/Actions/action_sqlview.vala:93
+msgid "Input new view name here"
+msgstr ""
+
 #: Kangaroo/Actions/action_starter.vala:42
 msgid "Start view"
 msgstr ""
@@ -1994,29 +2046,27 @@ msgid "Start view actions"
 msgstr ""
 
 #: Kangaroo/Actions/action_starter.vala:86
-#: Kangaroo/Dialogs/dialog_connection.vala:343
+#: Kangaroo/Dialogs/dialog_connection.vala:349
 #, c-format
 msgid "Open connection failed: %s"
 msgstr ""
 
-#: Kangaroo/Actions/action_starter.vala:128
+#: Kangaroo/Actions/action_starter.vala:129
 msgid "Are you sure to delete this connection?"
 msgstr ""
 
-#: Kangaroo/Actions/action_starter.vala:129
+#: Kangaroo/Actions/action_starter.vala:131
 #: Kangaroo/Dialogs/dialog_goto_cell.vala:51
 #: Kangaroo/Dialogs/dialog_sql_builder.vala:76
 #: Kangaroo/Dialogs/dialog_view_code.vala:66
 #: Kangaroo/Dialogs/dialog_view_text.vala:59
 #: Kangaroo/Resource/ui/Dialogs/columns.ui:89
-#: Kangaroo/Resource/ui/Dialogs/entities.ui:40
+#: Kangaroo/Resource/ui/Dialogs/entities.ui:116
 msgid "OK"
 msgstr ""
 
-#: Kangaroo/Actions/action_starter.vala:151
-#: Kangaroo/Actions/action_starter.vala:152
-#: Kangaroo/Actions/action_starter.vala:162
-#: Kangaroo/Actions/action_starter.vala:163
+#: Kangaroo/Actions/action_starter.vala:171
+#: Kangaroo/Actions/action_starter.vala:172
 #, c-format
 msgid "Failed to create folder: %s"
 msgstr ""
@@ -2029,7 +2079,7 @@ msgstr ""
 msgid "Table designer actions"
 msgstr ""
 
-#: Kangaroo/Actions/action_table.vala:104
+#: Kangaroo/Actions/action_table.vala:105
 msgid "Are you sure to delete selected rows?"
 msgstr ""
 
@@ -2041,15 +2091,13 @@ msgstr ""
 msgid "Tools view actions"
 msgstr ""
 
-#: Kangaroo/Actions/action_tools.vala:52
-#: Kangaroo/Actions/action_workspace.vala:85
-#: Kangaroo/Objects/view_tools.vala:26 Kangaroo/Resource/ui/workspace.ui:466
-#: Kangaroo/Resource/ui/workspace.ui:482
+#: Kangaroo/Actions/action_tools.vala:52 Kangaroo/Objects/view_tools.vala:25
+#: Kangaroo/Resource/ui/workspace.ui:467 Kangaroo/Resource/ui/workspace.ui:483
 msgid "History logs"
 msgstr ""
 
-#: Kangaroo/Actions/action_tools.vala:94 Kangaroo/Objects/view_tools.vala:28
-#: Kangaroo/Resource/ui/workspace.ui:454
+#: Kangaroo/Actions/action_tools.vala:94 Kangaroo/Objects/view_tools.vala:27
+#: Kangaroo/Resource/ui/workspace.ui:455 Kangaroo/Resource/ui/workspace.ui:544
 msgid "Model"
 msgstr ""
 
@@ -2059,6 +2107,15 @@ msgstr ""
 
 #: Kangaroo/Actions/action_trigger.vala:31
 msgid "Trigger view actions"
+msgstr ""
+
+#: Kangaroo/Actions/action_trigger.vala:47
+#: Kangaroo/Resource/ui/Objects/Trigger/general_mysql.ui:99
+msgid "Trigger name"
+msgstr ""
+
+#: Kangaroo/Actions/action_trigger.vala:47
+msgid "Input new trigger name here"
 msgstr ""
 
 #: Kangaroo/Actions/action_user.vala:30
@@ -2098,37 +2155,45 @@ msgstr ""
 msgid "About %s"
 msgstr ""
 
-#: Kangaroo/Actions/action_workbench.vala:161
-#, c-format
+#: Kangaroo/Actions/action_workbench.vala:171
 msgid ""
-"%s.%s\n"
-"Running against GLib %u.%u.%u / GTK %d.%d.%d / Adwaita %d.%d.%d"
+"Distributed under the Kangaroo's End User License Agreement, please see\n"
 msgstr ""
 
-#: Kangaroo/Actions/action_workspace.vala:64
+#: Kangaroo/Actions/action_workbench.vala:173
+msgid ""
+"\n"
+"\n"
+"Thrid-party libraries and its license, please see\n"
+msgstr ""
+
+#: Kangaroo/Actions/action_workbench.vala:192
+msgid "Compiler\n"
+msgstr ""
+
+#: Kangaroo/Actions/action_workbench.vala:194
+msgid "Core libraries\n"
+msgstr ""
+
+#: Kangaroo/Actions/action_workspace.vala:72
 msgid "Workspace"
 msgstr ""
 
-#: Kangaroo/Actions/action_workspace.vala:65
+#: Kangaroo/Actions/action_workspace.vala:73
 msgid "Workspace actions"
 msgstr ""
 
-#: Kangaroo/Actions/action_workspace.vala:78
-#: Kangaroo/Resource/ui/preference.ui:730
-msgid "Tools"
-msgstr ""
-
-#: Kangaroo/Actions/action_workspace.vala:90
+#: Kangaroo/Actions/action_workspace.vala:79
 msgid "New query"
 msgstr ""
 
-#: Kangaroo/Actions/action_workspace.vala:94
-#: Kangaroo/Actions/action_workspace.vala:98
-#: Kangaroo/Resource/ui/workspace.ui:749
+#: Kangaroo/Actions/action_workspace.vala:83
+#: Kangaroo/Actions/action_workspace.vala:87
+#: Kangaroo/Resource/ui/workspace.ui:940
 msgid "New Table"
 msgstr ""
 
-#: Kangaroo/Actions/action_workspace.vala:102
+#: Kangaroo/Actions/action_workspace.vala:91
 #: Kangaroo/Resource/ui/workspace.ui:59
 msgid "Search object"
 msgstr ""
@@ -2137,14 +2202,14 @@ msgstr ""
 msgid "Kangaroo model files"
 msgstr ""
 
+#. All file filter
 #: Kangaroo/Archives/archive_model.vala:81
-#: Kangaroo/Assistants/Import/page_format.vala:108
-#: Kangaroo/DataGrid/cellview.vala:82 Kangaroo/DataGrid/cellview.vala:125
+#: Kangaroo/Assistants/Import/page_format.vala:104
+#: Kangaroo/DataGrid/cellview.vala:77 Kangaroo/DataGrid/cellview.vala:116
 #: Kangaroo/Dialogs/dialog_connection.vala:139
-#: Kangaroo/Objects/Content/builder.vala:299
-#: Kangaroo/Objects/Content/builder.vala:342
-#: Kangaroo/Objects/Model/helper.vala:134 Kangaroo/dumper.vala:253
-#: Kangaroo/executor.vala:127
+#: Kangaroo/Objects/Content/builder.vala:294
+#: Kangaroo/Objects/Content/builder.vala:341
+#: Kangaroo/Objects/Model/helper.vala:131 Kangaroo/application.vala:260
 msgid "All files"
 msgstr ""
 
@@ -2220,7 +2285,7 @@ msgid "Data import"
 msgstr ""
 
 #: Kangaroo/Assistants/Import/page_columns.vala:182
-#: Kangaroo/Objects/Content/content.vala:253
+#: Kangaroo/Objects/Content/content.vala:222
 #: Kangaroo/Repository/panel_repository.vala:594
 #: Kangaroo/Repository/panel_repository.vala:615
 #, c-format
@@ -2236,62 +2301,45 @@ msgstr ""
 msgid "Load file failed: %s"
 msgstr ""
 
-#: Kangaroo/Assistants/Import/page_format.vala:95
-msgid "Open data file"
+#: Kangaroo/Assistants/Import/page_format.vala:109
+#: Kangaroo/Dialogs/dialog_preferences.vala:488
+#: Kangaroo/Helpers/helper_action.vala:82 Kangaroo/Objects/Model/helper.vala:65
+#: Kangaroo/Objects/Query/query.vala:307
+msgid "Open file"
 msgstr ""
 
-#: Kangaroo/Assistants/Import/page_format.vala:98
-#: Kangaroo/Dialogs/attach_database.vala:48
-#: Kangaroo/Dialogs/dialog_preferences.vala:455
-#: Kangaroo/Helpers/helper_action.vala:54
-#: Kangaroo/Objects/Content/builder.vala:334
-#: Kangaroo/Objects/Model/common.vala:167 Kangaroo/Objects/Model/helper.vala:58
-#: Kangaroo/Objects/Model/helper.vala:185 Kangaroo/Objects/Query/query.vala:329
-#: Kangaroo/executor.vala:117
-#: Kangaroo/Resource/ui/Objects/Explorer/explorer.ui:35
-#: Kangaroo/Resource/ui/Objects/Explorer/menu_mariadb.ui:15
-#: Kangaroo/Resource/ui/Objects/Explorer/menu_mariadb.ui:87
-#: Kangaroo/Resource/ui/Objects/Explorer/menu_mariadb.ui:159
-#: Kangaroo/Resource/ui/Objects/Explorer/menu_mysql.ui:15
-#: Kangaroo/Resource/ui/Objects/Explorer/menu_mysql.ui:87
-#: Kangaroo/Resource/ui/Objects/Explorer/menu_mysql.ui:159
-#: Kangaroo/Resource/ui/Objects/Explorer/menu_odbc.ui:15
-#: Kangaroo/Resource/ui/Objects/Explorer/menu_odbc.ui:45
-#: Kangaroo/Resource/ui/Objects/Explorer/menu_odbc.ui:75
-#: Kangaroo/Resource/ui/Objects/Explorer/menu_odbc.ui:147
-#: Kangaroo/Resource/ui/Objects/Explorer/menu_postgresql.ui:15
-#: Kangaroo/Resource/ui/Objects/Explorer/menu_postgresql.ui:87
-#: Kangaroo/Resource/ui/Objects/Explorer/menu_postgresql.ui:139
-#: Kangaroo/Resource/ui/Objects/Explorer/menu_postgresql.ui:211
-#: Kangaroo/Resource/ui/Objects/Explorer/menu_sqlite.ui:15
-#: Kangaroo/Resource/ui/Objects/Explorer/menu_sqlite.ui:45
-#: Kangaroo/Resource/ui/Objects/Explorer/menu_sqlite.ui:75
-#: Kangaroo/Resource/ui/Objects/Explorer/menu_sqlite.ui:147
-#: Kangaroo/Resource/ui/Objects/Model/toolbar.ui:87
-#: Kangaroo/Resource/ui/Objects/Search/search.ui:328
-#: Kangaroo/Resource/ui/repository/menu_mariadb.ui:6
-#: Kangaroo/Resource/ui/repository/menu_mariadb.ui:85
-#: Kangaroo/Resource/ui/repository/menu_mariadb.ui:164
-#: Kangaroo/Resource/ui/repository/menu_mysql.ui:6
-#: Kangaroo/Resource/ui/repository/menu_mysql.ui:85
-#: Kangaroo/Resource/ui/repository/menu_mysql.ui:164
-#: Kangaroo/Resource/ui/repository/menu_odbc.ui:6
-#: Kangaroo/Resource/ui/repository/menu_odbc.ui:42
-#: Kangaroo/Resource/ui/repository/menu_odbc.ui:63
-#: Kangaroo/Resource/ui/repository/menu_odbc.ui:142
-#: Kangaroo/Resource/ui/repository/menu_postgresql.ui:6
-#: Kangaroo/Resource/ui/repository/menu_postgresql.ui:76
-#: Kangaroo/Resource/ui/repository/menu_postgresql.ui:126
-#: Kangaroo/Resource/ui/repository/menu_postgresql.ui:205
-#: Kangaroo/Resource/ui/repository/menu_sqlite.ui:6
-#: Kangaroo/Resource/ui/repository/menu_sqlite.ui:54
-#: Kangaroo/Resource/ui/repository/menu_sqlite.ui:87
-#: Kangaroo/Resource/ui/repository/menu_sqlite.ui:171
-msgid "Open"
+#: Kangaroo/Assistants/Import/page_format.vala:125
+#: Kangaroo/Assistants/Import/page_format.vala:126
+#: Kangaroo/Dialogs/attach_database.vala:64
+#: Kangaroo/Dialogs/attach_database.vala:65
+#: Kangaroo/Dialogs/dialog_connection.vala:417
+#: Kangaroo/Dialogs/dialog_connection.vala:418
+#: Kangaroo/Dialogs/dialog_connection.vala:456
+#: Kangaroo/Dialogs/dialog_connection.vala:457
+#: Kangaroo/Dialogs/dialog_connection.vala:495
+#: Kangaroo/Dialogs/dialog_connection.vala:496
+#: Kangaroo/Dialogs/dialog_connection.vala:521
+#: Kangaroo/Dialogs/dialog_connection.vala:522
+#: Kangaroo/Dialogs/dialog_connection.vala:547
+#: Kangaroo/Dialogs/dialog_connection.vala:548
+#: Kangaroo/Dialogs/dialog_connection.vala:573
+#: Kangaroo/Dialogs/dialog_connection.vala:574
+#: Kangaroo/Dialogs/dialog_preferences.vala:326
+#: Kangaroo/Dialogs/dialog_preferences.vala:327
+#: Kangaroo/Dialogs/dialog_preferences.vala:506
+#: Kangaroo/Dialogs/dialog_preferences.vala:507
+#: Kangaroo/Helpers/helper_action.vala:99
+#: Kangaroo/Helpers/helper_action.vala:100
+#: Kangaroo/Objects/Content/builder.vala:366
+#: Kangaroo/Objects/Content/builder.vala:367
+#: Kangaroo/Objects/Model/helper.vala:78 Kangaroo/Objects/Model/helper.vala:79
+#: Kangaroo/Objects/Query/query.vala:321 Kangaroo/Objects/Query/query.vala:322
+#, c-format
+msgid "Failed to open the file: %s"
 msgstr ""
 
 #: Kangaroo/Assistants/Import/page_preview.vala:39
-#: Kangaroo/Resource/ui/Objects/View/view.ui:98
+#: Kangaroo/Resource/ui/Objects/View/view.ui:100
 msgid "Data preview"
 msgstr ""
 
@@ -2331,7 +2379,7 @@ msgstr ""
 
 #: Kangaroo/Builder/view_entity.vala:151
 #: Kangaroo/Contracts/view_entities.vala:233
-#: Kangaroo/Dialogs/dialog_entities.vala:364
+#: Kangaroo/Dialogs/dialog_entities.vala:363
 #: Kangaroo/Repository/panel_repository.vala:407
 #, c-format
 msgid "Load table space failed: %s"
@@ -2419,27 +2467,27 @@ msgstr ""
 msgid "All columns(*)"
 msgstr ""
 
-#: Kangaroo/Contracts/view_executable.vala:105
+#: Kangaroo/Contracts/view_executable.vala:107
 #, c-format
 msgid "affected rows: %u, time cost: %s"
 msgstr ""
 
-#: Kangaroo/Contracts/view_executable.vala:112
+#: Kangaroo/Contracts/view_executable.vala:114
 #, c-format
 msgid "affected rows: %s, time cost: %s"
 msgstr ""
 
-#: Kangaroo/Contracts/view_executable.vala:116
+#: Kangaroo/Contracts/view_executable.vala:120
 #, c-format
 msgid "Failed %d : %s"
 msgstr ""
 
-#: Kangaroo/Contracts/view_executable.vala:149
+#: Kangaroo/Contracts/view_executable.vala:153
 #, c-format
 msgid "Explain %d"
 msgstr ""
 
-#: Kangaroo/Contracts/view_executable.vala:149
+#: Kangaroo/Contracts/view_executable.vala:153
 #, c-format
 msgid "Result %d"
 msgstr ""
@@ -2460,9 +2508,9 @@ msgid "TEXT"
 msgstr ""
 
 #: Kangaroo/DataGrid/Viewers/viewer_text.vala:142
-#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:309
-#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:330
-#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:351
+#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:316
+#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:337
+#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:358
 msgid "JSON"
 msgstr ""
 
@@ -2471,7 +2519,7 @@ msgid "HTML"
 msgstr ""
 
 #: Kangaroo/DataGrid/Viewers/viewer_text.vala:150
-#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:356
+#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:363
 msgid "XML"
 msgstr ""
 
@@ -2479,22 +2527,31 @@ msgstr ""
 msgid "CSS"
 msgstr ""
 
-#: Kangaroo/DataGrid/cellview.vala:75 Kangaroo/Objects/Content/builder.vala:288
-msgid "Export data to file..."
+#: Kangaroo/DataGrid/cellview.vala:83 Kangaroo/Objects/Content/builder.vala:303
+msgid "Export data to file"
 msgstr ""
 
-#: Kangaroo/DataGrid/cellview.vala:104
+#: Kangaroo/DataGrid/cellview.vala:98 Kangaroo/DataGrid/cellview.vala:99
 #, c-format
 msgid "Failed to export data to file: %s"
 msgstr ""
 
-#: Kangaroo/DataGrid/cellview.vala:118
-#: Kangaroo/Objects/Content/builder.vala:331
-#: Kangaroo/Resource/ui/Objects/Content/builder.ui:451
-msgid "Import data from file..."
+#: Kangaroo/DataGrid/cellview.vala:122
+#: Kangaroo/Objects/Content/builder.vala:350
+#: Kangaroo/Resource/ui/Objects/Content/builder.ui:166
+msgid "Import data from file"
 msgstr ""
 
-#: Kangaroo/DataGrid/cellview.vala:147
+#: Kangaroo/DataGrid/cellview.vala:123
+#: Kangaroo/Resource/ui/Objects/Content/builder.ui:184
+#: Kangaroo/Resource/ui/Objects/Content/builder.ui:472
+#: Kangaroo/Resource/ui/Objects/Model/toolbar.ui:26
+#: Kangaroo/Resource/ui/datagrid/view_cell.ui:66
+#: Kangaroo/Resource/ui/workspace.ui:396
+msgid "Import"
+msgstr ""
+
+#: Kangaroo/DataGrid/cellview.vala:136 Kangaroo/DataGrid/cellview.vala:137
 #, c-format
 msgid "Failed to import data from file: %s"
 msgstr ""
@@ -2509,24 +2566,24 @@ msgstr ""
 msgid "Failed to read clipboard data: %s"
 msgstr ""
 
-#: Kangaroo/DataGrid/dataview.vala:424 Kangaroo/DataGrid/dataview.vala:479
+#: Kangaroo/DataGrid/dataview.vala:424 Kangaroo/DataGrid/dataview.vala:478
 msgid "Do you want to discard changes?"
 msgstr ""
 
-#: Kangaroo/DataGrid/dataview.vala:425 Kangaroo/DataGrid/dataview.vala:480
+#: Kangaroo/DataGrid/dataview.vala:425 Kangaroo/DataGrid/dataview.vala:479
 msgid "All data will be lost"
 msgstr ""
 
 #: Kangaroo/Dialogs/attach_database.vala:42
-#: Kangaroo/Dialogs/dialog_connection.vala:626
+#: Kangaroo/Dialogs/dialog_connection.vala:657
 msgid "SQLite database"
 msgstr ""
 
-#: Kangaroo/Dialogs/attach_database.vala:46
-msgid "Choose filename to attach"
+#: Kangaroo/Dialogs/attach_database.vala:50
+msgid "Attach SQLite database"
 msgstr ""
 
-#: Kangaroo/Dialogs/attach_database.vala:82
+#: Kangaroo/Dialogs/attach_database.vala:86
 #, c-format
 msgid "Schema %s exist in the database"
 msgstr ""
@@ -2554,7 +2611,7 @@ msgstr ""
 #: Kangaroo/Dialogs/dialog_columns_postgres.vala:53
 #: Kangaroo/Objects/Explorer/explorer.vala:61
 #: Kangaroo/Resource/ui/Objects/Index/general_postgresql.ui:120
-#: Kangaroo/Resource/ui/workspace.ui:680
+#: Kangaroo/Resource/ui/workspace.ui:871
 msgid "Operator class"
 msgstr ""
 
@@ -2587,109 +2644,115 @@ msgstr ""
 #: Kangaroo/Objects/Explorer/explorer.vala:61
 #: Kangaroo/Objects/Search/search.vala:152
 #: Kangaroo/Resource/ui/Objects/Content/builder.ui:31
-#: Kangaroo/Resource/ui/Objects/Search/search.ui:35
+#: Kangaroo/Resource/ui/Objects/Search/search.ui:37
 msgid "Column"
 msgstr ""
 
 #. SSL file filter
-#: Kangaroo/Dialogs/dialog_connection.vala:127
+#: Kangaroo/Dialogs/dialog_connection.vala:124
 msgid "Privacy Enhanced Mail certificates"
 msgstr ""
 
-#: Kangaroo/Dialogs/dialog_connection.vala:131
+#: Kangaroo/Dialogs/dialog_connection.vala:129
 msgid "Certificate Signing Request"
 msgstr ""
 
-#: Kangaroo/Dialogs/dialog_connection.vala:135
+#: Kangaroo/Dialogs/dialog_connection.vala:134
 msgid "Certificates"
 msgstr ""
 
 #. update progress animation and message
-#: Kangaroo/Dialogs/dialog_connection.vala:323
+#: Kangaroo/Dialogs/dialog_connection.vala:329
 msgid "Connection Saved!"
 msgstr ""
 
-#: Kangaroo/Dialogs/dialog_connection.vala:338
+#: Kangaroo/Dialogs/dialog_connection.vala:344
 msgid "Open connection successfully."
 msgstr ""
 
-#: Kangaroo/Dialogs/dialog_connection.vala:340
+#: Kangaroo/Dialogs/dialog_connection.vala:346
 msgid "Failed to open connection"
 msgstr ""
 
 #. SQLite extension
-#: Kangaroo/Dialogs/dialog_connection.vala:373
+#: Kangaroo/Dialogs/dialog_connection.vala:379
 msgid "SQLite extensions"
 msgstr ""
 
-#: Kangaroo/Dialogs/dialog_connection.vala:386
+#: Kangaroo/Dialogs/dialog_connection.vala:398
 msgid "Select SQLite extensions"
 msgstr ""
 
 #. private key file
-#: Kangaroo/Dialogs/dialog_connection.vala:415
+#: Kangaroo/Dialogs/dialog_connection.vala:429
 msgid "File Data Source"
 msgstr ""
 
-#: Kangaroo/Dialogs/dialog_connection.vala:422
-msgid "Select file data source"
+#: Kangaroo/Dialogs/dialog_connection.vala:442
+msgid "Select data source"
 msgstr ""
 
 #. private key file
-#: Kangaroo/Dialogs/dialog_connection.vala:447
+#: Kangaroo/Dialogs/dialog_connection.vala:468
 #: Kangaroo/Resource/ui/Dialogs/connection.ui:606
 msgid "Private key file"
 msgstr ""
 
-#: Kangaroo/Dialogs/dialog_connection.vala:454
+#: Kangaroo/Dialogs/dialog_connection.vala:481
 msgid "Select private key file"
 msgstr ""
 
-#: Kangaroo/Dialogs/dialog_connection.vala:477
+#: Kangaroo/Dialogs/dialog_connection.vala:507
 msgid "Select CA file"
 msgstr ""
 
-#: Kangaroo/Dialogs/dialog_connection.vala:502
+#: Kangaroo/Dialogs/dialog_connection.vala:533
 msgid "Select client certificate file"
 msgstr ""
 
-#: Kangaroo/Dialogs/dialog_connection.vala:527
+#: Kangaroo/Dialogs/dialog_connection.vala:559
 msgid "Select client key file"
 msgstr ""
 
-#: Kangaroo/Dialogs/dialog_connection.vala:631
+#: Kangaroo/Dialogs/dialog_connection.vala:665
 msgid "Select a SQLite database"
 msgstr ""
 
-#: Kangaroo/Dialogs/dialog_connection.vala:633
+#: Kangaroo/Dialogs/dialog_connection.vala:667
 msgid "Create"
 msgstr ""
 
-#: Kangaroo/Dialogs/dialog_connection.vala:634
+#: Kangaroo/Dialogs/dialog_connection.vala:668
 msgid "Create new SQLite database"
 msgstr ""
 
-#: Kangaroo/Dialogs/dialog_connection.vala:658
+#: Kangaroo/Dialogs/dialog_connection.vala:706
 msgid "Create SQLite database successfully."
 msgstr ""
 
-#: Kangaroo/Dialogs/dialog_connection.vala:660
+#: Kangaroo/Dialogs/dialog_connection.vala:708
 msgid "Faild to create SQLite database."
 msgstr ""
 
-#: Kangaroo/Dialogs/dialog_connection.vala:689
-#: Kangaroo/Objects/Table/table.vala:153 Kangaroo/workbench.vala:140
+#: Kangaroo/Dialogs/dialog_connection.vala:712
+#: Kangaroo/Dialogs/dialog_connection.vala:713
+#, c-format
+msgid "Failed to handle the file: %s"
+msgstr ""
+
+#: Kangaroo/Dialogs/dialog_connection.vala:736
+#: Kangaroo/Objects/Table/table.vala:121 Kangaroo/workbench.vala:140
 msgid "Untitled"
 msgstr ""
 
 #: Kangaroo/Dialogs/dialog_documents.vala:65
 #: Kangaroo/Objects/Explorer/explorer.vala:65
-#: Kangaroo/Objects/Search/search.vala:143 Kangaroo/dumper.vala:346
+#: Kangaroo/Objects/Search/search.vala:143 Kangaroo/dumper.vala:333
 #: Kangaroo/Resource/ui/Assistants/Import/column.ui:37
 #: Kangaroo/Resource/ui/Objects/Model/entity.ui:14
 #: Kangaroo/Resource/ui/Objects/Model/relation.ui:15
-#: Kangaroo/Resource/ui/Objects/Search/search.ui:32
-#: Kangaroo/Resource/ui/Objects/Search/search.ui:229
+#: Kangaroo/Resource/ui/Objects/Search/search.ui:34
+#: Kangaroo/Resource/ui/Objects/Search/search.ui:231
 #: Kangaroo/Resource/ui/workspace.ui:106
 msgid "Schema"
 msgstr ""
@@ -2699,29 +2762,46 @@ msgstr ""
 msgid "%s schema document"
 msgstr ""
 
-#: Kangaroo/Dialogs/dialog_documents.vala:164
-msgid "Choose filename to save"
+#: Kangaroo/Dialogs/dialog_documents.vala:169
+#: Kangaroo/Objects/Model/helper.vala:101 Kangaroo/Objects/Query/query.vala:375
+#: Kangaroo/dumper.vala:242 Kangaroo/executor.vala:116
+msgid "Save file"
 msgstr ""
 
-#: Kangaroo/Dialogs/dialog_documents.vala:259
+#: Kangaroo/Dialogs/dialog_documents.vala:189
+#: Kangaroo/Dialogs/dialog_documents.vala:190
+#: Kangaroo/Objects/Content/builder.vala:319
+#: Kangaroo/Objects/Content/builder.vala:320
+#: Kangaroo/Objects/Model/helper.vala:120
+#: Kangaroo/Objects/Model/helper.vala:121
+#: Kangaroo/Objects/Model/helper.vala:169
+#: Kangaroo/Objects/Model/helper.vala:170 Kangaroo/Objects/Query/query.vala:391
+#: Kangaroo/Objects/Query/query.vala:392 Kangaroo/dumper.vala:259
+#: Kangaroo/dumper.vala:260 Kangaroo/executor.vala:135
+#: Kangaroo/executor.vala:136
+#, c-format
+msgid "Failed to save the file: %s"
+msgstr ""
+
+#: Kangaroo/Dialogs/dialog_documents.vala:268
+msgid "do you want to open it?"
+msgstr ""
+
+#: Kangaroo/Dialogs/dialog_documents.vala:269
 msgid "Generate document successfully"
 msgstr ""
 
-#: Kangaroo/Dialogs/dialog_documents.vala:260
-msgid "<span size='large' foreground='red'>do you want to open it?</span>"
-msgstr ""
-
+#: Kangaroo/Dialogs/dialog_entities.vala:251
 #: Kangaroo/Dialogs/dialog_entities.vala:252
-#: Kangaroo/Dialogs/dialog_entities.vala:253
-#: Kangaroo/Dialogs/dialog_entities.vala:261
+#: Kangaroo/Dialogs/dialog_entities.vala:260
 msgid "Data tables"
 msgstr ""
 
-#: Kangaroo/Dialogs/dialog_entities.vala:260
+#: Kangaroo/Dialogs/dialog_entities.vala:259
 msgid "Data Views"
 msgstr ""
 
-#: Kangaroo/Dialogs/dialog_entities.vala:338
+#: Kangaroo/Dialogs/dialog_entities.vala:337
 #: Kangaroo/Repository/panel_repository.vala:327
 #, c-format
 msgid "Load database failed: %s"
@@ -2746,43 +2826,34 @@ msgstr ""
 msgid "Choose color"
 msgstr ""
 
-#: Kangaroo/Dialogs/dialog_preferences.vala:297
-msgid "Select text editor"
-msgstr ""
-
-#: Kangaroo/Dialogs/dialog_preferences.vala:359
+#: Kangaroo/Dialogs/dialog_preferences.vala:368
 #, c-format
 msgid "Key combination already exist: %s"
 msgstr ""
 
-#: Kangaroo/Dialogs/dialog_preferences.vala:452
-#: Kangaroo/Helpers/helper_action.vala:51
-msgid "Choos image from file..."
-msgstr ""
-
-#: Kangaroo/Dialogs/dialog_preferences.vala:458
+#: Kangaroo/Dialogs/dialog_preferences.vala:463
 #: Kangaroo/Helpers/helper_action.vala:57
 msgid "All images files"
 msgstr ""
 
-#: Kangaroo/Dialogs/dialog_preferences.vala:466
+#: Kangaroo/Dialogs/dialog_preferences.vala:471
 #: Kangaroo/Helpers/helper_action.vala:65
 msgid "BMP - Windows Bitmap"
 msgstr ""
 
-#: Kangaroo/Dialogs/dialog_preferences.vala:471
+#: Kangaroo/Dialogs/dialog_preferences.vala:476
 #: Kangaroo/Helpers/helper_action.vala:70
-#: Kangaroo/Objects/Model/helper.vala:146
+#: Kangaroo/Objects/Model/helper.vala:143
 msgid "PNG - Portable Network Graphics"
 msgstr ""
 
-#: Kangaroo/Dialogs/dialog_preferences.vala:476
+#: Kangaroo/Dialogs/dialog_preferences.vala:481
 #: Kangaroo/Helpers/helper_action.vala:75
 msgid "JPG/JPEG - JPEG Images"
 msgstr ""
 
 #: Kangaroo/Dialogs/dialog_sql_builder.vala:37
-#: Kangaroo/Resource/ui/Objects/View/view.ui:129
+#: Kangaroo/Resource/ui/Objects/View/view.ui:131
 msgid "SQL builder"
 msgstr ""
 
@@ -2797,7 +2868,7 @@ msgstr ""
 
 #: Kangaroo/Dialogs/dialog_sql_builder.vala:81
 #: Kangaroo/Resource/ui/Objects/Content/builder.ui:249
-#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:242
+#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:244
 #: Kangaroo/Resource/ui/executor.ui:165
 msgid "Execute"
 msgstr ""
@@ -2861,7 +2932,7 @@ msgid ""
 "Regex: (\\w+)"
 msgstr ""
 
-#: Kangaroo/Editor/code_search.vala:91 Kangaroo/Resource/ui/code_view.ui:100
+#: Kangaroo/Editor/code_search.vala:91 Kangaroo/Resource/ui/code_view.ui:101
 msgid "Search normal | regex expression"
 msgstr ""
 
@@ -2881,12 +2952,12 @@ msgstr ""
 msgid "Replace with text"
 msgstr ""
 
-#: Kangaroo/Editor/code_search.vala:136 Kangaroo/Resource/ui/code_view.ui:161
-#: Kangaroo/Resource/ui/code_view.ui:162 Kangaroo/Resource/ui/code_view.ui:179
+#: Kangaroo/Editor/code_search.vala:136 Kangaroo/Resource/ui/code_view.ui:162
+#: Kangaroo/Resource/ui/code_view.ui:163 Kangaroo/Resource/ui/code_view.ui:180
 msgid "Replace"
 msgstr ""
 
-#: Kangaroo/Editor/code_search.vala:141 Kangaroo/Resource/ui/code_view.ui:192
+#: Kangaroo/Editor/code_search.vala:141 Kangaroo/Resource/ui/code_view.ui:193
 msgid "Replace all"
 msgstr ""
 
@@ -2907,7 +2978,7 @@ msgstr ""
 msgid "Rege_x expression"
 msgstr ""
 
-#: Kangaroo/Editor/code_search.vala:211 Kangaroo/Resource/ui/code_view.ui:231
+#: Kangaroo/Editor/code_search.vala:211 Kangaroo/Resource/ui/code_view.ui:232
 msgid "Wrap around"
 msgstr ""
 
@@ -2916,11 +2987,11 @@ msgstr ""
 msgid "Couldn't apply style to code view: %s"
 msgstr ""
 
-#: Kangaroo/Editor/code_view.vala:164
+#: Kangaroo/Editor/code_view.vala:236
 msgid "file is read-only."
 msgstr ""
 
-#: Kangaroo/Editor/code_view.vala:449
+#: Kangaroo/Editor/code_view.vala:522
 #, c-format
 msgid "Max: %u:%u"
 msgstr ""
@@ -2981,36 +3052,18 @@ msgstr ""
 msgid "Failed to load columns: %s"
 msgstr ""
 
-#: Kangaroo/Objects/Content/content.vala:103
-#: Kangaroo/Objects/Function/routine.vala:108
-#: Kangaroo/Objects/Model/view_model.vala:94
-#: Kangaroo/Objects/Query/query.vala:181 Kangaroo/Objects/Role/role.vala:87
-#: Kangaroo/Objects/Table/table.vala:96 Kangaroo/Objects/User/user.vala:87
-#: Kangaroo/Objects/View/view.vala:162 Kangaroo/workspace.vala:217
-msgid "Do you want to save changes?"
-msgstr ""
-
-#: Kangaroo/Objects/Content/content.vala:105
-#: Kangaroo/Objects/Function/routine.vala:110
-#: Kangaroo/Objects/Model/view_model.vala:96
-#: Kangaroo/Objects/Query/query.vala:183 Kangaroo/Objects/Role/role.vala:89
-#: Kangaroo/Objects/Table/table.vala:98 Kangaroo/Objects/User/user.vala:89
-#: Kangaroo/Objects/View/view.vala:164 Kangaroo/workspace.vala:219
-msgid "Don't save"
-msgstr ""
-
-#: Kangaroo/Objects/Content/content.vala:309
+#: Kangaroo/Objects/Content/content.vala:279
 #, c-format
 msgid "Error occured: %s"
 msgstr ""
 
-#: Kangaroo/Objects/Content/content.vala:368
-#: Kangaroo/Objects/Content/content.vala:373
+#: Kangaroo/Objects/Content/content.vala:338
+#: Kangaroo/Objects/Content/content.vala:343
 #, c-format
 msgid "Failed to save data: %s"
 msgstr ""
 
-#: Kangaroo/Objects/Content/content.vala:370
+#: Kangaroo/Objects/Content/content.vala:340
 #, c-format
 msgid "Failed to rollback: %s"
 msgstr ""
@@ -3021,7 +3074,7 @@ msgid "Failed to load extensions: %s"
 msgstr ""
 
 #: Kangaroo/Objects/Database/database.vala:85
-#: Kangaroo/Objects/Role/role.vala:151 Kangaroo/Objects/Schema/schema.vala:85
+#: Kangaroo/Objects/Role/role.vala:122 Kangaroo/Objects/Schema/schema.vala:85
 #, c-format
 msgid "Failed to save role: %s"
 msgstr ""
@@ -3042,10 +3095,10 @@ msgid "General"
 msgstr ""
 
 #: Kangaroo/Objects/Database/database.vala:142
-#: Kangaroo/Objects/Function/routine.vala:229
-#: Kangaroo/Objects/Function/routine.vala:238
-#: Kangaroo/Objects/Function/routine.vala:274
-#: Kangaroo/Objects/Function/routine.vala:283
+#: Kangaroo/Objects/Function/routine.vala:200
+#: Kangaroo/Objects/Function/routine.vala:209
+#: Kangaroo/Objects/Function/routine.vala:245
+#: Kangaroo/Objects/Function/routine.vala:254
 #: Kangaroo/Objects/Index/index.vala:67 Kangaroo/Objects/Index/index.vala:76
 #: Kangaroo/Objects/Index/index.vala:85
 #: Kangaroo/Objects/View/materialized.vala:36
@@ -3056,7 +3109,7 @@ msgstr ""
 
 #: Kangaroo/Objects/Explorer/explorer.vala:60
 #: Kangaroo/Resource/ui/builder/values.ui:80
-#: Kangaroo/Resource/ui/workspace.ui:660
+#: Kangaroo/Resource/ui/workspace.ui:851
 msgid "Aggregate"
 msgstr ""
 
@@ -3069,7 +3122,7 @@ msgid "Check"
 msgstr ""
 
 #: Kangaroo/Objects/Explorer/explorer.vala:60
-#: Kangaroo/Resource/ui/workspace.ui:638
+#: Kangaroo/Resource/ui/workspace.ui:829
 msgid "Cast"
 msgstr ""
 
@@ -3078,29 +3131,29 @@ msgid "Contraint"
 msgstr ""
 
 #: Kangaroo/Objects/Explorer/explorer.vala:61
-#: Kangaroo/Resource/ui/workspace.ui:665
+#: Kangaroo/Resource/ui/workspace.ui:856
 msgid "Conversion"
 msgstr ""
 
 #: Kangaroo/Objects/Explorer/explorer.vala:61
-#: Kangaroo/Objects/Role/role.vala:206 Kangaroo/Objects/Role/role.vala:234
-#: Kangaroo/Objects/Search/search.vala:140 Kangaroo/Objects/User/user.vala:206
-#: Kangaroo/Objects/User/user.vala:234 Kangaroo/dumper.vala:344
+#: Kangaroo/Objects/Role/role.vala:177 Kangaroo/Objects/Role/role.vala:205
+#: Kangaroo/Objects/Search/search.vala:140 Kangaroo/Objects/User/user.vala:177
+#: Kangaroo/Objects/User/user.vala:205 Kangaroo/dumper.vala:331
 #: Kangaroo/Resource/ui/Assistants/Import/column.ui:19
 #: Kangaroo/Resource/ui/Dialogs/connection.ui:457
-#: Kangaroo/Resource/ui/Dialogs/entities.ui:97
+#: Kangaroo/Resource/ui/Dialogs/entities.ui:56
 #: Kangaroo/Resource/ui/Objects/Model/menu.ui:73
 #: Kangaroo/Resource/ui/Objects/Model/toolbar.ui:504
-#: Kangaroo/Resource/ui/Objects/Search/search.ui:31
-#: Kangaroo/Resource/ui/Objects/Search/search.ui:188
+#: Kangaroo/Resource/ui/Objects/Search/search.ui:33
+#: Kangaroo/Resource/ui/Objects/Search/search.ui:190
 #: Kangaroo/Resource/ui/starter/starter.ui:236
-#: Kangaroo/Resource/ui/workspace.ui:563 Kangaroo/Resource/ui/workspace.ui:591
-#: Kangaroo/Resource/ui/workspace.ui:624
+#: Kangaroo/Resource/ui/workspace.ui:754 Kangaroo/Resource/ui/workspace.ui:782
+#: Kangaroo/Resource/ui/workspace.ui:815
 msgid "Database"
 msgstr ""
 
 #: Kangaroo/Objects/Explorer/explorer.vala:62
-#: Kangaroo/Resource/ui/workspace.ui:670
+#: Kangaroo/Resource/ui/workspace.ui:861
 msgid "Domain"
 msgstr ""
 
@@ -3121,12 +3174,12 @@ msgid "Materialized"
 msgstr ""
 
 #: Kangaroo/Objects/Explorer/explorer.vala:63
-#: Kangaroo/Resource/ui/workspace.ui:675
+#: Kangaroo/Resource/ui/workspace.ui:866
 msgid "Operator"
 msgstr ""
 
 #: Kangaroo/Objects/Explorer/explorer.vala:64
-#: Kangaroo/Resource/ui/workspace.ui:603
+#: Kangaroo/Resource/ui/workspace.ui:794
 msgid "Package"
 msgstr ""
 
@@ -3136,7 +3189,7 @@ msgstr ""
 
 #: Kangaroo/Objects/Explorer/explorer.vala:64
 #: Kangaroo/Objects/Search/search.vala:161
-#: Kangaroo/Resource/ui/Objects/Search/search.ui:38
+#: Kangaroo/Resource/ui/Objects/Search/search.ui:40
 msgid "Procedure"
 msgstr ""
 
@@ -3159,7 +3212,7 @@ msgstr ""
 #: Kangaroo/Resource/ui/Objects/Explorer/menu_sqlite.ui:50
 #: Kangaroo/Resource/ui/Objects/Explorer/menu_sqlite.ui:80
 #: Kangaroo/Resource/ui/Objects/Explorer/menu_sqlite.ui:152
-#: Kangaroo/Resource/ui/Objects/Search/search.ui:338
+#: Kangaroo/Resource/ui/Objects/Search/search.ui:342
 #: Kangaroo/Resource/ui/repository/menu_mariadb.ui:11
 #: Kangaroo/Resource/ui/repository/menu_mariadb.ui:90
 #: Kangaroo/Resource/ui/repository/menu_mariadb.ui:169
@@ -3188,7 +3241,7 @@ msgstr ""
 #: Kangaroo/Resource/ui/repository/menu_sqlite.ui:176
 #: Kangaroo/Resource/ui/repository/menu_sqlite.ui:260
 #: Kangaroo/Resource/ui/repository/menu_sqlite.ui:290
-#: Kangaroo/Resource/ui/workspace.ui:47
+#: Kangaroo/Resource/ui/workspace.ui:47 Kangaroo/Resource/ui/workspace.ui:533
 msgid "Query"
 msgstr ""
 
@@ -3197,18 +3250,18 @@ msgid "Report"
 msgstr ""
 
 #: Kangaroo/Objects/Explorer/explorer.vala:65
-#: Kangaroo/Objects/Role/role.vala:191 Kangaroo/Objects/Role/role.vala:219
-#: Kangaroo/Objects/Role/role.vala:246
+#: Kangaroo/Objects/Role/role.vala:162 Kangaroo/Objects/Role/role.vala:190
+#: Kangaroo/Objects/Role/role.vala:217
 #: Kangaroo/Resource/ui/Objects/Role/information_postgresql.ui:15
 #: Kangaroo/Resource/ui/Objects/User/information_postgresql.ui:15
 #: Kangaroo/Resource/ui/Objects/User/postgre_window_users.ui:120
-#: Kangaroo/Resource/ui/workspace.ui:556 Kangaroo/Resource/ui/workspace.ui:584
-#: Kangaroo/Resource/ui/workspace.ui:617
+#: Kangaroo/Resource/ui/workspace.ui:747 Kangaroo/Resource/ui/workspace.ui:775
+#: Kangaroo/Resource/ui/workspace.ui:808
 msgid "Role"
 msgstr ""
 
 #: Kangaroo/Objects/Explorer/explorer.vala:65
-#: Kangaroo/Resource/ui/workspace.ui:250
+#: Kangaroo/Resource/ui/workspace.ui:251
 msgid "Routine"
 msgstr ""
 
@@ -3217,34 +3270,34 @@ msgid "Rule"
 msgstr ""
 
 #: Kangaroo/Objects/Explorer/explorer.vala:66
-#: Kangaroo/Resource/ui/workspace.ui:643
+#: Kangaroo/Resource/ui/workspace.ui:834
 msgid "Foreign server"
 msgstr ""
 
 #: Kangaroo/Objects/Explorer/explorer.vala:66
 #: Kangaroo/Resource/ui/Objects/Model/menu.ui:105
 #: Kangaroo/Resource/ui/Objects/Model/toolbar.ui:536
-#: Kangaroo/Resource/ui/workspace.ui:205 Kangaroo/Resource/ui/workspace.ui:221
+#: Kangaroo/Resource/ui/workspace.ui:206 Kangaroo/Resource/ui/workspace.ui:222
 msgid "Trigger"
 msgstr ""
 
 #: Kangaroo/Objects/Explorer/explorer.vala:67
-#: Kangaroo/Objects/User/user.vala:191 Kangaroo/Objects/User/user.vala:219
-#: Kangaroo/Objects/User/user.vala:246
+#: Kangaroo/Objects/User/user.vala:162 Kangaroo/Objects/User/user.vala:190
+#: Kangaroo/Objects/User/user.vala:217
 #: Kangaroo/Resource/ui/Objects/Model/menu.ui:100
 #: Kangaroo/Resource/ui/Objects/Model/toolbar.ui:531
 #: Kangaroo/Resource/ui/Objects/User/mariadb_window_users.ui:120
 #: Kangaroo/Resource/ui/Objects/User/mysql_window_users.ui:120
-#: Kangaroo/Resource/ui/workspace.ui:263 Kangaroo/Resource/ui/workspace.ui:279
+#: Kangaroo/Resource/ui/workspace.ui:264 Kangaroo/Resource/ui/workspace.ui:280
 msgid "User"
 msgstr ""
 
-#: Kangaroo/Objects/Explorer/explorer.vala:107
-#: Kangaroo/Objects/Explorer/explorer.vala:114
+#: Kangaroo/Objects/Explorer/explorer.vala:108
+#: Kangaroo/Objects/Explorer/explorer.vala:115
 msgid "Common"
 msgstr ""
 
-#: Kangaroo/Objects/Explorer/explorer.vala:149
+#: Kangaroo/Objects/Explorer/explorer.vala:150
 #, c-format
 msgid "Failed to load tables: %s"
 msgstr ""
@@ -3280,14 +3333,14 @@ msgstr ""
 msgid "Default value"
 msgstr ""
 
-#: Kangaroo/Objects/Function/routine.vala:225
-#: Kangaroo/Objects/Function/routine.vala:234
-#: Kangaroo/Objects/Function/routine.vala:270
-#: Kangaroo/Objects/Function/routine.vala:279
+#: Kangaroo/Objects/Function/routine.vala:196
+#: Kangaroo/Objects/Function/routine.vala:205
+#: Kangaroo/Objects/Function/routine.vala:241
+#: Kangaroo/Objects/Function/routine.vala:250
 #: Kangaroo/Objects/Trigger/trigger.vala:53
 #: Kangaroo/Objects/Trigger/trigger.vala:61
 #: Kangaroo/Objects/Trigger/trigger.vala:69
-#: Kangaroo/Resource/ui/Objects/View/view.ui:221
+#: Kangaroo/Resource/ui/Objects/View/view.ui:226
 msgid "Definition"
 msgstr ""
 
@@ -3307,9 +3360,9 @@ msgstr ""
 msgid "Failed to load meta data: %s."
 msgstr ""
 
-#: Kangaroo/Objects/Model/Actions/diagram.vala:97
+#: Kangaroo/Objects/Model/Actions/diagram.vala:91
 #: Kangaroo/Objects/Model/diagram.vala:128
-#: Kangaroo/Objects/Model/view_model.vala:123
+#: Kangaroo/Objects/Model/view_model.vala:100
 #, c-format
 msgid "Failed to save model: %s"
 msgstr ""
@@ -3334,8 +3387,8 @@ msgstr ""
 #: Kangaroo/Resource/ui/Objects/Model/note.ui:28
 #: Kangaroo/Resource/ui/Objects/Model/text.ui:28
 #: Kangaroo/Resource/ui/Objects/Model/toolbar.ui:550
-#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:346
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:859
+#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:353
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:862
 msgid "Text"
 msgstr ""
 
@@ -3344,62 +3397,62 @@ msgid "Crow's Foot"
 msgstr ""
 
 #: Kangaroo/Objects/Model/common.vala:154
-#: Kangaroo/Objects/Model/helper.vala:233
+#: Kangaroo/Objects/Model/helper.vala:230
 msgid "IDEF1X"
 msgstr ""
 
 #: Kangaroo/Objects/Model/common.vala:156
-#: Kangaroo/Objects/Model/helper.vala:236
+#: Kangaroo/Objects/Model/helper.vala:233
 msgid "UML"
 msgstr ""
 
 #: Kangaroo/Objects/Model/common.vala:170
-#: Kangaroo/Objects/Model/helper.vala:188
+#: Kangaroo/Objects/Model/helper.vala:185
 msgid "Solid"
 msgstr ""
 
 #: Kangaroo/Objects/Model/common.vala:173
-#: Kangaroo/Objects/Model/helper.vala:191
+#: Kangaroo/Objects/Model/helper.vala:188
 msgid "Solid filled with color"
 msgstr ""
 
 #: Kangaroo/Objects/Model/common.vala:176
-#: Kangaroo/Objects/Model/helper.vala:194
+#: Kangaroo/Objects/Model/helper.vala:191
 msgid "Diamond"
 msgstr ""
 
 #: Kangaroo/Objects/Model/common.vala:179
-#: Kangaroo/Objects/Model/helper.vala:197
+#: Kangaroo/Objects/Model/helper.vala:194
 msgid "Diamond filled with color"
 msgstr ""
 
 #: Kangaroo/Objects/Model/common.vala:182
-#: Kangaroo/Objects/Model/helper.vala:200
+#: Kangaroo/Objects/Model/helper.vala:197
 msgid "Oval"
 msgstr ""
 
 #: Kangaroo/Objects/Model/common.vala:185
-#: Kangaroo/Objects/Model/helper.vala:203
+#: Kangaroo/Objects/Model/helper.vala:200
 msgid "Oval filled with color"
 msgstr ""
 
 #: Kangaroo/Objects/Model/common.vala:188
-#: Kangaroo/Objects/Model/helper.vala:206
+#: Kangaroo/Objects/Model/helper.vala:203
 msgid "Minimum zero, maximum one"
 msgstr ""
 
 #: Kangaroo/Objects/Model/common.vala:191
-#: Kangaroo/Objects/Model/helper.vala:209
+#: Kangaroo/Objects/Model/helper.vala:206
 msgid "Minimum one, maximum one"
 msgstr ""
 
 #: Kangaroo/Objects/Model/common.vala:194
-#: Kangaroo/Objects/Model/helper.vala:212
+#: Kangaroo/Objects/Model/helper.vala:209
 msgid "Minimum zero, maximum many"
 msgstr ""
 
 #: Kangaroo/Objects/Model/common.vala:197
-#: Kangaroo/Objects/Model/helper.vala:215
+#: Kangaroo/Objects/Model/helper.vala:212
 msgid "Minimum one, maximum many"
 msgstr ""
 
@@ -3413,27 +3466,19 @@ msgstr ""
 msgid "Failed to close model: %s"
 msgstr ""
 
-#: Kangaroo/Objects/Model/helper.vala:55
-msgid "Load model from file..."
-msgstr ""
-
-#: Kangaroo/Objects/Model/helper.vala:91
-msgid "Save model to file..."
-msgstr ""
-
-#: Kangaroo/Objects/Model/helper.vala:128
-msgid "Export model to file..."
-msgstr ""
-
-#: Kangaroo/Objects/Model/helper.vala:141
+#: Kangaroo/Objects/Model/helper.vala:138
 msgid "SVG - Scalable Vector Graphics"
 msgstr ""
 
-#: Kangaroo/Objects/Model/helper.vala:151
+#: Kangaroo/Objects/Model/helper.vala:148
 msgid "PDF - Portable Document Format"
 msgstr ""
 
-#: Kangaroo/Objects/Model/helper.vala:230
+#: Kangaroo/Objects/Model/helper.vala:154
+msgid "Export model"
+msgstr ""
+
+#: Kangaroo/Objects/Model/helper.vala:227
 msgid "Crow's foot"
 msgstr ""
 
@@ -3441,68 +3486,60 @@ msgstr ""
 msgid "Diagram"
 msgstr ""
 
-#: Kangaroo/Objects/Query/query.vala:109 Kangaroo/Objects/Query/query.vala:110
+#: Kangaroo/Objects/Query/query.vala:117 Kangaroo/Objects/Query/query.vala:118
 #, c-format
 msgid "Failed to monitor file: %s"
 msgstr ""
 
-#: Kangaroo/Objects/Query/query.vala:234 Kangaroo/Objects/View/view.vala:246
+#: Kangaroo/Objects/Query/query.vala:208 Kangaroo/Objects/View/view.vala:217
 #, c-format
 msgid "Failed to cache content: %s"
 msgstr ""
 
-#: Kangaroo/Objects/Query/query.vala:272
+#: Kangaroo/Objects/Query/query.vala:246
 msgid "This file has been changed, do you want to save it?"
 msgstr ""
 
-#: Kangaroo/Objects/Query/query.vala:295
+#: Kangaroo/Objects/Query/query.vala:265
 msgid "Load content from local file"
 msgstr ""
 
-#: Kangaroo/Objects/Query/query.vala:296
+#: Kangaroo/Objects/Query/query.vala:266
 msgid ""
 "This content has been changed, do you want to open file and lose the change "
 "made in here?"
 msgstr ""
 
-#: Kangaroo/Objects/Query/query.vala:326
-msgid "Load SQL from file(.sql)..."
-msgstr ""
-
-#: Kangaroo/Objects/Query/query.vala:389
-msgid "Save SQL to file(.sql)..."
+#: Kangaroo/Objects/Query/query.vala:278 Kangaroo/Objects/Query/query.vala:279
+#: Kangaroo/Objects/Query/query.vala:428
+#, c-format
+msgid "Failed to load file: %s"
 msgstr ""
 
 #. case FileMonitorEvent.CREATED:
 #. case FileMonitorEvent.CHANGED:
-#: Kangaroo/Objects/Query/query.vala:419
+#: Kangaroo/Objects/Query/query.vala:410
 msgid ""
 "This file has been changed by another program, do you want to reload it?"
 msgstr ""
 
-#: Kangaroo/Objects/Query/query.vala:421
+#: Kangaroo/Objects/Query/query.vala:412
 msgid ""
 "This file has been changed by another program, do you want to reload it and "
 "lose the change made in here?"
 msgstr ""
 
-#: Kangaroo/Objects/Query/query.vala:433 Kangaroo/Objects/Query/query.vala:505
-#: Kangaroo/Objects/Query/query.vala:506
-#, c-format
-msgid "Failed to load file: %s"
-msgstr ""
-
-#: Kangaroo/Objects/Query/query.vala:446
+#: Kangaroo/Objects/Query/query.vala:436
 msgid ""
 "This file has been changed by another program, do you want to change with "
 "new filename?"
 msgstr ""
 
-#: Kangaroo/Objects/Query/query.vala:461
+#: Kangaroo/Objects/Query/query.vala:451
 msgid "This file doesn't exist anymore, keep this file in editor?"
 msgstr ""
 
-#: Kangaroo/Objects/Query/query.vala:476
+#: Kangaroo/Objects/Query/query.vala:465
 msgid ""
 "This file will be unmounted by another program, keep this file in editor?"
 msgstr ""
@@ -3518,30 +3555,30 @@ msgstr ""
 msgid "With admin option"
 msgstr ""
 
-#: Kangaroo/Objects/Role/role.vala:196 Kangaroo/Objects/Role/role.vala:224
-#: Kangaroo/Objects/Role/role.vala:250 Kangaroo/Objects/User/user.vala:196
-#: Kangaroo/Objects/User/user.vala:224 Kangaroo/Objects/User/user.vala:250
+#: Kangaroo/Objects/Role/role.vala:167 Kangaroo/Objects/Role/role.vala:195
+#: Kangaroo/Objects/Role/role.vala:221 Kangaroo/Objects/User/user.vala:167
+#: Kangaroo/Objects/User/user.vala:195 Kangaroo/Objects/User/user.vala:221
 msgid "Relation"
 msgstr ""
 
-#: Kangaroo/Objects/Role/role.vala:201 Kangaroo/Objects/Role/role.vala:229
-#: Kangaroo/Objects/User/user.vala:201 Kangaroo/Objects/User/user.vala:229
+#: Kangaroo/Objects/Role/role.vala:172 Kangaroo/Objects/Role/role.vala:200
+#: Kangaroo/Objects/User/user.vala:172 Kangaroo/Objects/User/user.vala:200
 msgid "Global"
 msgstr ""
 
-#: Kangaroo/Objects/Role/role.vala:212 Kangaroo/Objects/Role/role.vala:240
-#: Kangaroo/Objects/User/user.vala:212 Kangaroo/Objects/User/user.vala:240
-#: Kangaroo/Resource/ui/Objects/Search/search.ui:270
+#: Kangaroo/Objects/Role/role.vala:183 Kangaroo/Objects/Role/role.vala:211
+#: Kangaroo/Objects/User/user.vala:183 Kangaroo/Objects/User/user.vala:211
+#: Kangaroo/Resource/ui/Objects/Search/search.ui:272
 msgid "Entity"
 msgstr ""
 
-#: Kangaroo/Objects/Role/role.vala:254 Kangaroo/Objects/User/user.vala:254
+#: Kangaroo/Objects/Role/role.vala:225 Kangaroo/Objects/User/user.vala:225
 msgid "Privilege"
 msgstr ""
 
 #: Kangaroo/Objects/Search/search.vala:155
-#: Kangaroo/Resource/ui/Objects/Search/search.ui:18
-#: Kangaroo/Resource/ui/Objects/Search/search.ui:36
+#: Kangaroo/Resource/ui/Objects/Search/search.ui:20
+#: Kangaroo/Resource/ui/Objects/Search/search.ui:38
 msgid "Keyword"
 msgstr ""
 
@@ -3728,16 +3765,16 @@ msgstr ""
 msgid "Failed to paste data: %s"
 msgstr ""
 
-#: Kangaroo/Objects/Table/table.vala:131
+#: Kangaroo/Objects/Table/table.vala:102
 #, c-format
 msgid "Failed to load table: %s"
 msgstr ""
 
-#: Kangaroo/Objects/Table/table.vala:152
+#: Kangaroo/Objects/Table/table.vala:121
 msgid "Data table name"
 msgstr ""
 
-#: Kangaroo/Objects/Table/table.vala:154
+#: Kangaroo/Objects/Table/table.vala:121
 msgid "Input new table name here"
 msgstr ""
 
@@ -3758,56 +3795,55 @@ msgstr ""
 msgid "Partitioned table name"
 msgstr ""
 
-#: Kangaroo/Objects/User/user.vala:151
+#: Kangaroo/Objects/User/user.vala:122
 #, c-format
 msgid "Failed to save user: %s"
 msgstr ""
 
-#: Kangaroo/Objects/view_history.vala:88 Kangaroo/Resource/ui/preference.ui:714
+#: Kangaroo/Objects/view_history.vala:80 Kangaroo/Resource/ui/preference.ui:714
 msgid "Level risky"
 msgstr ""
 
-#: Kangaroo/Objects/view_history.vala:89 Kangaroo/Resource/ui/preference.ui:715
+#: Kangaroo/Objects/view_history.vala:81 Kangaroo/Resource/ui/preference.ui:715
 msgid "Level plain"
 msgstr ""
 
-#: Kangaroo/Objects/view_history.vala:90 Kangaroo/Resource/ui/preference.ui:716
+#: Kangaroo/Objects/view_history.vala:82 Kangaroo/Resource/ui/preference.ui:716
 msgid "Level debug"
 msgstr ""
 
 #. history_clear_button.relief = Gtk.ReliefStyle.NONE;
-#: Kangaroo/Objects/view_history.vala:99
+#: Kangaroo/Objects/view_history.vala:91
 #: Kangaroo/Widgets/view_color_text.vala:63
 msgid "Clear all"
 msgstr ""
 
-#: Kangaroo/Objects/view_history.vala:100
+#: Kangaroo/Objects/view_history.vala:92
 #: Kangaroo/Widgets/view_color_text.vala:64
 msgid "Clear all log history"
 msgstr ""
 
-#: Kangaroo/Objects/view_history.vala:105
-#: Kangaroo/Objects/view_history.vala:109
+#: Kangaroo/Objects/view_history.vala:97 Kangaroo/Objects/view_history.vala:101
 #: Kangaroo/Widgets/view_color_text.vala:72
 #: Kangaroo/Widgets/view_color_text.vala:74
 msgid "Word wrap"
 msgstr ""
 
 #. title, action, image
-#: Kangaroo/Objects/view_tools.vala:24
+#: Kangaroo/Objects/view_tools.vala:23
 msgid "Export data"
 msgstr ""
 
-#: Kangaroo/Objects/view_tools.vala:25
+#: Kangaroo/Objects/view_tools.vala:24
 msgid "Import data"
 msgstr ""
 
-#: Kangaroo/Objects/view_tools.vala:27
+#: Kangaroo/Objects/view_tools.vala:26
 #: Kangaroo/Resource/ui/Dialogs/documents.ui:8
 msgid "Generate document"
 msgstr ""
 
-#: Kangaroo/Objects/worksheet.vala:26
+#: Kangaroo/Objects/worksheet.vala:19
 #, c-format
 msgid "Untitled-%d"
 msgstr ""
@@ -3865,15 +3901,15 @@ msgstr ""
 msgid "Failed to reopen connection: %s"
 msgstr ""
 
-#: Kangaroo/Repository/panel_repository.vala:697
+#: Kangaroo/Repository/panel_repository.vala:695
 msgid "Object new name"
 msgstr ""
 
-#: Kangaroo/Repository/panel_repository.vala:699
+#: Kangaroo/Repository/panel_repository.vala:695
 msgid "Input new object name here"
 msgstr ""
 
-#: Kangaroo/Repository/panel_repository.vala:733
+#: Kangaroo/Repository/panel_repository.vala:730
 #, c-format
 msgid "Rename database object failed: %s"
 msgstr ""
@@ -3971,6 +4007,11 @@ msgstr ""
 msgid "Now: %s"
 msgstr ""
 
+#. SQL file filter
+#: Kangaroo/application.vala:253
+msgid "SQL script file"
+msgstr ""
+
 #: Kangaroo/attributes.vala.in:6 data/kangaroo.desktop.in.in:3
 msgid "Kangaroo"
 msgstr ""
@@ -3985,12 +4026,6 @@ msgstr ""
 
 #: Kangaroo/attributes.vala.in:16
 msgid "Kangaroo official website"
-msgstr ""
-
-#: Kangaroo/attributes.vala.in:35
-msgid ""
-"Distributed under the Kangaroo's End User License Agreement. \n"
-"Please see <https://www.datatable.online/en/license/service-agreement.html>"
 msgstr ""
 
 #: Kangaroo/dumper.vala:63 Kangaroo/executor.vala:49
@@ -4010,16 +4045,7 @@ msgstr ""
 msgid "DDL: %s"
 msgstr ""
 
-#: Kangaroo/dumper.vala:240
-msgid "Save SQL data to file"
-msgstr ""
-
-#: Kangaroo/dumper.vala:248 Kangaroo/executor.vala:122
-#: Kangaroo/Resource/ui/executor.ui:50
-msgid "SQL file"
-msgstr ""
-
-#: Kangaroo/dumper.vala:610
+#: Kangaroo/dumper.vala:597
 #, c-format
 msgid "%s Dump work finished"
 msgstr ""
@@ -4034,25 +4060,49 @@ msgstr ""
 msgid "Context: Database: %s, Schema: %s"
 msgstr ""
 
-#: Kangaroo/executor.vala:114
-msgid "Save to local file"
-msgstr ""
-
-#: Kangaroo/workbench.vala:396
+#: Kangaroo/workbench.vala:385
 msgid "The license is expired, pls renew your license immediately."
 msgstr ""
 
-#: Kangaroo/workbench.vala:397 Kangaroo/workbench.vala:405
-#: Kangaroo/workbench.vala:414 Kangaroo/Resource/ui/workbench.ui:163
+#: Kangaroo/workbench.vala:386 Kangaroo/workbench.vala:394
+#: Kangaroo/workbench.vala:403 Kangaroo/Resource/ui/workbench.ui:141
 msgid "_Update"
 msgstr ""
 
-#: Kangaroo/workbench.vala:404 Kangaroo/workbench.vala:413
+#: Kangaroo/workbench.vala:393 Kangaroo/workbench.vala:402
 msgid "This version is expired, pls upgrade your tool to the latest version."
 msgstr ""
 
-#: Kangaroo/workspace.vala:218
+#: Kangaroo/workspace.vala:273
+msgid "Do you want to save changes?"
+msgstr ""
+
+#: Kangaroo/workspace.vala:274
 msgid "Warning: app will cache SQL only, not others."
+msgstr ""
+
+#: Kangaroo/workspace.vala:275
+msgid "Don't save"
+msgstr ""
+
+#: Kangaroo/workspace.vala:581
+msgid "Indent: Off"
+msgstr ""
+
+#: Kangaroo/workspace.vala:583
+msgid "Spaces"
+msgstr ""
+
+#: Kangaroo/workspace.vala:583
+msgid "Tabs"
+msgstr ""
+
+#: Kangaroo/workspace.vala:860
+msgid "More encoding"
+msgstr ""
+
+#: Kangaroo/workspace.vala:917
+msgid "More language"
 msgstr ""
 
 #: Kangaroo/Resource/ui/Assistants/Export/format.ui:11
@@ -4168,7 +4218,7 @@ msgid "Back"
 msgstr ""
 
 #: Kangaroo/Resource/ui/Assistants/assistant.ui:32
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:395
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:397
 msgid "Next"
 msgstr ""
 
@@ -4247,33 +4297,33 @@ msgstr ""
 #: Kangaroo/Resource/ui/Objects/Index/general_mysql.ui:241
 #: Kangaroo/Resource/ui/Objects/Index/general_postgresql.ui:229
 #: Kangaroo/Resource/ui/Objects/Index/general_sqlite.ui:209
-#: Kangaroo/Resource/ui/Objects/Table/table.ui:50
+#: Kangaroo/Resource/ui/Objects/Table/table.ui:52
 msgid "Append a new item on the end"
 msgstr ""
 
 #: Kangaroo/Resource/ui/Assistants/option_dsv.ui:123
 #: Kangaroo/Resource/ui/Dialogs/connection.ui:199
-#: Kangaroo/Resource/ui/Objects/Explorer/explorer.ui:77
-#: Kangaroo/Resource/ui/Objects/Explorer/explorer.ui:94
+#: Kangaroo/Resource/ui/Objects/Explorer/explorer.ui:79
+#: Kangaroo/Resource/ui/Objects/Explorer/explorer.ui:96
 #: Kangaroo/Resource/ui/Objects/Function/general_mysql.ui:84
 #: Kangaroo/Resource/ui/Objects/Function/general_postgresql.ui:86
 #: Kangaroo/Resource/ui/Objects/Index/general_mysql.ui:258
 #: Kangaroo/Resource/ui/Objects/Index/general_postgresql.ui:246
 #: Kangaroo/Resource/ui/Objects/Index/general_sqlite.ui:226
-#: Kangaroo/Resource/ui/Objects/Table/table.ui:67
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:168
+#: Kangaroo/Resource/ui/Objects/Table/table.ui:69
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:170
 msgid "Append"
 msgstr ""
 
 #: Kangaroo/Resource/ui/Assistants/option_dsv.ui:134
 #: Kangaroo/Resource/ui/Dialogs/connection.ui:210
-#: Kangaroo/Resource/ui/Objects/Explorer/explorer.ui:105
+#: Kangaroo/Resource/ui/Objects/Explorer/explorer.ui:107
 #: Kangaroo/Resource/ui/Objects/Function/general_mysql.ui:95
 #: Kangaroo/Resource/ui/Objects/Function/general_postgresql.ui:97
 #: Kangaroo/Resource/ui/Objects/Index/general_mysql.ui:269
 #: Kangaroo/Resource/ui/Objects/Index/general_postgresql.ui:257
 #: Kangaroo/Resource/ui/Objects/Index/general_sqlite.ui:237
-#: Kangaroo/Resource/ui/Objects/Table/table.ui:106
+#: Kangaroo/Resource/ui/Objects/Table/table.ui:108
 msgid "Delete selected item"
 msgstr ""
 
@@ -4281,7 +4331,7 @@ msgstr ""
 #: Kangaroo/Resource/ui/Dialogs/connection.ui:241
 #: Kangaroo/Resource/ui/Objects/Function/general_mysql.ui:126
 #: Kangaroo/Resource/ui/Objects/Function/general_postgresql.ui:128
-#: Kangaroo/Resource/ui/Objects/Table/table.ui:137
+#: Kangaroo/Resource/ui/Objects/Table/table.ui:139
 msgid "Move selected item forward"
 msgstr ""
 
@@ -4292,14 +4342,14 @@ msgstr ""
 #: Kangaroo/Resource/ui/Objects/Index/general_mysql.ui:199
 #: Kangaroo/Resource/ui/Objects/Index/general_postgresql.ui:187
 #: Kangaroo/Resource/ui/Objects/Index/general_sqlite.ui:167
-#: Kangaroo/Resource/ui/Objects/Table/table.ui:154
+#: Kangaroo/Resource/ui/Objects/Table/table.ui:156
 #: Kangaroo/Resource/ui/builder/menus.ui:18
 #: Kangaroo/Resource/ui/builder/menus.ui:118
 #: Kangaroo/Resource/ui/builder/menus.ui:151
 #: Kangaroo/Resource/ui/builder/menus.ui:213
 #: Kangaroo/Resource/ui/builder/menus.ui:246
 #: Kangaroo/Resource/ui/builder/menus.ui:272
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:487
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:489
 msgid "Move up"
 msgstr ""
 
@@ -4307,7 +4357,7 @@ msgstr ""
 #: Kangaroo/Resource/ui/Dialogs/connection.ui:269
 #: Kangaroo/Resource/ui/Objects/Function/general_mysql.ui:154
 #: Kangaroo/Resource/ui/Objects/Function/general_postgresql.ui:156
-#: Kangaroo/Resource/ui/Objects/Table/table.ui:165
+#: Kangaroo/Resource/ui/Objects/Table/table.ui:167
 msgid "Move selected item backward"
 msgstr ""
 
@@ -4318,14 +4368,14 @@ msgstr ""
 #: Kangaroo/Resource/ui/Objects/Index/general_mysql.ui:227
 #: Kangaroo/Resource/ui/Objects/Index/general_postgresql.ui:215
 #: Kangaroo/Resource/ui/Objects/Index/general_sqlite.ui:195
-#: Kangaroo/Resource/ui/Objects/Table/table.ui:182
+#: Kangaroo/Resource/ui/Objects/Table/table.ui:184
 #: Kangaroo/Resource/ui/builder/menus.ui:23
 #: Kangaroo/Resource/ui/builder/menus.ui:123
 #: Kangaroo/Resource/ui/builder/menus.ui:156
 #: Kangaroo/Resource/ui/builder/menus.ui:218
 #: Kangaroo/Resource/ui/builder/menus.ui:251
 #: Kangaroo/Resource/ui/builder/menus.ui:277
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:516
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:518
 msgid "Move down"
 msgstr ""
 
@@ -4391,7 +4441,7 @@ msgid "Attach"
 msgstr ""
 
 #: Kangaroo/Resource/ui/Dialogs/connection.ui:6
-#: Kangaroo/Resource/ui/Dialogs/entities.ui:78
+#: Kangaroo/Resource/ui/Dialogs/entities.ui:37
 msgid "Connection"
 msgstr ""
 
@@ -4573,7 +4623,11 @@ msgstr ""
 msgid "Import from database"
 msgstr ""
 
-#: Kangaroo/Resource/ui/Dialogs/entities.ui:23
+#: Kangaroo/Resource/ui/Dialogs/entities.ui:22
+msgid "Select the tables you want to import..."
+msgstr ""
+
+#: Kangaroo/Resource/ui/Dialogs/entities.ui:99
 #: Kangaroo/Resource/ui/Objects/Model/menu.ui:130
 #: Kangaroo/Resource/ui/Objects/Model/menu.ui:175
 #: Kangaroo/Resource/ui/Objects/Table/menu.ui:41
@@ -4582,12 +4636,8 @@ msgstr ""
 msgid "Select all"
 msgstr ""
 
-#: Kangaroo/Resource/ui/Dialogs/entities.ui:29
+#: Kangaroo/Resource/ui/Dialogs/entities.ui:105
 msgid "Unselect all"
-msgstr ""
-
-#: Kangaroo/Resource/ui/Dialogs/entities.ui:63
-msgid "Select the tables you want to import..."
 msgstr ""
 
 #: Kangaroo/Resource/ui/Objects/Content/builder.ui:14
@@ -4618,20 +4668,8 @@ msgstr ""
 #: Kangaroo/Resource/ui/Objects/Content/builder.ui:425
 #: Kangaroo/Resource/ui/Objects/Model/toolbar.ui:171
 #: Kangaroo/Resource/ui/datagrid/view_cell.ui:37
-#: Kangaroo/Resource/ui/workspace.ui:367
+#: Kangaroo/Resource/ui/workspace.ui:368
 msgid "Export"
-msgstr ""
-
-#: Kangaroo/Resource/ui/Objects/Content/builder.ui:166
-msgid "Import data from file"
-msgstr ""
-
-#: Kangaroo/Resource/ui/Objects/Content/builder.ui:184
-#: Kangaroo/Resource/ui/Objects/Content/builder.ui:472
-#: Kangaroo/Resource/ui/Objects/Model/toolbar.ui:26
-#: Kangaroo/Resource/ui/datagrid/view_cell.ui:66
-#: Kangaroo/Resource/ui/workspace.ui:395
-msgid "Import"
 msgstr ""
 
 #: Kangaroo/Resource/ui/Objects/Content/builder.ui:199
@@ -4662,6 +4700,10 @@ msgstr ""
 msgid "Export data to clipboard..."
 msgstr ""
 
+#: Kangaroo/Resource/ui/Objects/Content/builder.ui:451
+msgid "Import data from file..."
+msgstr ""
+
 #: Kangaroo/Resource/ui/Objects/Content/builder.ui:466
 msgid "Import data from clipboard..."
 msgstr ""
@@ -4679,19 +4721,19 @@ msgstr ""
 msgid "Installed"
 msgstr ""
 
-#: Kangaroo/Resource/ui/Objects/Database/database.ui:19
+#: Kangaroo/Resource/ui/Objects/Database/database.ui:21
 msgid "Save database"
 msgstr ""
 
-#: Kangaroo/Resource/ui/Objects/Database/database.ui:68
-#: Kangaroo/Resource/ui/Objects/Function/function.ui:223
-#: Kangaroo/Resource/ui/Objects/Index/index.ui:69
-#: Kangaroo/Resource/ui/Objects/Role/role.ui:71
-#: Kangaroo/Resource/ui/Objects/Schema/schema.ui:68
-#: Kangaroo/Resource/ui/Objects/Table/table.ui:214
-#: Kangaroo/Resource/ui/Objects/Trigger/trigger.ui:69
-#: Kangaroo/Resource/ui/Objects/User/user.ui:72
-#: Kangaroo/Resource/ui/Objects/View/view.ui:286
+#: Kangaroo/Resource/ui/Objects/Database/database.ui:73
+#: Kangaroo/Resource/ui/Objects/Function/function.ui:228
+#: Kangaroo/Resource/ui/Objects/Index/index.ui:74
+#: Kangaroo/Resource/ui/Objects/Role/role.ui:76
+#: Kangaroo/Resource/ui/Objects/Schema/schema.ui:73
+#: Kangaroo/Resource/ui/Objects/Table/table.ui:219
+#: Kangaroo/Resource/ui/Objects/Trigger/trigger.ui:74
+#: Kangaroo/Resource/ui/Objects/User/user.ui:77
+#: Kangaroo/Resource/ui/Objects/View/view.ui:294
 msgid "SQL Preview"
 msgstr ""
 
@@ -4718,12 +4760,12 @@ msgstr ""
 msgid "Is template"
 msgstr ""
 
-#: Kangaroo/Resource/ui/Objects/Explorer/explorer.ui:19
+#: Kangaroo/Resource/ui/Objects/Explorer/explorer.ui:21
 msgid "Open object"
 msgstr ""
 
-#: Kangaroo/Resource/ui/Objects/Explorer/explorer.ui:49
-#: Kangaroo/Resource/ui/Objects/Explorer/explorer.ui:66
+#: Kangaroo/Resource/ui/Objects/Explorer/explorer.ui:51
+#: Kangaroo/Resource/ui/Objects/Explorer/explorer.ui:68
 #: Kangaroo/Resource/ui/Objects/Explorer/menu_mariadb.ui:32
 #: Kangaroo/Resource/ui/Objects/Explorer/menu_mariadb.ui:104
 #: Kangaroo/Resource/ui/Objects/Explorer/menu_mariadb.ui:176
@@ -4778,7 +4820,7 @@ msgstr ""
 #: Kangaroo/Resource/ui/Objects/Explorer/menu_sqlite.ui:164
 #: Kangaroo/Resource/ui/Objects/Explorer/menu_sqlite.ui:214
 #: Kangaroo/Resource/ui/Objects/Explorer/menu_sqlite.ui:242
-#: Kangaroo/Resource/ui/Objects/Search/search.ui:333
+#: Kangaroo/Resource/ui/Objects/Search/search.ui:337
 #: Kangaroo/Resource/ui/repository/menu_mariadb.ui:23
 #: Kangaroo/Resource/ui/repository/menu_mariadb.ui:102
 #: Kangaroo/Resource/ui/repository/menu_mariadb.ui:181
@@ -4796,29 +4838,29 @@ msgstr ""
 msgid "Edit"
 msgstr ""
 
-#: Kangaroo/Resource/ui/Objects/Explorer/explorer.ui:143
+#: Kangaroo/Resource/ui/Objects/Explorer/explorer.ui:145
 msgid "Object name..."
 msgstr ""
 
-#: Kangaroo/Resource/ui/Objects/Explorer/explorer.ui:149
-#: Kangaroo/Resource/ui/Objects/Explorer/explorer.ui:165
+#: Kangaroo/Resource/ui/Objects/Explorer/explorer.ui:151
+#: Kangaroo/Resource/ui/Objects/Explorer/explorer.ui:167
 #: Kangaroo/Resource/ui/workspace.ui:75
 msgid "Search"
 msgstr ""
 
-#: Kangaroo/Resource/ui/Objects/Explorer/explorer.ui:177
-#: Kangaroo/Resource/ui/Objects/Explorer/explorer.ui:194
+#: Kangaroo/Resource/ui/Objects/Explorer/explorer.ui:179
+#: Kangaroo/Resource/ui/Objects/Explorer/explorer.ui:196
 msgid "Iconic"
 msgstr ""
 
-#: Kangaroo/Resource/ui/Objects/Explorer/explorer.ui:208
-#: Kangaroo/Resource/ui/Objects/Explorer/explorer.ui:225
+#: Kangaroo/Resource/ui/Objects/Explorer/explorer.ui:210
+#: Kangaroo/Resource/ui/Objects/Explorer/explorer.ui:227
 msgid "Detail"
 msgstr ""
 
 #: Kangaroo/Resource/ui/Objects/Explorer/menu_common.ui:7
 #: Kangaroo/Resource/ui/Objects/Explorer/menu_common.ui:45
-#: Kangaroo/Resource/ui/Objects/Search/search.ui:39
+#: Kangaroo/Resource/ui/Objects/Search/search.ui:41
 msgid "All"
 msgstr ""
 
@@ -4829,7 +4871,7 @@ msgstr ""
 
 #: Kangaroo/Resource/ui/Objects/Explorer/menu_common.ui:23
 #: Kangaroo/Resource/ui/Objects/Explorer/menu_common.ui:61
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:283
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:285
 #: Kangaroo/Resource/ui/datagrid/view_menu.ui:374
 #: Kangaroo/Resource/ui/datagrid/view_menu.ui:581
 #: Kangaroo/Resource/ui/repository/menu_mariadb.ui:67
@@ -5043,7 +5085,7 @@ msgstr ""
 #: Kangaroo/Resource/ui/Objects/Explorer/menu_postgresql.ui:233
 #: Kangaroo/Resource/ui/Objects/Explorer/menu_sqlite.ui:97
 #: Kangaroo/Resource/ui/Objects/Explorer/menu_sqlite.ui:169
-#: Kangaroo/Resource/ui/Objects/Search/search.ui:345
+#: Kangaroo/Resource/ui/Objects/Search/search.ui:349
 #: Kangaroo/Resource/ui/repository/menu_mariadb.ui:33
 #: Kangaroo/Resource/ui/repository/menu_mariadb.ui:107
 #: Kangaroo/Resource/ui/repository/menu_mariadb.ui:186
@@ -5262,58 +5304,58 @@ msgstr ""
 msgid "Security"
 msgstr ""
 
-#: Kangaroo/Resource/ui/Objects/Function/function.ui:18
-#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:17
-#: Kangaroo/Resource/ui/Objects/View/view.ui:19
+#: Kangaroo/Resource/ui/Objects/Function/function.ui:20
+#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:19
+#: Kangaroo/Resource/ui/Objects/View/view.ui:21
 msgid "Show or hide output"
 msgstr ""
 
-#: Kangaroo/Resource/ui/Objects/Function/function.ui:50
-#: Kangaroo/Resource/ui/Objects/View/view.ui:51
+#: Kangaroo/Resource/ui/Objects/Function/function.ui:52
+#: Kangaroo/Resource/ui/Objects/View/view.ui:53
 msgid "Apply sql to update the view"
 msgstr ""
 
-#: Kangaroo/Resource/ui/Objects/Function/function.ui:80
+#: Kangaroo/Resource/ui/Objects/Function/function.ui:82
 msgid "Execute definition SQL and show result"
 msgstr ""
 
-#: Kangaroo/Resource/ui/Objects/Function/function.ui:97
+#: Kangaroo/Resource/ui/Objects/Function/function.ui:99
 msgid "Execute definition"
 msgstr ""
 
-#: Kangaroo/Resource/ui/Objects/Function/function.ui:108
+#: Kangaroo/Resource/ui/Objects/Function/function.ui:110
 msgid "Execute the saved function/procedure and show result"
 msgstr ""
 
-#: Kangaroo/Resource/ui/Objects/Function/function.ui:126
+#: Kangaroo/Resource/ui/Objects/Function/function.ui:128
 msgid "Execute routine"
 msgstr ""
 
-#: Kangaroo/Resource/ui/Objects/Function/function.ui:140
-#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:138
-#: Kangaroo/Resource/ui/Objects/View/view.ui:143
+#: Kangaroo/Resource/ui/Objects/Function/function.ui:142
+#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:140
+#: Kangaroo/Resource/ui/Objects/View/view.ui:145
 msgid "Format SQL statements with indent spaces"
 msgstr ""
 
-#: Kangaroo/Resource/ui/Objects/Function/function.ui:157
-#: Kangaroo/Resource/ui/Objects/View/view.ui:160
+#: Kangaroo/Resource/ui/Objects/Function/function.ui:159
+#: Kangaroo/Resource/ui/Objects/View/view.ui:162
 msgid "SQL beautify"
 msgstr ""
 
-#: Kangaroo/Resource/ui/Objects/Function/function.ui:169
-#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:166
-#: Kangaroo/Resource/ui/Objects/View/view.ui:172
+#: Kangaroo/Resource/ui/Objects/Function/function.ui:171
+#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:168
+#: Kangaroo/Resource/ui/Objects/View/view.ui:174
 msgid "Remove indent spaces from SQL statements"
 msgstr ""
 
-#: Kangaroo/Resource/ui/Objects/Function/function.ui:185
-#: Kangaroo/Resource/ui/Objects/View/view.ui:188
+#: Kangaroo/Resource/ui/Objects/Function/function.ui:187
+#: Kangaroo/Resource/ui/Objects/View/view.ui:190
 msgid "SQL minify"
 msgstr ""
 
-#: Kangaroo/Resource/ui/Objects/Function/function.ui:256
-#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:284
-#: Kangaroo/Resource/ui/Objects/View/view.ui:255
+#: Kangaroo/Resource/ui/Objects/Function/function.ui:264
+#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:289
+#: Kangaroo/Resource/ui/Objects/View/view.ui:263
 #: Kangaroo/Resource/ui/dumper.ui:231 Kangaroo/Resource/ui/executor.ui:139
 msgid "Message"
 msgstr ""
@@ -5453,8 +5495,8 @@ msgstr ""
 msgid "SQL where expression"
 msgstr ""
 
-#: Kangaroo/Resource/ui/Objects/Index/index.ui:20
-#: Kangaroo/Resource/ui/Objects/Trigger/trigger.ui:20
+#: Kangaroo/Resource/ui/Objects/Index/index.ui:22
+#: Kangaroo/Resource/ui/Objects/Trigger/trigger.ui:22
 msgid "Save index"
 msgstr ""
 
@@ -5643,7 +5685,7 @@ msgstr ""
 #: Kangaroo/Resource/ui/Objects/Model/image.ui:28
 #: Kangaroo/Resource/ui/Objects/Model/menu.ui:28
 #: Kangaroo/Resource/ui/Objects/Model/toolbar.ui:314
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:888
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:891
 msgid "Image"
 msgstr ""
 
@@ -5864,7 +5906,7 @@ msgid "Open model"
 msgstr ""
 
 #: Kangaroo/Resource/ui/Objects/Model/toolbar.ui:98
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:209
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:211
 msgid "Save changes"
 msgstr ""
 
@@ -5931,58 +5973,58 @@ msgstr ""
 msgid "Synchronize to database"
 msgstr ""
 
-#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:48
+#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:50
 msgid "Save SQL statements to file"
 msgstr ""
 
-#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:76
+#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:78
 msgid "Load SQL statements from file"
 msgstr ""
 
-#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:93
+#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:95
 msgid "Load"
 msgstr ""
 
-#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:107
-#: Kangaroo/Resource/ui/Objects/View/view.ui:112
+#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:109
+#: Kangaroo/Resource/ui/Objects/View/view.ui:114
 msgid "Make SQL with builder"
 msgstr ""
 
-#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:124
+#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:126
 msgid "Builder"
 msgstr ""
 
-#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:155
+#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:157
 msgid "Beautify"
 msgstr ""
 
-#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:183
+#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:185
 msgid "Minify"
 msgstr ""
 
-#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:197
+#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:199
 msgid "Explain the detailed execute plan"
 msgstr ""
 
-#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:214
+#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:216
 msgid "Explain"
 msgstr ""
 
-#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:225
+#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:227
 msgid "Execute selected statements or all statements"
 msgstr ""
 
-#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:302
-#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:323
-#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:339
+#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:309
+#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:330
+#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:346
 msgid "Analyze"
 msgstr ""
 
-#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:314
+#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:321
 msgid "Tree"
 msgstr ""
 
-#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:361
+#: Kangaroo/Resource/ui/Objects/Query/view_query.ui:368
 msgid "YAML"
 msgstr ""
 
@@ -6325,7 +6367,7 @@ msgstr ""
 msgid "Role owned members"
 msgstr ""
 
-#: Kangaroo/Resource/ui/Objects/Role/role.ui:20
+#: Kangaroo/Resource/ui/Objects/Role/role.ui:22
 msgid "Save role"
 msgstr ""
 
@@ -6352,17 +6394,17 @@ msgstr ""
 msgid "Schema name"
 msgstr ""
 
-#: Kangaroo/Resource/ui/Objects/Schema/schema.ui:19
+#: Kangaroo/Resource/ui/Objects/Schema/schema.ui:21
 msgid "Save schema"
 msgstr ""
 
-#: Kangaroo/Resource/ui/Objects/Search/search.ui:146
+#: Kangaroo/Resource/ui/Objects/Search/search.ui:148
 msgid "Category"
 msgstr ""
 
 #: Kangaroo/Resource/ui/Objects/Table/menu.ui:24
 #: Kangaroo/Resource/ui/Objects/Table/postgresql/trigger.ui:86
-#: Kangaroo/Resource/ui/Objects/Table/table.ui:95
+#: Kangaroo/Resource/ui/Objects/Table/table.ui:97
 #: Kangaroo/Resource/ui/Objects/Trigger/general_postgresql.ui:163
 #: Kangaroo/Resource/ui/builder/menus.ui:6
 #: Kangaroo/Resource/ui/builder/menus.ui:44
@@ -6732,10 +6774,6 @@ msgstr ""
 msgid "Choose function schema"
 msgstr ""
 
-#: Kangaroo/Resource/ui/Objects/Table/postgresql/trigger.ui:244
-msgid "Function name"
-msgstr ""
-
 #: Kangaroo/Resource/ui/Objects/Table/postgresql/trigger.ui:253
 msgid "Choose function"
 msgstr ""
@@ -6785,11 +6823,11 @@ msgstr ""
 msgid "On Conflict"
 msgstr ""
 
-#: Kangaroo/Resource/ui/Objects/Table/table.ui:18
+#: Kangaroo/Resource/ui/Objects/Table/table.ui:20
 msgid "Save schema's change to database"
 msgstr ""
 
-#: Kangaroo/Resource/ui/Objects/Table/table.ui:78
+#: Kangaroo/Resource/ui/Objects/Table/table.ui:80
 msgid "Create a new item on current position"
 msgstr ""
 
@@ -6797,10 +6835,6 @@ msgstr ""
 #: Kangaroo/Resource/ui/Objects/Trigger/general_postgresql.ui:156
 #: Kangaroo/Resource/ui/Objects/Trigger/general_sqlite.ui:69
 msgid "On event"
-msgstr ""
-
-#: Kangaroo/Resource/ui/Objects/Trigger/general_mysql.ui:99
-msgid "Trigger name"
 msgstr ""
 
 #: Kangaroo/Resource/ui/Objects/Trigger/general_postgresql.ui:57
@@ -7005,7 +7039,7 @@ msgstr ""
 msgid "_Privileges"
 msgstr ""
 
-#: Kangaroo/Resource/ui/Objects/User/user.ui:20
+#: Kangaroo/Resource/ui/Objects/User/user.ui:22
 msgid "Save user"
 msgstr ""
 
@@ -7030,7 +7064,7 @@ msgid ""
 "The temporary view will be deleted when the database connection is closed"
 msgstr ""
 
-#: Kangaroo/Resource/ui/Objects/View/view.ui:81
+#: Kangaroo/Resource/ui/Objects/View/view.ui:83
 msgid "Execute definition sql and show result"
 msgstr ""
 
@@ -7117,66 +7151,66 @@ msgstr ""
 msgid "Identifiers"
 msgstr ""
 
-#: Kangaroo/Resource/ui/code_view.ui:82
+#: Kangaroo/Resource/ui/code_view.ui:83
 msgid "Toggle replace"
 msgstr ""
 
-#: Kangaroo/Resource/ui/code_view.ui:99
+#: Kangaroo/Resource/ui/code_view.ui:100
 msgid "Show or hide search options"
 msgstr ""
 
-#: Kangaroo/Resource/ui/code_view.ui:101
+#: Kangaroo/Resource/ui/code_view.ui:102
 msgid ""
 "Search normal | regex expression\\n\\nNormal: keyword\\nExtension: \\\\n, \\"
 "\\r, \\\\t\\nRegex: (\\\\w+)"
 msgstr ""
 
-#: Kangaroo/Resource/ui/code_view.ui:117
+#: Kangaroo/Resource/ui/code_view.ui:118
 msgid "Move to previous match"
 msgstr ""
 
-#: Kangaroo/Resource/ui/code_view.ui:128
+#: Kangaroo/Resource/ui/code_view.ui:129
 msgid "Move to next match"
 msgstr ""
 
-#: Kangaroo/Resource/ui/code_view.ui:141
+#: Kangaroo/Resource/ui/code_view.ui:142
 msgid "Close search"
 msgstr ""
 
-#: Kangaroo/Resource/ui/code_view.ui:209
+#: Kangaroo/Resource/ui/code_view.ui:210
 msgid "Re_gex"
 msgstr ""
 
-#: Kangaroo/Resource/ui/code_view.ui:210
+#: Kangaroo/Resource/ui/code_view.ui:211
 msgid "Match with regular expressions"
 msgstr ""
 
-#: Kangaroo/Resource/ui/code_view.ui:216
+#: Kangaroo/Resource/ui/code_view.ui:217
 msgid "_Case sensitive"
 msgstr ""
 
-#: Kangaroo/Resource/ui/code_view.ui:217
+#: Kangaroo/Resource/ui/code_view.ui:218
 msgid "Match case sensitive"
 msgstr ""
 
-#: Kangaroo/Resource/ui/code_view.ui:223
+#: Kangaroo/Resource/ui/code_view.ui:224
 msgid "Whole _word"
 msgstr ""
 
-#: Kangaroo/Resource/ui/code_view.ui:224
+#: Kangaroo/Resource/ui/code_view.ui:225
 msgid "Match whole word only"
 msgstr ""
 
-#: Kangaroo/Resource/ui/code_view.ui:230
+#: Kangaroo/Resource/ui/code_view.ui:231
 msgid "W_rap around"
 msgstr ""
 
-#: Kangaroo/Resource/ui/code_view.ui:267
+#: Kangaroo/Resource/ui/code_view.ui:268
 msgid "Go to Line"
 msgstr ""
 
-#: Kangaroo/Resource/ui/code_view.ui:286
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:724
+#: Kangaroo/Resource/ui/code_view.ui:287
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:727
 msgid "Go"
 msgstr ""
 
@@ -7196,147 +7230,147 @@ msgstr ""
 msgid "DBNull"
 msgstr ""
 
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:90
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:1015
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:92
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:1018
 msgid "Hide cell viewer"
 msgstr ""
 
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:107
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:1033
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:108
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:1036
 msgid "Hide"
 msgstr ""
 
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:123
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:619
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:125
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:622
 #: Kangaroo/Resource/ui/preference.ui:113
 msgid "Live mode"
 msgstr ""
 
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:139
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:141
 msgid "Live"
 msgstr ""
 
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:151
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:153
 msgid "Append row"
 msgstr ""
 
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:180
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:182
 msgid "Delete row"
 msgstr ""
 
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:238
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:240
 msgid "Discard changes"
 msgstr ""
 
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:255
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:257
 msgid "Discard"
 msgstr ""
 
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:266
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:268
 msgid "Refresh data"
 msgstr ""
 
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:308
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:310
 msgid "Go to first page"
 msgstr ""
 
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:325
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:458
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:327
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:460
 msgid "First"
 msgstr ""
 
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:337
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:339
 msgid "Go to previous page"
 msgstr ""
 
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:354
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:356
 msgid "Previous"
 msgstr ""
 
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:378
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:380
 msgid "Go to next page"
 msgstr ""
 
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:407
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:409
 msgid "Go to last page"
 msgstr ""
 
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:424
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:545
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:426
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:547
 msgid "Last"
 msgstr ""
 
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:441
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:443
 msgid "Move cursor to first"
 msgstr ""
 
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:470
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:472
 msgid "Move cursor up"
 msgstr ""
 
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:499
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:501
 msgid "Move cursor down"
 msgstr ""
 
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:528
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:530
 msgid "Move cursor to last"
 msgstr ""
 
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:559
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:561
 msgid "Table layout"
 msgstr ""
 
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:605
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:608
 msgid "Save data while row changed"
 msgstr ""
 
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:634
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:637
 msgid "Save data in cache and sync batchly"
 msgstr ""
 
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:648
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:651
 #: Kangaroo/Resource/ui/preference.ui:114
 msgid "Cache mode"
 msgstr ""
 
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:663
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:666
 msgid "Save data in cache and sync batchly with transaction"
 msgstr ""
 
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:677
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:680
 #: Kangaroo/Resource/ui/preference.ui:115
 msgid "Transaction mode"
 msgstr ""
 
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:714
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:717
 msgid "page number"
 msgstr ""
 
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:746
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:749
 msgid "Show data as table"
 msgstr ""
 
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:774
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:777
 msgid "Show data as form"
 msgstr ""
 
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:792
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:795
 msgid "Form"
 msgstr ""
 
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:803
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:806
 msgid "Show data as chart"
 msgstr ""
 
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:821
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:824
 msgid "Chart"
 msgstr ""
 
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:842
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:845
 msgid "View data as text"
 msgstr ""
 
-#: Kangaroo/Resource/ui/datagrid/view_data.ui:870
+#: Kangaroo/Resource/ui/datagrid/view_data.ui:873
 msgid "View data as image"
 msgstr ""
 
@@ -7476,6 +7510,10 @@ msgstr ""
 #: Kangaroo/Resource/ui/repository/menu_sqlite.ui:162
 #: Kangaroo/Resource/ui/repository/menu_sqlite.ui:274
 msgid "Execute SQL file"
+msgstr ""
+
+#: Kangaroo/Resource/ui/executor.ui:50
+msgid "SQL file"
 msgstr ""
 
 #: Kangaroo/Resource/ui/preference.ui:21
@@ -7701,6 +7739,10 @@ msgstr ""
 msgid "Logger level"
 msgstr ""
 
+#: Kangaroo/Resource/ui/preference.ui:730
+msgid "Tools"
+msgstr ""
+
 #: Kangaroo/Resource/ui/preference.ui:734
 msgid "Setup prefer tools"
 msgstr ""
@@ -7812,79 +7854,67 @@ msgstr ""
 msgid "_Settings"
 msgstr ""
 
-#: Kangaroo/Resource/ui/workbench.ui:139
-msgid "Object _navigation"
-msgstr ""
-
-#: Kangaroo/Resource/ui/workbench.ui:144
-msgid "_Tools"
-msgstr ""
-
-#: Kangaroo/Resource/ui/workbench.ui:149
-msgid "H_istory"
-msgstr ""
-
-#: Kangaroo/Resource/ui/workbench.ui:158
+#: Kangaroo/Resource/ui/workbench.ui:136
 msgid "_About"
 msgstr ""
 
-#: Kangaroo/Resource/ui/workbench.ui:170
+#: Kangaroo/Resource/ui/workbench.ui:148
 msgid "_Help"
 msgstr ""
 
-#: Kangaroo/Resource/ui/workbench.ui:175
+#: Kangaroo/Resource/ui/workbench.ui:153
 msgid "_Report issues"
 msgstr ""
 
-#: Kangaroo/Resource/ui/workbench.ui:182
+#: Kangaroo/Resource/ui/workbench.ui:160
 msgid "_Databases"
 msgstr ""
 
-#: Kangaroo/Resource/ui/workbench.ui:185
+#: Kangaroo/Resource/ui/workbench.ui:163
 msgid "_MySQL"
 msgstr ""
 
-#: Kangaroo/Resource/ui/workbench.ui:189
+#: Kangaroo/Resource/ui/workbench.ui:167
 msgid "Mari_adb"
 msgstr ""
 
-#: Kangaroo/Resource/ui/workbench.ui:193
+#: Kangaroo/Resource/ui/workbench.ui:171
 msgid "_PostgreSQL"
 msgstr ""
 
-#: Kangaroo/Resource/ui/workbench.ui:197
+#: Kangaroo/Resource/ui/workbench.ui:175
 msgid "S_QLite"
 msgstr ""
 
-#: Kangaroo/Resource/ui/workbench.ui:201
+#: Kangaroo/Resource/ui/workbench.ui:179
 msgid "_ODBC"
 msgstr ""
 
-#: Kangaroo/Resource/ui/workbench.ui:211 Kangaroo/Resource/ui/workspace.ui:706
+#: Kangaroo/Resource/ui/workbench.ui:189 Kangaroo/Resource/ui/workspace.ui:897
 msgid "P_in Tab"
 msgstr ""
 
-#: Kangaroo/Resource/ui/workbench.ui:216 Kangaroo/Resource/ui/workspace.ui:712
+#: Kangaroo/Resource/ui/workbench.ui:194 Kangaroo/Resource/ui/workspace.ui:903
 msgid "Unpi_n Tab"
 msgstr ""
 
-#: Kangaroo/Resource/ui/workbench.ui:223 Kangaroo/Resource/ui/workspace.ui:720
+#: Kangaroo/Resource/ui/workbench.ui:201 Kangaroo/Resource/ui/workspace.ui:911
 msgid "_Close"
 msgstr ""
 
-#: Kangaroo/Resource/ui/workbench.ui:230 Kangaroo/Resource/ui/workspace.ui:730
+#: Kangaroo/Resource/ui/workbench.ui:208
 msgid "Close _Others"
 msgstr ""
 
-#: Kangaroo/Resource/ui/workbench.ui:235
+#: Kangaroo/Resource/ui/workbench.ui:213
 msgid "Close to the _Left"
 msgstr ""
 
-#: Kangaroo/Resource/ui/workbench.ui:240 Kangaroo/Resource/ui/workspace.ui:735
+#: Kangaroo/Resource/ui/workbench.ui:218
 msgid "Close to the _Right"
 msgstr ""
 
-#: Kangaroo/Resource/ui/workbench.ui:245 Kangaroo/Resource/ui/workspace.ui:740
+#: Kangaroo/Resource/ui/workbench.ui:223
 msgid "Close _All"
 msgstr ""
 
@@ -7896,48 +7926,124 @@ msgstr ""
 msgid "Data schema"
 msgstr ""
 
-#: Kangaroo/Resource/ui/workspace.ui:234
+#: Kangaroo/Resource/ui/workspace.ui:235
 msgid "Function and Procedure"
 msgstr ""
 
-#: Kangaroo/Resource/ui/workspace.ui:292 Kangaroo/Resource/ui/workspace.ui:308
+#: Kangaroo/Resource/ui/workspace.ui:293 Kangaroo/Resource/ui/workspace.ui:309
 msgid "Others"
 msgstr ""
 
-#: Kangaroo/Resource/ui/workspace.ui:323
+#: Kangaroo/Resource/ui/workspace.ui:324
 msgid "Dump and transform to local file"
 msgstr ""
 
-#: Kangaroo/Resource/ui/workspace.ui:339
+#: Kangaroo/Resource/ui/workspace.ui:340
 msgid "Dumper"
 msgstr ""
 
-#: Kangaroo/Resource/ui/workspace.ui:351
+#: Kangaroo/Resource/ui/workspace.ui:352
 msgid "Export data to local file"
 msgstr ""
 
-#: Kangaroo/Resource/ui/workspace.ui:379
+#: Kangaroo/Resource/ui/workspace.ui:380
 msgid "Import data into database"
 msgstr ""
 
-#: Kangaroo/Resource/ui/workspace.ui:407
+#: Kangaroo/Resource/ui/workspace.ui:408
 msgid "Generate schema document"
 msgstr ""
 
-#: Kangaroo/Resource/ui/workspace.ui:423
+#: Kangaroo/Resource/ui/workspace.ui:424
 msgid "Document"
 msgstr ""
 
-#: Kangaroo/Resource/ui/workspace.ui:438
+#: Kangaroo/Resource/ui/workspace.ui:439
 msgid "ER Model"
 msgstr ""
 
-#: Kangaroo/Resource/ui/workspace.ui:725
-msgid "Close _Saved"
+#: Kangaroo/Resource/ui/workspace.ui:522
+msgid "Repository"
 msgstr ""
 
-#: Kangaroo/Resource/ui/workspace.ui:754
+#: Kangaroo/Resource/ui/workspace.ui:523
+msgid "Database repository"
+msgstr ""
+
+#: Kangaroo/Resource/ui/workspace.ui:534
+msgid "Query repository"
+msgstr ""
+
+#: Kangaroo/Resource/ui/workspace.ui:545
+msgid "Model repository"
+msgstr ""
+
+#: Kangaroo/Resource/ui/workspace.ui:565
+msgid "Context information"
+msgstr ""
+
+#: Kangaroo/Resource/ui/workspace.ui:575
+msgid "Identities"
+msgstr ""
+
+#: Kangaroo/Resource/ui/workspace.ui:576
+msgid "Object identity"
+msgstr ""
+
+#: Kangaroo/Resource/ui/workspace.ui:595
+msgid "Show or hide left pane"
+msgstr ""
+
+#: Kangaroo/Resource/ui/workspace.ui:616
+msgid "Show or hide right pane"
+msgstr ""
+
+#: Kangaroo/Resource/ui/workspace.ui:623
+msgid "Select language"
+msgstr ""
+
+#: Kangaroo/Resource/ui/workspace.ui:635
+msgid "Select encoding"
+msgstr ""
+
+#: Kangaroo/Resource/ui/workspace.ui:648
+msgid "Select end of line sequence"
+msgstr ""
+
+#: Kangaroo/Resource/ui/workspace.ui:666
+msgid "Toggle Word Wrap"
+msgstr ""
+
+#: Kangaroo/Resource/ui/workspace.ui:674
+msgid "Select indentation"
+msgstr ""
+
+#: Kangaroo/Resource/ui/workspace.ui:686
+msgid "Go to line/column"
+msgstr ""
+
+#: Kangaroo/Resource/ui/workspace.ui:715
+msgid "<Line>[:Column]"
+msgstr ""
+
+#: Kangaroo/Resource/ui/workspace.ui:945
 msgid "New View"
+msgstr ""
+
+#: Kangaroo/Resource/ui/workspace.ui:955
+msgid "Indent Using Spaces"
+msgstr ""
+
+#: Kangaroo/Resource/ui/workspace.ui:961
+msgid "Spaces per Tab"
+msgstr ""
+
+#: Kangaroo/Resource/ui/workspace.ui:1014
+msgid "Indentation Size"
+msgstr ""
+
+#: Kangaroo/Resource/ui/workspace.ui:1017
+msgid "Same as Tab Width"
 msgstr ""
 
 #: data/kangaroo.desktop.in.in:13

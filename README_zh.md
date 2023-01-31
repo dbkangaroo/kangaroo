@@ -25,7 +25,7 @@ __其他语言版本:__ 中文 | [英文(English)](./README.md)
 
 | CPU 架构  | Windows         | MacOS           | Linux           | iOS             | Android         | Harmony         |
 |----------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|
-| x86-64 | [v2.2.1](https://www.datatable.online/zh/download/v2.2.1.230101?from=github&os=windows) | [v2.2.1](https://www.datatable.online/zh/download/v2.2.1.230101?from=github&os=macos) | [v2.2.1](https://www.datatable.online/zh/download/v2.2.1.230101?from=github&os=linux) |
+| x86-64 | [v2.3.1](https://www.datatable.online/zh/download/v2.3.1.230201?from=github&os=windows) | [v2.3.1](https://www.datatable.online/zh/download/v2.3.1.230201?from=github&os=macos) | [v2.3.1](https://www.datatable.online/zh/download/v2.3.1.230201?from=github&os=linux) |
 | ARM64 | | | | | | |
 | RISCV64 | | | | | | |
 
@@ -42,6 +42,7 @@ __其他语言版本:__ 中文 | [英文(English)](./README.md)
 ![链接首页](./images/kangaroo-start.png)
 ![对象浏览界面](./images/kangaroo-explorer.png)
 ![对象搜索](./images/kangaroo-search.png)
+![分割视图](./images/kangaroo-workspace.png)
 ![数据网格（自定义列）](./images/kangaroo-grid.png)
 ![数据网格（条件查询）](./images/kangaroo-grid2.png)
 ![数据编辑表单](./images/kangaroo-form.png)
