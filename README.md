@@ -1,3 +1,9 @@
+<p align="center">
+    <a href="https://www.datatable.online/?from=github" target="_blank">
+        <img src="images/kangaroo.svg" width="400" alt="Kangaroo Logo">
+    </a>
+</p>
+
 # Kangaroo 
 Kangaroo is a SQL client and admin tool for popular databases(SQLite / MySQL / PostgreSQL / ...) on Windows / MacOS / Linux, support table design, query, model, sync, export/import etc, focus on comfortable, fun and developer friendly.
 

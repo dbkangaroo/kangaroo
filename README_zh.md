@@ -1,3 +1,9 @@
+<p align="center">
+    <a href="https://www.datatable.online/?from=github" target="_blank">
+        <img src="images/kangaroo.svg" width="400" alt="Kangaroo Logo">
+    </a>
+</p>
+
 # 袋鼠数据库工具 / Kangaroo
 袋鼠 是一款为热门数据库系统打造的管理客户端(SQLite / MySQL / PostgreSQL / ...) ，支持建表、查询、模型、同步、导入导出等功能，支持 Windows / Mac / Linux 等操作系统，力求打造成好用、好玩、开发友好的SQL工具。
 
