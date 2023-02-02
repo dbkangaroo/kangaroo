@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://www.datatable.online/?from=github" target="_blank">
-        <img src="images/kangaroo.svg" width="400" alt="Kangaroo Logo">
+        <img src="images/kangaroo.svg" width="200" alt="Kangaroo Logo">
     </a>
 </p>
 
