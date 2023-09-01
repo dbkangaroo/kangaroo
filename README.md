@@ -34,7 +34,7 @@ Development version keep one version(vNext) only from year 2023, App version and
 
 | Architect | Windows         | MacOS           | Linux           | iOS             | Android         | Harmony         |
 |----------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|
-| x86-64 | [v3.91.1](https://www.datatable.online/en/download/v3.92.1.230901?from=github&os=windows) | [v3.91.1](https://www.datatable.online/en/download/v3.92.1.230901?from=github&os=macos) | [v3.91.1](https://www.datatable.online/en/download/v3.92.1.230901?from=github&os=linux) |
+| x86-64 | [v3.92.1](https://www.datatable.online/en/download/v3.92.1.230901?from=github&os=windows) | [v3.92.1](https://www.datatable.online/en/download/v3.92.1.230901?from=github&os=macos) | [v3.92.1](https://www.datatable.online/en/download/v3.92.1.230901?from=github&os=linux) |
 | ARM64 | | | | | | |
 | RISCV64 | | | | | | |
 
