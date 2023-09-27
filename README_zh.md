@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://www.datatable.online/?from=github" target="_blank">
-        <img src="images/kangaroo.svg" width="300" alt="Kangaroo Logo">
+        <img src="images/kangaroo-workspace.png" alt="Kangaroo workspace">
     </a>
 </p>
 
@@ -27,11 +27,11 @@ __其他语言版本:__ 中文 | [英文(English)](./README.md)
 | SQL Server  |         |           |           |           |           |           |           |          |         |
 
 ## 版本发布
-从 2023年开始，开发版本统一使用一个版本号发布，App 版本和发布包定期更新，计划一周或两周发布一个, Beta 版本和稳定版本根据版本质量评估情况不定期发布。
+从 2023年开始，App 版本和发布包定期更新，计划一个月更新一次。
 
 | CPU 架构  | Windows         | MacOS           | Linux           | iOS             | Android         | Harmony         |
 |----------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|
-| x86-64 | [v3.92.1](https://www.datatable.online/zh/download/v3.92.1.230901?from=github&os=windows) | [v3.92.1](https://www.datatable.online/zh/download/v3.92.1.230901?from=github&os=macos) | [v3.92.1](https://www.datatable.online/zh/download/v3.92.1.230901?from=github&os=linux) |
+| x86-64 | [v3.93.1](https://www.datatable.online/zh/download/v3.93.1.230928?from=github&os=windows) | [v3.93.1](https://www.datatable.online/zh/download/v3.93.1.230928?from=github&os=macos) | [v3.93.1](https://www.datatable.online/zh/download/v3.93.1.230928?from=github&os=linux) |
 | ARM64 | | | | | | |
 | RISCV64 | | | | | | |
 

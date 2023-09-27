@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://www.datatable.online/?from=github" target="_blank">
-        <img src="images/kangaroo.svg" width="300" alt="Kangaroo Logo">
+        <img src="images/kangaroo-workspace.png" alt="Kangaroo workspace">
     </a>
 </p>
 
@@ -30,11 +30,11 @@ Database support capability level: __Planned__ / __Partial__ / __Full(:100:)__
 
 
 ## Release
-Development version keep one version(vNext) only from year 2023, App version and its packages will be updated regularly(one or two weeks), Beta and Stable version depend on test result and stabilization.
+From year 2023, App version and its packages will be updated monthly.
 
 | Architect | Windows         | MacOS           | Linux           | iOS             | Android         | Harmony         |
 |----------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|
-| x86-64 | [v3.92.1](https://www.datatable.online/en/download/v3.92.1.230901?from=github&os=windows) | [v3.92.1](https://www.datatable.online/en/download/v3.92.1.230901?from=github&os=macos) | [v3.92.1](https://www.datatable.online/en/download/v3.92.1.230901?from=github&os=linux) |
+| x86-64 | [v3.93.1](https://www.datatable.online/en/download/v3.93.1.230928?from=github&os=windows) | [v3.93.1](https://www.datatable.online/en/download/v3.93.1.230928?from=github&os=macos) | [v3.93.1](https://www.datatable.online/en/download/v3.93.1.230928?from=github&os=linux) |
 | ARM64 | | | | | | |
 | RISCV64 | | | | | | |
 
