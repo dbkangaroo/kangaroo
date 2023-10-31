@@ -43,6 +43,11 @@ From year 2023, App version and its packages will be updated monthly.
 If you like Kangaroo and you want to support its development, you could __scan QR code__ to donate via PayPal / Wechat / Alipay.<br/>
 ![Support project](./images/pay_wide.png)
 
+## Wechat Subscription Account
+Kangaroo will push large articles, videos and tips about Kangaroo via  the Wechat Subscription Account： `袋鼠数据库工具 (DataTableOnline)`, you could subscribe and put your eyes on it if you like it.  <br/>
+[![Wechat Subscription Account](./images/kangaroo_mp.png)](https://www.datatable.online/?from=github "Wechat Subscription Account")
+
+
 ## Screenshots
 [![Start page of connection](./images/kangaroo-start.png)](https://www.datatable.online/?from=github "Start page of connection")
 [![Object explorer](./images/kangaroo-explorer.png)](https://www.datatable.online/?from=github "Object explorer")
