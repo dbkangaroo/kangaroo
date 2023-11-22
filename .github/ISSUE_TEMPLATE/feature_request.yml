@@ -1,0 +1,17 @@
+name: Feature request
+description: Some idea about this project
+title: "[Feature request]: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: related-problem
+    attributes:
+      label: My idea is
+      description: Describe question and solution simple and clear
+      placeholder: |
+        1. My Environment
+        2. My trouble
+        3. My expection
+        4. My solution
+    validations:
+      required: true
