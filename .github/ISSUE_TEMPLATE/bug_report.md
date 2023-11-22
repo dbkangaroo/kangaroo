@@ -1,32 +1,51 @@
----
 name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: bug
-assignees: ''
-
----
-
-**Enviroment (please complete the following information):**
-- Arch and OS: [e.g. Windows 10.xxxx x86-64/arm64]
-- Database version [e.g. SQLite/MySQL/MariaDB/PostgreSQL 8.xxx]
-- Kangaroo version [2.x.x.xxxx]
-
-**Describe the bug**
-A clear and concise description of what the bug is.
-
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
-
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Additional context**
-Add any other context about the problem here.
+description: File a bug report
+title: "[Bug]: title"
+labels: ["bug", "triage"]
+body:
+  - type: checkboxes
+    attributes:
+      label: Same issue exist？
+      options:
+        - label: I have searched the issues (https://github.com/dbkangaroo/kangaroo/issues)
+          required: true
+  - type: dropdown
+    id: version
+    attributes:
+      label: Version
+      description: Which version do you using？
+      options:
+        - 3.93.1
+        - 3.99.1
+  - type: dropdown
+    id: branch
+    attributes:
+      label: Branch
+      description: Which branch do you using？
+      options:
+        - Multiple
+        - SQLite
+        - MySQL
+        - MariaDB
+        - PostgreSQL
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Windows
+      description: Which platform do you using？
+      options:
+        - Windows
+        - macOS
+        - Linux
+        - Others
+  - type: textarea
+    attributes:
+      label: Bug detail
+      description: Please share the bug environment, key steps, data and screenshot, expection and solution，thanks.
+      placeholder: |
+        1. Environment
+        2. Reproduce steps
+        3. Data and screenshot
+        4. Expection and solution
+    validations:
+      required: true
