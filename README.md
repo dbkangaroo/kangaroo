@@ -49,7 +49,8 @@ Kangaroo will push large articles, videos and tips about Kangaroo via  the Wecha
 
 
 ## Screenshots
-[![Start page of connection](./images/kangaroo-start.png)](https://www.datatable.online/?from=github "Start page of connection")
+[![Start page(iconic view)](./images/kangaroo-starter-iconic.png)](https://www.datatable.online/?from=github "Start page(iconic view)")
+[![Start page(grid view)](./images/kangaroo-starter-grid.png)](https://www.datatable.online/?from=github "Start page(iconic view)")
 [![Object explorer](./images/kangaroo-explorer.png)](https://www.datatable.online/?from=github "Object explorer")
 [![Object search](./images/kangaroo-search.png)](https://www.datatable.online/?from=github "Object search")
 [![Kangaroo split view](./images/kangaroo-workspace.png)](https://www.datatable.online/?from=github "Kangaroo split view")
