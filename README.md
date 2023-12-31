@@ -18,10 +18,10 @@ Database support capability level: __Planned__ / __Partial__ / __Full(:100:)__
 
 | Database    | Version | Query     | Editing   | Designer  | Export    | Import    | Hint      | Modeling | DB Sync |
 |-------------|---------|-----------|-----------|-----------|-----------|-----------|-----------|----------|---------|
-| SQLite      | 3.0 +   | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | in progress | in progress |
-| MySQL       | 5.5 +   | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | in progress | in progress |
-| MariaDB     | 10.0 +  | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | in progress | in progress |
-| PostgreSQL  | 9.0 +   | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | in progress | in progress |
+| SQLite      | 3.0 +   | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
+| MySQL       | 5.5 +   | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
+| MariaDB     | 10.0 +  | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
+| PostgreSQL  | 9.0 +   | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
 | SQL Server  | 10.0 +  | Full:100: | Planned   | Planned   | Planned   | Planned   | Full:100: | Planned  | Planned |
 | Redis       |         | Planned   | Planned   | Planned   | Planned   | Planned   | Planned   | Planned  | Planned |
 | Oracle      |         |           |           |           |           |           |           |          |         |
@@ -34,7 +34,7 @@ From year 2023, App version and its packages will be updated monthly.
 
 | Architect | Windows         | MacOS           | Linux           | iOS             | Android         | Harmony         |
 |----------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|
-| x86-64 | [v3.99.2](https://www.datatable.online/en/download/v4.0.0.240101.html?from=github&os=windows) | [v3.99.2](https://www.datatable.online/en/download/v4.0.0.240101.html?from=github&os=macos) | [v3.99.2](https://www.datatable.online/en/download/v4.0.0.240101.html?from=github&os=linux) |
+| x86-64 | [v4.0.0](https://www.datatable.online/en/download/v4.0.0.240101.html?from=github&os=windows) | [v4.0.0](https://www.datatable.online/en/download/v4.0.0.240101.html?from=github&os=macos) | [v4.0.0](https://www.datatable.online/en/download/v4.0.0.240101.html?from=github&os=linux) |
 | ARM64 | | | | | | |
 | RISCV64 | | | | | | |
 
