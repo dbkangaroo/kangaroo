@@ -22,16 +22,16 @@ __其他语言版本:__ 中文 | [英文(English)](./README.md)
 | MySQL       | 5.5 +   | 支持:100: | 支持:100: | 支持:100: | 支持:100: | 支持:100: | 支持:100: | **进行中**  | **进行中** |
 | MariaDB     | 10.0 +  | 支持:100: | 支持:100: | 支持:100: | 支持:100: | 支持:100: | 支持:100: | **进行中**  | **进行中** |
 | PostgreSQL  | 9.0 +   | 支持:100: | 支持:100: | 支持:100: | 支持:100: | 支持:100: | 支持:100: | **进行中**  | **进行中** |
-| Redis       |         | 已计划   | 已计划   | 已计划   | 已计划   | 已计划   | 已计划   | 已计划  | 已计划 |
+| SQL Server  | 10.0 +  | Full:100: | Planned   | Planned   | Planned   | Planned   | Full:100: | Planned  | Planned |
+| Redis       |         | Planned   | Planned   | Planned   | Planned   | Planned   | Planned   | Planned  | Planned |
 | Oracle      |         |           |           |           |           |           |           |          |         |
-| SQL Server  |         |           |           |           |           |           |           |          |         |
 
 ## 版本发布
 从 2023年开始，App 版本和发布包定期更新，计划一个月更新一次。
 
 | CPU 架构  | Windows         | MacOS           | Linux           | iOS             | Android         | Harmony         |
 |----------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|
-| x86-64 | [v3.99.2](https://www.datatable.online/zh/download/v3.99.2.231201?from=github&os=windows) | [v3.99.2](https://www.datatable.online/zh/download/v3.99.2.231201?from=github&os=macos) | [v3.99.2](https://www.datatable.online/zh/download/v3.99.2.231201?from=github&os=linux) |
+| x86-64 | [v3.99.2](https://www.datatable.online/zh/download/v4.0.0.240101.html?from=github&os=windows) | [v3.99.2](https://www.datatable.online/zh/download/v4.0.0.240101.html?from=github&os=macos) | [v3.99.2](https://www.datatable.online/zh/download/v4.0.0.240101.html?from=github&os=linux) |
 | ARM64 | | | | | | |
 | RISCV64 | | | | | | |
 
