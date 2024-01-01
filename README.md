@@ -14,15 +14,15 @@ __Read this in other languages:__ English | [中文(Chinese)](./README_zh.md)
 
 
 ## Support database
-Database support capability level: __Planned__ / __Partial__ / __Full(:100:)__
+Database support capability level: __Planned__ / __Partial__ / __Support__
 
 | Database    | Version | Query     | Editing   | Designer  | Export    | Import    | Hint      | Modeling | DB Sync |
 |-------------|---------|-----------|-----------|-----------|-----------|-----------|-----------|----------|---------|
-| SQLite      | 3.0 +   | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
-| MySQL       | 5.5 +   | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
-| MariaDB     | 10.0 +  | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
-| PostgreSQL  | 9.0 +   | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | Full:100: | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
-| SQL Server  | 10.0 +  | Full:100: | Planned   | Planned   | Planned   | Planned   | Full:100: | Planned  | Planned |
+| SQLite      | 3.0 +   | Support | Support | Support | Support | Support | Support | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
+| MySQL       | 5.5 +   | Support | Support | Support | Support | Support | Support | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
+| MariaDB     | 10.0 +  | Support | Support | Support | Support | Support | Support | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
+| PostgreSQL  | 9.0 +   | Support | Support | Support | Support | Support | Support | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
+| SQL Server  | 10.0 +  | Support | Planned   | Planned   | Planned   | Planned   | Support | Planned  | Planned |
 | Redis       |         | Planned   | Planned   | Planned   | Planned   | Planned   | Planned   | Planned  | Planned |
 | Oracle      |         |           |           |           |           |           |           |          |         |
 
