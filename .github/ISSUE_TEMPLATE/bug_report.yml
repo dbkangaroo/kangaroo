@@ -15,6 +15,7 @@ body:
       label: Version of Kangaroo
       description: Which version of Kangaroo do you using?
       options:
+        - 4.99.9
         - 4.99.1
         - 4.98.1
         - 4.0.0
