@@ -22,7 +22,7 @@ Database support capability level: __Planned__ / __Partial__ / __Support__
 | MySQL       | 5.5 +   | Support | Support | Support | Support | Support | Support | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
 | MariaDB     | 10.0 +  | Support | Support | Support | Support | Support | Support | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
 | PostgreSQL  | 9.0 +   | Support | Support | Support | Support | Support | Support | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
-| SQL Server  | 10.0 +  | Support | Planned   | Planned   | Planned   | Planned   | Support | Planned  | Planned |
+| SQL Server  | 10.0 +  | Support | Support | Support | Support | Support | Support | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
 | Redis       |         | Planned   | Planned   | Planned   | Planned   | Planned   | Planned   | Planned  | Planned |
 | Oracle      |         |           |           |           |           |           |           |          |         |
 
@@ -34,7 +34,7 @@ From year 2023, App version and its packages will be updated monthly.
 
 | Architect | Windows         | MacOS           | Linux           | iOS             | Android         | Harmony         |
 |----------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|
-| x86-64 | [v4.99.9](https://www.datatable.online/en/download/v4.99.9.240430.html?from=github&os=windows) | [v4.99.9](https://www.datatable.online/en/download/v4.99.9.240430.html?from=github&os=macos) | [v4.99.9](https://www.datatable.online/en/download/v4.99.9.240430.html?from=github&os=linux) |
+| x86-64 | [v5.0.0](https://www.datatable.online/en/download/v5.0.0.240601.html?from=github&os=windows) | [v5.0.0](https://www.datatable.online/en/download/v5.0.0.240601.html?from=github&os=macos) | [v5.0.0](https://www.datatable.online/en/download/v5.0.0.240601.html?from=github&os=linux) |
 | ARM64 | | | | | | |
 | RISCV64 | | | | | | |
 

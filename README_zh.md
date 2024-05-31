@@ -22,7 +22,7 @@ __其他语言版本:__ 中文 | [英文(English)](./README.md)
 | MySQL       | 5.5 +   | 支持 | 支持 | 支持 | 支持 | 支持 | 支持 | ✅✅🔲🔲🔲  | ✅✅✅✅🔲 |
 | MariaDB     | 10.0 +  | 支持 | 支持 | 支持 | 支持 | 支持 | 支持 | ✅✅🔲🔲🔲  | ✅✅✅✅🔲 |
 | PostgreSQL  | 9.0 +   | 支持 | 支持 | 支持 | 支持 | 支持 | 支持 | ✅✅🔲🔲🔲  | ✅✅✅✅🔲 |
-| SQL Server  | 10.0 +  | 支持 | 已计划   | 已计划   | 已计划   | 已计划   | 支持 | 已计划  | 已计划 |
+| SQL Server  | 10.0 +  | 支持 | 支持 | 支持 | 支持 | 支持 | 支持 | ✅✅🔲🔲🔲  | ✅✅✅✅🔲 |
 | Redis       |         | 已计划   | 已计划   | 已计划   | 已计划   | 已计划   | 已计划   | 已计划  | 已计划 |
 | Oracle      |         |           |           |           |           |           |           |          |         |
 
@@ -31,7 +31,7 @@ __其他语言版本:__ 中文 | [英文(English)](./README.md)
 
 | CPU 架构  | Windows         | MacOS           | Linux           | iOS             | Android         | Harmony         |
 |----------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|
-| x86-64 | [v4.99.9](https://www.datatable.online/zh/download/v4.99.9.240430.html?from=github&os=windows) | [v4.99.9](https://www.datatable.online/zh/download/v4.99.9.240430.html?from=github&os=macos) | [v4.99.9](https://www.datatable.online/zh/download/v4.99.9.240430.html?from=github&os=linux) |
+| x86-64 | [v5.0.0](https://www.datatable.online/zh/download/v5.0.0.240601.html?from=github&os=windows) | [v5.0.0](https://www.datatable.online/zh/download/v5.0.0.240601.html?from=github&os=macos) | [v5.0.0](https://www.datatable.online/zh/download/v5.0.0.240601.html?from=github&os=linux) |
 | ARM64 | | | | | | |
 | RISCV64 | | | | | | |
 
