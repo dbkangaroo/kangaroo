@@ -61,7 +61,7 @@ body:
       label: Database system with name and version
       description: Please tell us the detail about database system
       placeholder: |
-        <Database system> <full version> <CPU architect>, ex: MySQL 8.0.28 x86-64
+        <Database system> <Full version> <Collation>, ex: MySQL 8.0.28 utf8mb4_general_ci
     validations:
       required: true
   - type: textarea
@@ -69,7 +69,7 @@ body:
       label: Bug detail
       description: Please share the bug environment, key steps, data and screenshot, expection and solution, thanks.
       placeholder: |
-        1. Environment
+        1. Environment(CPU, OS, Database, etc)
         2. Reproduce steps
         3. Data and screenshot
         4. Expection and solution
