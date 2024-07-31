@@ -16,11 +16,9 @@ body:
       label: Version of Kangaroo
       description: Which version of Kangaroo do you using?
       options:
+        - 5.2.1
         - 5.1.0
         - 5.0.0
-        - 4.99.9
-        - 4.99.1
-        - 4.98.1
         - others
     validations:
       required: true
