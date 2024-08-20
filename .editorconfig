@@ -1,0 +1,62 @@
+root = true
+
+[*]
+charset = utf-8
+end_of_line = crlf
+
+[*.sql]
+indent_size = 4
+indent_style = space
+insert_final_newline = true
+tab_size = 4
+
+[*.[ch]]
+indent_size = 2
+indent_style = space
+insert_final_newline = true
+max_line_length = 100
+tab_width = 2
+
+[*.py]
+indent_size = 4
+tab_size = 4
+indent_style = space
+
+[*.js]
+indent_size = 2
+tab_size = 2
+indent_style = space
+
+[*.css]
+indent_size = 2
+tab_size = 2
+indent_style = space
+
+[*.ui]
+indent_size = 2
+tab_size = 2
+indent_style = space
+
+[*.rst]
+indent_size = 3
+tab_size = 3
+indent_style = space
+
+[*.vala]
+indent_size = 4
+indent_style = tab
+insert_final_newline = true
+tab_size = 4
+
+[*.{xml.in,xml}]
+indent_size = 2
+tab_size = 2
+indent_style = space
+
+[*.json]
+indent_size = 4
+tab_size = 4
+
+[meson.build]
+indent_size = 2
+indent_style = space
