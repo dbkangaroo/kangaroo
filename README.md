@@ -34,7 +34,7 @@ From year 2023, App version and its packages will be updated monthly.
 
 | Architect | Windows         | MacOS           | Linux           | iOS             | Android         | Harmony         |
 |----------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|
-| x86-64 | [v5.2.1](https://www.datatable.online/en/download/v5.2.1.240801.html?from=github&os=windows) | [v5.2.1](https://www.datatable.online/en/download/v5.2.1.240801.html?from=github&os=macos) | [v5.2.1](https://www.datatable.online/en/download/v5.2.1.240801.html?from=github&os=linux) |
+| x86-64 | [v5.3.1](https://www.datatable.online/en/download/v5.3.1.240901.html?from=github&os=windows) | [v5.3.1](https://www.datatable.online/en/download/v5.3.1.240901.html?from=github&os=macos) | [v5.3.1](https://www.datatable.online/en/download/v5.3.1.240901.html?from=github&os=linux) |
 | ARM64 | | | | | | |
 | RISCV64 | | | | | | |
 
