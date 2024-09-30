@@ -16,15 +16,15 @@ __Read this in other languages:__ English | [中文(Chinese)](./README_zh.md)
 ## Support database
 Database support capability level: __Planned__ / __Partial__ / __Support__
 
-| Database    | Version | Query     | Editing   | Designer  | Export    | Import    | Hint      | Modeling | DB Sync |
-|-------------|---------|-----------|-----------|-----------|-----------|-----------|-----------|----------|---------|
-| SQLite      | 3.0 +   | Support | Support | Support | Support | Support | Support | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
-| MySQL       | 5.5 +   | Support | Support | Support | Support | Support | Support | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
-| MariaDB     | 10.0 +  | Support | Support | Support | Support | Support | Support | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
-| PostgreSQL  | 9.0 +   | Support | Support | Support | Support | Support | Support | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
-| SQL Server  | 10.0 +  | Support | Support | Support | Support | Support | Support | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
-| Redis       |         | Planned   | Planned   | Planned   | Planned   | Planned   | Planned   | Planned  | Planned |
-| Oracle      |         |           |           |           |           |           |           |          |         |
+| Database    | Version | AI        | Query     | Editing   | Designer  | Export    | Import    | Hint      | Modeling     | DB Sync       |
+|-------------|---------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|--------------|---------------|
+| SQLite      | 3.0 +   | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
+| MySQL       | 5.5 +   | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
+| MariaDB     | 10.0 +  | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
+| PostgreSQL  | 9.0 +   | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
+| SQL Server  | 10.0 +  | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
+| Redis       |         | Planned   | Planned   | Planned   | Planned   | Planned   | Planned   | Planned   | Planned       | Planned      |
+| Oracle      |         | Planned   | Planned   | Planned   | Planned   | Planned   | Planned   | Planned   | Planned       | Planned      |
 
 **Hint**: Code intellisense or Code autocomplete
 
@@ -65,4 +65,4 @@ Kangaroo will push large articles, videos and tips about Kangaroo via  the Wecha
 [![Kangaroo export assistant](./images/kangaroo-export.png)](https://www.datatable.online/?from=github "Kangaroo export assistant")
 [![Kangaroo import assistant](./images/kangaroo-import.png)](https://www.datatable.online/?from=github "Kangaroo import assistant")
 [![Kangaroo setting dialog with dark theme](./images/kangaroo-setting.png)](https://www.datatable.online/?from=github "Kangaroo setting dialog with dark theme")
-[![Kangaroo shortcut setting dialog](./images/kangaroo-shortcut.png)](https://www.datatable.online/?from=github "Kangaroo shortcut setting dialog")
+[![Kangaroo setting dialog with AI support](./images/kangaroo-setting-ai.png)](https://www.datatable.online/?from=github "Kangaroo shortcut setting dialog")
