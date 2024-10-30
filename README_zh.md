@@ -31,7 +31,7 @@ __其他语言版本:__ 中文 | [英文(English)](./README.md)
 
 | CPU 架构  | Windows         | MacOS           | Linux           | iOS             | Android         | Harmony         |
 |----------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|
-| x86-64 | [v6.0.1](https://www.datatable.online/zh/download/v6.0.1.241012.html?from=github&os=windows) | [v6.0.1](https://www.datatable.online/zh/download/v6.0.1.241012.html?from=github&os=macos) | [v6.0.1](https://www.datatable.online/zh/download/v6.0.1.241012.html?from=github&os=linux) |
+| x86-64 | [v6.1.1](https://www.datatable.online/zh/download/v6.1.1.241102.html?from=github&os=windows) | [v6.1.1](https://www.datatable.online/zh/download/v6.1.1.241102.html?from=github&os=macos) | [v6.1.1](https://www.datatable.online/zh/download/v6.1.1.241102.html?from=github&os=linux) |
 | ARM64 | | | | | | |
 | RISCV64 | | | | | | |
 
