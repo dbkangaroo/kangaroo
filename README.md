@@ -1,17 +1,16 @@
 <p align="center">
     <a href="https://www.datatable.online/?from=github" target="_blank">
-        <img src="images/kangaroo-workspace.png" alt="Kangaroo workspace">
+        <img src="images/kangaroo-features-en.png" alt="Kangaroo workspace with English">
     </a>
 </p>
 
 # Kangaroo 
 Kangaroo is a AI-powered SQL client and admin tool for popular databases(SQLite / MySQL / PostgreSQL / ...) on Windows / MacOS / Linux, support table design, query, model, sync, export/import etc, focus on comfortable, fun and developer friendly.
 
-__Read this in other languages:__ English | [中文(Chinese)](./README_zh.md)
+__Read this in other languages:__ English | [中文(Chinese)](./README.zh.md)
 
 ## Official website / 官方网站
 [English](https://www.datatable.online/?from=github) | [中文(Chinese)](https://www.datatable.online/zh/?from=github)
-
 
 ## Support database
 Database support capability level: __Planned__ / __Partial__ / __Support__
@@ -53,7 +52,7 @@ Kangaroo will push large articles, videos and tips about Kangaroo via  the Wecha
 [![Start page(grid view)](./images/kangaroo-starter-grid.png)](https://www.datatable.online/?from=github "Start page(iconic view)")
 [![Object explorer](./images/kangaroo-explorer.png)](https://www.datatable.online/?from=github "Object explorer")
 [![Object search](./images/kangaroo-search.png)](https://www.datatable.online/?from=github "Object search")
-[![Kangaroo split view](./images/kangaroo-workspace.png)](https://www.datatable.online/?from=github "Kangaroo split view")
+[![Kangaroo split view](./images/kangaroo-features-en.png)](https://www.datatable.online/?from=github "Kangaroo split view")
 [![Kangaroo grid view in table with custom columns](./images/kangaroo-grid.png)](https://www.datatable.online/?from=github "Kangaroo grid view in table with custom columns")
 [![Kangaroo grid view in table with where statement](./images/kangaroo-grid2.png)](https://www.datatable.online/?from=github "Kangaroo grid view in table with where statement")
 [![Kangaroo grid view in form](./images/kangaroo-form.png)](https://www.datatable.online/?from=github "Kangaroo grid view in form")

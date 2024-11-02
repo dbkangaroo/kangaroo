@@ -1,13 +1,13 @@
 <p align="center">
     <a href="https://www.datatable.online/zh/?from=github" target="_blank">
-        <img src="images/kangaroo-workspace.png" alt="Kangaroo workspace">
+        <img src="images/kangaroo-features-cn.png" alt="Kangaroo Logo">
     </a>
 </p>
 
 # 袋鼠数据库工具 / Kangaroo
 袋鼠 是一款 AI 驱动的热门数据库系统客户端(SQLite / MySQL / PostgreSQL / ...) ，支持建表、查询、模型、同步、导入导出等功能，支持 Windows / Mac / Linux 等操作系统，力求打造成好用、好玩、开发友好的SQL工具。
 
-__其他语言版本:__ 中文 | [英文(English)](./README.md)
+__其他语言版本:__ 中文 | [英文(English)](./README_en.md)
 
 ## 官方网站 / Official website
 [中文](https://www.datatable.online/zh/?from=github) | [英文(English)](https://www.datatable.online/zh/?from=github)
@@ -27,14 +27,13 @@ __其他语言版本:__ 中文 | [英文(English)](./README.md)
 | Oracle     |          | 已计划    | 已计划    | 已计划    | 已计划   | 已计划   | 已计划   | 已计划    | 已计划         | 已计划        |
 
 ## 版本发布
-从 2023年开始，App 版本和发布包定期更新，计划一个月更新一次。
+从 2023年开始，App 版本和发布包定期更新，计划一个月发布一个版本。
 
 | CPU 架构  | Windows         | MacOS           | Linux           | iOS             | Android         | Harmony         |
-|----------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|
+|-----------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|
 | x86-64 | [v6.1.1](https://www.datatable.online/zh/download/v6.1.1.241102.html?from=github&os=windows) | [v6.1.1](https://www.datatable.online/zh/download/v6.1.1.241102.html?from=github&os=macos) | [v6.1.1](https://www.datatable.online/zh/download/v6.1.1.241102.html?from=github&os=linux) |
 | ARM64 | | | | | | |
 | RISCV64 | | | | | | |
-
 
 ## 支持和赞助项目
 如果您觉得袋鼠数据库工具有用且愿意支持它持续丰富功能，您可以通过如下方式支持和赞助项目，扫码即可通过 PayPal / 微信支持 / 支付宝完成付款。<br/>
@@ -49,7 +48,7 @@ __其他语言版本:__ 中文 | [英文(English)](./README.md)
 [![链接首页之网格页](./images/kangaroo-starter-grid.png)](https://www.datatable.online/zh/?from=github "链接首页之网格页")
 [![对象浏览界面](./images/kangaroo-explorer.png)](https://www.datatable.online/zh/?from=github "对象浏览界面")
 [![对象搜索](./images/kangaroo-search.png)](https://www.datatable.online/zh/?from=github "对象搜索")
-[![分割视图](./images/kangaroo-workspace.png)](https://www.datatable.online/zh/?from=github "分割视图")
+[![分割视图](./images/kangaroo-features-cn.png)](https://www.datatable.online/zh/?from=github "分割视图")
 [![数据网格（自定义列）](./images/kangaroo-grid.png)](https://www.datatable.online/zh/?from=github "数据网格（自定义列）")
 [![数据网格（条件查询）](./images/kangaroo-grid2.png)](https://www.datatable.online/zh/?from=github "数据网格（条件查询）")
 [![数据编辑表单](./images/kangaroo-form.png)](https://www.datatable.online/zh/?from=github "数据编辑表单")
