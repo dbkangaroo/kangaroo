@@ -9,6 +9,8 @@ Kangaroo is a AI-powered SQL client and admin tool for popular databases(SQLite 
 
 __Read this in other languages:__ English | [中文(Chinese)](./README.zh.md)
 
+⚠️ **Note: Kangaroo is a non-open source project, and this repository is only for localization(I18N) and user feedback.**
+
 ## Official website / 官方网站
 [English](https://www.datatable.online/?from=github) | [中文(Chinese)](https://www.datatable.online/zh/?from=github)
 

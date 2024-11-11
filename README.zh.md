@@ -9,6 +9,9 @@
 
 __其他语言版本:__ 中文 | [英文(English)](./README.en.md)
 
+⚠️ **注意: Kangaroo 是非开源项目, 本仓库仅用来管理本地化(I18N)和用户反馈。**
+
+
 ## 官方网站 / Official website
 [中文](https://www.datatable.online/zh/?from=github) | [英文(English)](https://www.datatable.online/zh/?from=github)
 
