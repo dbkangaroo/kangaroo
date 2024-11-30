@@ -34,7 +34,7 @@ __其他语言版本:__ 中文 | [英文(English)](./README.en.md)
 
 | CPU 架构  | Windows         | MacOS           | Linux           | iOS             | Android         | Harmony         |
 |-----------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|
-| x86-64 | [v6.1.1](https://www.datatable.online/zh/download/v6.1.1.241102.html?from=github&os=windows) | [v6.1.1](https://www.datatable.online/zh/download/v6.1.1.241102.html?from=github&os=macos) | [v6.1.1](https://www.datatable.online/zh/download/v6.1.1.241102.html?from=github&os=linux) |
+| x86-64 | [v6.2.1.1201](https://www.datatable.online/zh/download/v6.2.1.1201.html?from=github&os=windows) | [v6.2.1.1201](https://www.datatable.online/zh/download/v6.2.1.1201.html?from=github&os=macos) | [v6.2.1.1201](https://www.datatable.online/zh/download/v6.2.1.1201.html?from=github&os=linux) |
 | ARM64 | | | | | | |
 | RISCV64 | | | | | | |
 
@@ -47,8 +47,9 @@ __其他语言版本:__ 中文 | [英文(English)](./README.en.md)
 [![袋鼠微信公众号](./images/kangaroo_mp.png)](https://www.datatable.online/zh/?from=github "袋鼠微信公众号")
 
 ## 工具界面快照
-[![链接首页之图标页](./images/kangaroo-starter-iconic.png)](https://www.datatable.online/zh/?from=github "链接首页之图标页")
-[![链接首页之网格页](./images/kangaroo-starter-grid.png)](https://www.datatable.online/zh/?from=github "链接首页之网格页")
+[![欢迎页](./images/kangaroo-welcome.png)](https://www.datatable.online/zh/?from=github "欢迎页")
+[![连接首页之图标页](./images/kangaroo-starter-iconic.png)](https://www.datatable.online/zh/?from=github "连接首页之图标页")
+[![连接首页之网格页](./images/kangaroo-starter-grid.png)](https://www.datatable.online/zh/?from=github "连接首页之网格页")
 [![对象浏览界面](./images/kangaroo-explorer.png)](https://www.datatable.online/zh/?from=github "对象浏览界面")
 [![对象搜索](./images/kangaroo-search.png)](https://www.datatable.online/zh/?from=github "对象搜索")
 [![分割视图](./images/kangaroo-features-cn.png)](https://www.datatable.online/zh/?from=github "分割视图")

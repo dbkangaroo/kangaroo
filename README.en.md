@@ -35,7 +35,7 @@ From year 2023, App version and its packages will be updated monthly.
 
 | Architect | Windows         | MacOS           | Linux           | iOS             | Android         | Harmony         |
 |----------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|
-| x86-64 | [v6.1.1](https://www.datatable.online/en/download/v6.1.1.241102.html?from=github&os=windows) | [v6.1.1](https://www.datatable.online/en/download/v6.1.1.241102.html?from=github&os=macos) | [v6.1.1](https://www.datatable.online/en/download/v6.1.1.241102.html?from=github&os=linux) |
+| x86-64 | [v6.2.1.1201](https://www.datatable.online/en/download/v6.2.1.1201.html?from=github&os=windows) | [v6.2.1.1201](https://www.datatable.online/en/download/v6.2.1.1201.html?from=github&os=macos) | [v6.2.1.1201](https://www.datatable.online/en/download/v6.2.1.1201.html?from=github&os=linux) |
 | ARM64 | | | | | | |
 | RISCV64 | | | | | | |
 
@@ -50,6 +50,7 @@ Kangaroo will push large articles, videos and tips about Kangaroo via  the Wecha
 
 
 ## Screenshots
+[![welcome page](./images/kangaroo-welcome.png)](https://www.datatable.online/?from=github "welcome page")
 [![Start page(iconic view)](./images/kangaroo-starter-iconic.png)](https://www.datatable.online/?from=github "Start page(iconic view)")
 [![Start page(grid view)](./images/kangaroo-starter-grid.png)](https://www.datatable.online/?from=github "Start page(iconic view)")
 [![Object explorer](./images/kangaroo-explorer.png)](https://www.datatable.online/?from=github "Object explorer")
