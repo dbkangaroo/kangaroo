@@ -5,7 +5,7 @@
 </p>
 
 # Kangaroo 
-Kangaroo is a AI-powered SQL client and admin tool for popular databases(SQLite / MySQL / PostgreSQL / ...) on Windows / MacOS / Linux, support table design, query, model, sync, export/import etc, focus on comfortable, fun and developer friendly.
+Kangaroo is a AI-powered SQL client and admin tool for popular databases(SQLite / MySQL / PostgreSQL / SQLServer / ...) on Windows / MacOS / Linux, support table design, query, model, sync, export/import etc, focus on comfortable, fun and developer friendly.
 
 __Read this in other languages:__ English | [中文(Chinese)](./README.zh.md)
 
