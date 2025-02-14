@@ -25,7 +25,7 @@ Database support capability level: __Planned__ / __Partial__ / __Support__
 | PostgreSQL  | 9.0 +   | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
 | SQL Server  | 10.0 +  | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
 | Redis       |         | Planned   | Planned   | Planned   | Planned   | Planned   | Planned   | Planned   | Planned       | Planned      |
-| Oracle      |         | Planned   | Planned   | Planned   | Planned   | Planned   | Planned   | Planned   | Planned       | Planned      |
+| Oracle      |         | Indev     | Indev     | Indev     | Indev     | Indev     | Indev     | Indev     | Indev         | Indev         |
 
 **Hint**: Code intellisense or Code autocomplete
 
