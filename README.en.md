@@ -5,7 +5,7 @@
 </p>
 
 # Kangaroo 
-Kangaroo is a AI-powered SQL client and admin tool for popular databases(SQLite / MySQL / PostgreSQL / SQLServer / ...) on Windows / MacOS / Linux, support table design, query, model, sync, export/import etc, focus on comfortable, fun and developer friendly.
+Kangaroo is a AI-powered SQL client and admin tool for popular databases(SQLite / MariaDB / MySQL / Oracle / PostgreSQL / SQLServer / ...) on Windows / MacOS / Linux, support table design, query, model, sync, export/import etc, focus on comfortable, fun and developer friendly.
 
 __Read this in other languages:__ English | [中文(Chinese)](./README.zh.md)
 
@@ -35,7 +35,7 @@ From year 2023, App version and its packages will be updated monthly.
 
 | Architect | Windows         | MacOS           | Linux           | iOS             | Android         | Harmony         |
 |----------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|
-| x86-64 | [v6.3.1.0105](https://www.datatable.online/en/download/v6.3.1.0105.html?from=github&os=windows) | [v6.3.1.0105](https://www.datatable.online/en/download/v6.3.1.0105.html?from=github&os=macos) | [v6.3.1.0105](https://www.datatable.online/en/download/v6.3.1.0105.html?from=github&os=linux) |
+| x86-64 | [v6.4.1.0301](https://www.datatable.online/en/download/v6.4.1.0301.html?from=github&os=windows) | [v6.4.1.0301](https://www.datatable.online/en/download/v6.4.1.0301.html?from=github&os=macos) | [v6.4.1.0301](https://www.datatable.online/en/download/v6.4.1.0301.html?from=github&os=linux) | | Indev | |
 | ARM64 | | | | | | |
 | RISCV64 | | | | | | |
 

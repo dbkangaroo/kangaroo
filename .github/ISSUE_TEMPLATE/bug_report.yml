@@ -16,6 +16,7 @@ body:
       label: Version of Kangaroo
       description: Which version of Kangaroo do you using?
       options:
+        - 6.4.1
         - 6.3.1
         - 6.2.1
         - 6.1.1
@@ -34,11 +35,13 @@ body:
       description: Which branch of Kangaroo do you using?
       options:
         - Multiple
-        - SQLite
-        - MySQL
         - MariaDB
+        - MySQL
+        - Oracle
         - PostgreSQL
+        - SQLite
         - SQLServer
+        - AI Support
     validations:
       required: true
   - type: dropdown
@@ -55,6 +58,10 @@ body:
         - Linux (aarch64)
         - Linux (riscv64)
         - Linux (loongarch64)
+        - Harmony (x86-64)
+        - Harmony (aarch64)
+        - Harmony (riscv64)
+        - Harmony (loongarch64)
         - Others
     validations:
       required: true
@@ -66,7 +73,7 @@ body:
       placeholder: |
         <Database system> <Full version> <Collation>, ex: MySQL 8.0.28 utf8mb4_general_ci
     validations:
-      required: true
+      required: false
   - type: textarea
     attributes:
       label: Bug detail
