@@ -25,7 +25,7 @@ Database support capability level: __Planned__ / __Partial__ / __Support__
 | PostgreSQL  | 9.0 +   | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
 | SQL Server  | 10.0 +  | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
 | Redis       |         | Planned   | Planned   | Planned   | Planned   | Planned   | Planned   | Planned   | Planned       | Planned      |
-| Oracle      |         | Indev     | Indev     | Indev     | Indev     | Indev     | Indev     | Indev     | Indev         | Indev         |
+| Oracle      |         | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
 
 **Hint**: Code intellisense or Code autocomplete
 
@@ -35,7 +35,7 @@ From year 2023, App version and its packages will be updated monthly.
 
 | Architect | Windows         | MacOS           | Linux           | iOS             | Android         | Harmony         |
 |----------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|
-| x86-64 | [v6.4.1.0301](https://www.datatable.online/en/download/v6.4.1.0301.html?from=github&os=windows) | [v6.4.1.0301](https://www.datatable.online/en/download/v6.4.1.0301.html?from=github&os=macos) | [v6.4.1.0301](https://www.datatable.online/en/download/v6.4.1.0301.html?from=github&os=linux) | | Indev | |
+| x86-64 | [v6.98.1.0330](https://www.datatable.online/en/download/v6.98.1.0330.html?from=github&os=windows) | [v6.98.1.0330](https://www.datatable.online/en/download/v6.98.1.0330.html?from=github&os=macos) | [v6.98.1.0330](https://www.datatable.online/en/download/v6.98.1.0330.html?from=github&os=linux) | | Indev | |
 | ARM64 | | | | | | |
 | RISCV64 | | | | | | |
 
