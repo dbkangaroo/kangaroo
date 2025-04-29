@@ -27,7 +27,7 @@ __其他语言版本:__ 中文 | [英文(English)](./README.en.md)
 | PostgreSQL | 9.0 +    | 支持      | 支持      | 支持     | 支持     | 支持     | 支持     | 支持     | ✅✅🔲🔲🔲  | ✅✅✅✅🔲 |
 | SQL Server | 10.0 +   | 支持      | 支持      | 支持     | 支持     | 支持     | 支持     | 支持     | ✅✅🔲🔲🔲  | ✅✅✅✅🔲 |
 | Redis      |          | 已计划    | 已计划    | 已计划    | 已计划   | 已计划   | 已计划   | 已计划    | 已计划         | 已计划        |
-| Oracle     |          | 支持      | 支持      | 支持     | 支持     | 支持     | 支持     | 支持     | ✅✅🔲🔲🔲  | ✅✅✅✅🔲 |
+| Oracle     | 11.0 +   | 支持      | 支持      | 支持     | 支持     | 支持     | 支持     | 支持     | ✅✅🔲🔲🔲  | ✅✅✅✅🔲 |
 
 **提示**: 表示代码智能提示或者代码自动完成
 
@@ -36,7 +36,7 @@ __其他语言版本:__ 中文 | [英文(English)](./README.en.md)
 
 | CPU 架构  | Windows         | MacOS           | Linux           | iOS             | Android         | Harmony         |
 |-----------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|
-| x86-64 | [v6.98.1.0330](https://www.datatable.online/zh/download/v6.98.1.0330.html?from=github&os=windows) | [v6.98.1.0330](https://www.datatable.online/zh/download/v6.98.1.0330.html?from=github&os=macos) | [v6.98.1.0330](https://www.datatable.online/zh/download/v6.98.1.0330.html?from=github&os=linux) | | 推进中 | |
+| x86-64 | [v6.99.1.430](https://www.datatable.online/zh/download/v6.99.1.430.html?from=github&os=windows) | [v6.99.1.430](https://www.datatable.online/zh/download/v6.99.1.430.html?from=github&os=macos) | [v6.99.1.430](https://www.datatable.online/zh/download/v6.99.1.430.html?from=github&os=linux) | | 推进中 | |
 | ARM64 | | | | | | |
 | RISCV64 | | | | | | |
 
