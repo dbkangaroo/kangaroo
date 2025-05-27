@@ -26,7 +26,7 @@ __其他语言版本:__ 中文 | [英文(English)](./README.en.md)
 | MariaDB    | 10.0 +   | 支持      | 支持      | 支持     | 支持     | 支持     | 支持     | 支持     | ✅✅🔲🔲🔲  | ✅✅✅✅🔲 |
 | PostgreSQL | 9.0 +    | 支持      | 支持      | 支持     | 支持     | 支持     | 支持     | 支持     | ✅✅🔲🔲🔲  | ✅✅✅✅🔲 |
 | SQL Server | 10.0 +   | 支持      | 支持      | 支持     | 支持     | 支持     | 支持     | 支持     | ✅✅🔲🔲🔲  | ✅✅✅✅🔲 |
-| Redis      | 2.8.0+   | 开发中    | 支持      | 支持     | 支持     | 支持     | 支持     | 支持     | 开发中         | 开发中        |
+| Redis      | 2.8.0+   | 开发中    | 支持      | 支持     | 支持     | 支持     | 开发中   | 开发中    | 开发中         | 开发中        |
 | Oracle     | 11.0 +   | 支持      | 支持      | 支持     | 支持     | 支持     | 支持     | 支持     | ✅✅🔲🔲🔲  | ✅✅✅✅🔲 |
 
 **提示**: 表示代码智能提示或者代码自动完成
@@ -61,7 +61,9 @@ QQ 用户群：[点击链接加入群聊【袋鼠宝宝交流群】](https://qm.
 [![数据网格（条件查询）](./images/kangaroo-grid2.png)](https://www.datatable.online/zh/?from=github "数据网格（条件查询）")
 [![数据网格（表单支持）](./images/kangaroo-form.png)](https://www.datatable.online/zh/?from=github "数据网格（表单支持）")
 [![数据网格（地图支持）](./images/kangaroo-viewer-map.png)](https://www.datatable.online/zh/?from=github "数据网格（地图支持）")
+[![数据网格（键值支持）](./images/kangaroo-couple.png)](https://www.datatable.online/?from=github "数据网格（键值支持）")
 [![查询界面](./images/kangaroo-query.png)](https://www.datatable.online/zh/?from=github "查询界面")
+[![控制台视图](./images/kangaroo-console.png)](https://www.datatable.online/?from=github "控制台视图")
 [![表设计器](./images/kangaroo-designer.png)](https://www.datatable.online/zh/?from=github "表设计器")
 [![视图设计器](./images/kangaroo-view.png)](https://www.datatable.online/zh/?from=github "视图设计器")
 [![函数设计器](./images/kangaroo-function.png)](https://www.datatable.online/zh/?from=github "函数设计器")

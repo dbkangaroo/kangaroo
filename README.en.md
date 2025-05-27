@@ -24,7 +24,7 @@ Database support capability level: __Planned__ / __Partial__ / __Support__
 | MariaDB     | 10.0 +  | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
 | PostgreSQL  | 9.0 +   | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
 | SQL Server  | 10.0 +  | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
-| Redis       | 2.8.0+  | InDev     | Support   | Support   | Support   | Support   | Support   | Support   | InDev         | InDev        |
+| Redis       | 2.8.0+  | InDev     | Support   | Support   | Support   | Support   | InDev     | InDev     | InDev         | InDev        |
 | Oracle      | 11.0 +  | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
 
 **Hint**: Code intellisense or Code autocomplete
@@ -60,7 +60,9 @@ Kangaroo will push large articles, videos and tips about Kangaroo via  the Wecha
 [![Kangaroo grid view in table with where statement](./images/kangaroo-grid2.png)](https://www.datatable.online/?from=github "Kangaroo grid view in table with where statement")
 [![Kangaroo grid view with form support](./images/kangaroo-form.png)](https://www.datatable.online/?from=github "Kangaroo grid view with form support")
 [![Kangaroo grid view with map support](./images/kangaroo-viewer-map.png)](https://www.datatable.online/zh/?from=github "Kangaroo grid view with map support")
+[![Kangaroo couple view](./images/kangaroo-couple.png)](https://www.datatable.online/?from=github "Kangaroo couple view")
 [![Kangaroo query view](./images/kangaroo-query.png)](https://www.datatable.online/?from=github "Kangaroo query view")
+[![Kangaroo console view](./images/kangaroo-console.png)](https://www.datatable.online/?from=github "Kangaroo console view")
 [![Kangaroo schema designer form](./images/kangaroo-designer.png)](https://www.datatable.online/?from=github "Kangaroo schema designer form")
 [![Kangaroo view designer](./images/kangaroo-view.png)](https://www.datatable.online/?from=github "Kangaroo view designer")
 [![Kangaroo function designer](./images/kangaroo-function.png)](https://www.datatable.online/?from=github "Kangaroo function designer")
