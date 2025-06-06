@@ -5,7 +5,7 @@
 </p>
 
 # 袋鼠数据库工具 / Kangaroo
-袋鼠 是一款 AI 驱动的热门数据库系统客户端(SQLite / MariaDB / MySQL / Oracle / PostgreSQL / SQLServer / ...) ，支持建表、查询、模型、同步、导入导出等功能，支持 Windows / Mac / Linux 等操作系统，致力于打造一款好用、好玩、开发友好的SQL工具。
+袋鼠 是一款 AI 驱动的热门数据库系统客户端(MariaDB / MySQL / Oracle / PostgreSQL / Redis / SQLite / SQLServer / ...) ，支持建表、查询、模型、同步、导入导出等功能，支持 Windows / Mac / Linux 等操作系统，致力于打造一款好用、好玩、开发友好的SQL工具。
 
 __其他语言版本:__ 中文 | [英文(English)](./README.en.md)
 
