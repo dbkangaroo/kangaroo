@@ -24,7 +24,7 @@ Database support capability level: __Planned__ / __Partial__ / __Support__
 | MariaDB     | 10.0 +  | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
 | PostgreSQL  | 9.0 +   | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
 | SQL Server  | 10.0 +  | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
-| Redis       | 2.8.0+  | InDev     | Support   | Support   | Support   | Support   | InDev     | InDev     | InDev         | InDev        |
+| Redis       | 2.8.0+  | InDev     | Support   | Support   | Support   | Support   | Support   | Support   | InDev         | InDev        |
 | Oracle      | 11.0 +  | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
 
 **Hint**: Code intellisense or Code autocomplete
@@ -35,7 +35,7 @@ From year 2023, App version and its packages will be updated monthly.
 
 | Architect | Windows         | MacOS           | Linux           | iOS             | Android         | Harmony         |
 |----------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|
-| x86-64 | [v7.99.1.701](https://www.datatable.online/en/download/v7.99.1.701.html?from=github&os=windows) | [v7.99.1.701](https://www.datatable.online/en/download/v7.99.1.701.html?from=github&os=macos) | [v7.99.1.701](https://www.datatable.online/en/download/v7.99.1.701.html?from=github&os=linux) | | Indev | |
+| x86-64 | [v8.0.1.801](https://www.datatable.online/en/download/v8.0.1.801.html?from=github&os=windows) | [v8.0.1.801](https://www.datatable.online/en/download/v8.0.1.801.html?from=github&os=macos) | [v8.0.1.801](https://www.datatable.online/en/download/v8.0.1.801.html?from=github&os=linux) | | Indev | |
 | ARM64 | | | | | | |
 | RISCV64 | | | | | | |
 

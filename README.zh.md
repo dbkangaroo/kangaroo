@@ -26,7 +26,7 @@ __其他语言版本:__ 中文 | [英文(English)](./README.en.md)
 | MariaDB    | 10.0 +   | 支持      | 支持      | 支持     | 支持     | 支持     | 支持     | 支持     | ✅✅🔲🔲🔲  | ✅✅✅✅🔲 |
 | PostgreSQL | 9.0 +    | 支持      | 支持      | 支持     | 支持     | 支持     | 支持     | 支持     | ✅✅🔲🔲🔲  | ✅✅✅✅🔲 |
 | SQL Server | 10.0 +   | 支持      | 支持      | 支持     | 支持     | 支持     | 支持     | 支持     | ✅✅🔲🔲🔲  | ✅✅✅✅🔲 |
-| Redis      | 2.8.0+   | 开发中    | 支持      | 支持     | 支持     | 支持     | 开发中   | 开发中    | 开发中         | 开发中        |
+| Redis      | 2.8.0+   | 开发中    | 支持      | 支持     | 支持     | 支持     | 支持     | 支持     | 开发中         | 开发中        |
 | Oracle     | 11.0 +   | 支持      | 支持      | 支持     | 支持     | 支持     | 支持     | 支持     | ✅✅🔲🔲🔲  | ✅✅✅✅🔲 |
 
 **提示**: 表示代码智能提示或者代码自动完成
@@ -36,7 +36,7 @@ __其他语言版本:__ 中文 | [英文(English)](./README.en.md)
 
 | CPU 架构  | Windows         | MacOS           | Linux           | iOS             | Android         | Harmony         |
 |-----------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|
-| x86-64 | [v7.99.1.701](https://www.datatable.online/zh/download/v7.99.1.701.html?from=github&os=windows) | [v7.99.1.701](https://www.datatable.online/zh/download/v7.99.1.701.html?from=github&os=macos) | [v7.99.1.701](https://www.datatable.online/zh/download/v7.99.1.701.html?from=github&os=linux) | | 推进中 | |
+| x86-64 | [v8.0.1.801](https://www.datatable.online/zh/download/v8.0.1.801.html?from=github&os=windows) | [v8.0.1.801](https://www.datatable.online/zh/download/v8.0.1.801.html?from=github&os=macos) | [v8.0.1.801](https://www.datatable.online/zh/download/v8.0.1.801.html?from=github&os=linux) | | 推进中 | |
 | ARM64 | | | | | | |
 | RISCV64 | | | | | | |
 
