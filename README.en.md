@@ -19,13 +19,14 @@ Database support capability level: __Planned__ / __Partial__ / __Support__
 
 | Database    | Version | AI        | Query     | Editing   | Designer  | Export    | Import    | Hint      | Modeling     | DB Sync       |
 |-------------|---------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|--------------|---------------|
-| SQLite      | 3.0 +   | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
-| MySQL       | 5.5 +   | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
 | MariaDB     | 10.0 +  | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
-| PostgreSQL  | 9.0 +   | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
-| SQL Server  | 10.0 +  | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
-| Redis       | 2.8.0+  | InDev     | Support   | Support   | Support   | Support   | Support   | Support   | InDev         | InDev        |
+| MongoDB     | 8.0     | InDev     | Support   | InDev     | InDev     | InDev     | InDev     | InDev     | InDev         | InDev        |
+| MySQL       | 5.5 +   | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
 | Oracle      | 11.0 +  | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
+| PostgreSQL  | 9.0 +   | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
+| Redis       | 2.8.0+  | InDev     | Support   | Support   | Support   | Support   | Support   | Support   | InDev         | InDev        |
+| SQLite      | 3.0 +   | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
+| SQLServer   | 10.0 +  | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
 
 **Hint**: Code intellisense or Code autocomplete
 
