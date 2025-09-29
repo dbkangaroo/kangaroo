@@ -22,7 +22,7 @@ __其他语言版本:__ 中文 | [英文(English)](./README.en.md)
 | 数据库      | 版本     |  AI       | 查询      | 编辑     | 设计     | 导出     | 导入    | 提示      | 模型          | 同步          |
 |------------|----------|-----------|----------|----------|---------|----------|----------|----------|---------------|--------------|
 | MariaDB    | 10.0 +   | 支持      | 支持      | 支持     | 支持     | 支持     | 支持     | 支持     | ✅✅🔲🔲🔲  | ✅✅✅✅🔲 |
-| MongoDB    | 8.0      | 开发中    | 支持      | 开发中   | 开发中   | 开发中    | 开发中  | 开发中    | 开发中         | 开发中        |
+| MongoDB    | 8.0      | 开发中    | 支持      | 支持     | 开发中   | 支持     | 支持     | 支持     | 开发中         | 开发中        |
 | MySQL      | 5.5 +    | 支持      | 支持      | 支持     | 支持     | 支持     | 支持     | 支持     | ✅✅🔲🔲🔲  | ✅✅✅✅🔲 |
 | Oracle     | 11.0 +   | 支持      | 支持      | 支持     | 支持     | 支持     | 支持     | 支持     | ✅✅🔲🔲🔲  | ✅✅✅✅🔲 |
 | PostgreSQL | 9.0 +    | 支持      | 支持      | 支持     | 支持     | 支持     | 支持     | 支持     | ✅✅🔲🔲🔲  | ✅✅✅✅🔲 |
@@ -37,7 +37,7 @@ __其他语言版本:__ 中文 | [英文(English)](./README.en.md)
 
 | CPU 架构  | Windows         | MacOS           | Linux           | iOS             | Android         | Harmony         |
 |-----------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|
-| x86-64 | [v8.0.1.801](https://www.datatable.online/zh/download/v8.0.1.801.html?from=github&os=windows) | [v8.0.1.801](https://www.datatable.online/zh/download/v8.0.1.801.html?from=github&os=macos) | [v8.0.1.801](https://www.datatable.online/zh/download/v8.0.1.801.html?from=github&os=linux) | | 推进中 | |
+| x86-64 | [v8.90.1.930](https://www.datatable.online/zh/download/v8.90.1.930.html?from=github&os=windows) | [v8.90.1.930](https://www.datatable.online/zh/download/v8.90.1.930.html?from=github&os=macos) | [v8.90.1.930](https://www.datatable.online/zh/download/v8.90.1.930.html?from=github&os=linux) | | 推进中 | |
 | ARM64 | | | | | | |
 | RISCV64 | | | | | | |
 
@@ -63,6 +63,7 @@ QQ 用户群：[点击链接加入群聊【袋鼠宝宝交流群】](https://qm.
 [![数据网格（表单支持）](./images/kangaroo-form.png)](https://www.datatable.online/zh/?from=github "数据网格（表单支持）")
 [![数据网格（地图支持）](./images/kangaroo-viewer-map.png)](https://www.datatable.online/zh/?from=github "数据网格（地图支持）")
 [![数据网格（键值支持）](./images/kangaroo-couple.png)](https://www.datatable.online/?from=github "数据网格（键值支持）")
+[![数据网格（集合支持）](./images/kangaroo-collection.png)](https://www.datatable.online/?from=github "数据网格（集合支持）")
 [![查询界面](./images/kangaroo-query.png)](https://www.datatable.online/zh/?from=github "查询界面")
 [![控制台视图](./images/kangaroo-console.png)](https://www.datatable.online/?from=github "控制台视图")
 [![表设计器](./images/kangaroo-designer.png)](https://www.datatable.online/zh/?from=github "表设计器")

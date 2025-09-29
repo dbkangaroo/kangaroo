@@ -20,7 +20,7 @@ Database support capability level: __Planned__ / __Partial__ / __Support__
 | Database    | Version | AI        | Query     | Editing   | Designer  | Export    | Import    | Hint      | Modeling     | DB Sync       |
 |-------------|---------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|--------------|---------------|
 | MariaDB     | 10.0 +  | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
-| MongoDB     | 8.0     | InDev     | Support   | InDev     | InDev     | InDev     | InDev     | InDev     | InDev         | InDev        |
+| MongoDB     | 8.0     | InDev     | Support   | Support   | InDev     | Support   | Support   | Support   | InDev         | InDev        |
 | MySQL       | 5.5 +   | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
 | Oracle      | 11.0 +  | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
 | PostgreSQL  | 9.0 +   | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
@@ -36,7 +36,7 @@ From year 2023, App version and its packages will be updated monthly.
 
 | Architect | Windows         | MacOS           | Linux           | iOS             | Android         | Harmony         |
 |----------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|
-| x86-64 | [v8.0.1.801](https://www.datatable.online/en/download/v8.0.1.801.html?from=github&os=windows) | [v8.0.1.801](https://www.datatable.online/en/download/v8.0.1.801.html?from=github&os=macos) | [v8.0.1.801](https://www.datatable.online/en/download/v8.0.1.801.html?from=github&os=linux) | | Indev | |
+| x86-64 | [v8.90.1.930](https://www.datatable.online/en/download/v8.90.1.930.html?from=github&os=windows) | [v8.90.1.930](https://www.datatable.online/en/download/v8.90.1.930.html?from=github&os=macos) | [v8.90.1.930](https://www.datatable.online/en/download/v8.90.1.930.html?from=github&os=linux) | | Indev | |
 | ARM64 | | | | | | |
 | RISCV64 | | | | | | |
 
@@ -62,6 +62,7 @@ Kangaroo will push large articles, videos and tips about Kangaroo via  the Wecha
 [![Kangaroo grid view with form support](./images/kangaroo-form.png)](https://www.datatable.online/?from=github "Kangaroo grid view with form support")
 [![Kangaroo grid view with map support](./images/kangaroo-viewer-map.png)](https://www.datatable.online/zh/?from=github "Kangaroo grid view with map support")
 [![Kangaroo couple view](./images/kangaroo-couple.png)](https://www.datatable.online/?from=github "Kangaroo couple view")
+[![Kangaroo collection view](./images/kangaroo-collection.png)](https://www.datatable.online/?from=github "Kangaroo collection view")
 [![Kangaroo query view](./images/kangaroo-query.png)](https://www.datatable.online/?from=github "Kangaroo query view")
 [![Kangaroo console view](./images/kangaroo-console.png)](https://www.datatable.online/?from=github "Kangaroo console view")
 [![Kangaroo schema designer form](./images/kangaroo-designer.png)](https://www.datatable.online/?from=github "Kangaroo schema designer form")
