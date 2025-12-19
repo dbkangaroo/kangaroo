@@ -16,19 +16,11 @@ body:
       label: Version of Kangaroo
       description: Which version of Kangaroo do you using?
       options:
+        - 9.0.1
         - 8.92.1
         - 8.91.1
         - 8.90.1
         - 8.0.1
-        - 7.99.1
-        - 7.98.1
-        - 6.99.1
-        - 6.98.1
-        - 6.4.1
-        - 6.3.1
-        - 6.2.1
-        - 6.1.1
-        - 6.0.1
         - others
     validations:
       required: true
@@ -62,12 +54,10 @@ body:
         - macOS (x86-64)
         - Linux (x86-64)
         - Linux (aarch64)
-        - Linux (riscv64)
-        - Linux (loongarch64)
+        - Android (x86-64)
+        - Android (aarch64)
         - Harmony (x86-64)
         - Harmony (aarch64)
-        - Harmony (riscv64)
-        - Harmony (loongarch64)
         - Others
     validations:
       required: true
