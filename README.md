@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://www.datatable.online/?from=github" target="_blank">
-        <img src="images/kangaroo-features-en.png" alt="Kangaroo workspace with English">
+        <img src="images/kangaroo-workspace-en.png" alt="Kangaroo workspace with English">
     </a>
 </p>
 
@@ -17,16 +17,16 @@ __Read this in other languages:__ English | [中文(Chinese)](./README.zh.md)
 ## Support database
 Database support capability level: __Planned__ / __Partial__ / __Support__
 
-| Database    | Version | AI        | Query     | Editing   | Designer  | Export    | Import    | Hint      | Modeling     | DB Sync       |
-|-------------|---------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|--------------|---------------|
-| MariaDB     | 10.0 +  | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
-| MongoDB     | 8.0     | InDev     | Support   | Support   | Support   | Support   | Support   | Support   | InDev         | InDev        |
-| MySQL       | 5.5 +   | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
-| Oracle      | 11.0 +  | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
-| PostgreSQL  | 9.0 +   | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
-| Redis       | 2.8.0+  | InDev     | Support   | Support   | Support   | Support   | Support   | Support   | InDev         | InDev        |
-| SQLite      | 3.0 +   | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
-| SQLServer   | 10.0 +  | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅🔲🔲🔲 | ✅✅✅✅🔲 |
+| Database  | Version   | AI        | Query     | Editing   | Designer  | Export    | Import    | Hint      | Modeling  | DB Sync   |
+|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+| MariaDB   | 10.0 +    | Support   | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅✅✅🔲 |
+| MongoDB   | 8.0       | Support   | Support   | Support   | Support   | Support   | Support   | Support   | Support   | InDev        |
+| MySQL     | 5.5 +     | Support   | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅✅✅🔲 |
+| Oracle    | 11.0 +    | Support   | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅✅✅🔲 |
+| PostgreSQL| 9.0 +     | Support   | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅✅✅🔲 |
+| Redis     | 2.8.0+    | Support   | Support   | Support   | Support   | Support   | Support   | Support   | Support   | InDev        |
+| SQLite    | 3.0 +     | Support   | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅✅✅🔲 |
+| SQLServer | 10.0 +    | Support   | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅✅✅🔲 |
 
 **Hint**: Code intellisense or Code autocomplete
 
@@ -36,7 +36,7 @@ From year 2023, App version and its packages will be updated monthly.
 
 | Architect | Windows         | MacOS           | Linux           | iOS             | Android         | Harmony         |
 |----------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|
-| x86-64 | [v9.5.1.531](https://www.datatable.online/en/download/v9.5.1.531.html?from=github&os=windows) | [v9.5.1.531](https://www.datatable.online/en/download/v9.5.1.531.html?from=github&os=macos) | [v9.5.1.531](https://www.datatable.online/en/download/v9.5.1.531.html?from=github&os=linux) | | Indev | |
+| x86-64 | [v9.6.1.701](https://www.datatable.online/en/download/v9.6.1.701.html?from=github&os=windows) | [v9.6.1.701](https://www.datatable.online/en/download/v9.6.1.701.html?from=github&os=macos) | [v9.6.1.701](https://www.datatable.online/en/download/v9.6.1.701.html?from=github&os=linux) | | Indev | |
 | ARM64 | | | | | | |
 | RISCV64 | | | | | | |
 
@@ -56,7 +56,7 @@ Kangaroo will push large articles, videos and tips about Kangaroo via  the Wecha
 [![Start page(grid view)](./images/kangaroo-starter-grid.png)](https://www.datatable.online/?from=github "Start page(iconic view)")
 [![Object explorer](./images/kangaroo-explorer.png)](https://www.datatable.online/?from=github "Object explorer")
 [![Object search](./images/kangaroo-search.png)](https://www.datatable.online/?from=github "Object search")
-[![Kangaroo split view](./images/kangaroo-features-en.png)](https://www.datatable.online/?from=github "Kangaroo split view")
+[![Kangaroo workspace view](./images/kangaroo-workspace-en.png)](https://www.datatable.online/?from=github "Kangaroo workspace view")
 [![Kangaroo grid view in table with custom columns](./images/kangaroo-grid.png)](https://www.datatable.online/?from=github "Kangaroo grid view in table with custom columns")
 [![Kangaroo grid view in table with where statement](./images/kangaroo-grid2.png)](https://www.datatable.online/?from=github "Kangaroo grid view in table with where statement")
 [![Kangaroo grid view with form support](./images/kangaroo-form.png)](https://www.datatable.online/?from=github "Kangaroo grid view with form support")

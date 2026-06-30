@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://www.datatable.online/zh/?from=github" target="_blank">
-        <img src="images/kangaroo-features-cn.png" alt="Kangaroo features with Chinese">
+        <img src="images/kangaroo-workspace-zh.png" alt="Kangaroo workspace with Chinese">
     </a>
 </p>
 
@@ -19,16 +19,16 @@ __其他语言版本:__ 中文 | [英文(English)](./README.en.md)
 ## 支持的数据库系统
 数据库支持能力级别: __已计划__ / __部分__ / __支持__
 
-| 数据库      | 版本     |  AI       | 查询      | 编辑     | 设计     | 导出     | 导入    | 提示      | 模型          | 同步          |
-|------------|----------|-----------|----------|----------|---------|----------|----------|----------|---------------|--------------|
-| MariaDB    | 10.0 +   | 支持      | 支持      | 支持     | 支持     | 支持     | 支持     | 支持     | ✅✅🔲🔲🔲  | ✅✅✅✅🔲 |
-| MongoDB    | 8.0      | 开发中    | 支持      | 支持     | 支持     | 支持     | 支持     | 支持     | 开发中         | 开发中        |
-| MySQL      | 5.5 +    | 支持      | 支持      | 支持     | 支持     | 支持     | 支持     | 支持     | ✅✅🔲🔲🔲  | ✅✅✅✅🔲 |
-| Oracle     | 11.0 +   | 支持      | 支持      | 支持     | 支持     | 支持     | 支持     | 支持     | ✅✅🔲🔲🔲  | ✅✅✅✅🔲 |
-| PostgreSQL | 9.0 +    | 支持      | 支持      | 支持     | 支持     | 支持     | 支持     | 支持     | ✅✅🔲🔲🔲  | ✅✅✅✅🔲 |
-| Redis      | 2.8.0+   | 开发中    | 支持      | 支持     | 支持     | 支持     | 支持     | 支持     | 开发中         | 开发中        |
-| SQLite     | 3.0 +    | 支持      | 支持      | 支持     | 支持     | 支持     | 支持     | 支持     | ✅✅🔲🔲🔲  | ✅✅✅✅🔲 |
-| SQLServer  | 10.0 +   | 支持      | 支持      | 支持     | 支持     | 支持     | 支持     | 支持     | ✅✅🔲🔲🔲  | ✅✅✅✅🔲 |
+| 数据库      | 版本     |  AI      | 查询      | 编辑     | 设计     | 导出     | 导入      | 提示     | 模型     | 同步      |
+|------------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+| MariaDB    | 10.0 +   | 支持     | 支持      | 支持     | 支持     | 支持      | 支持     | 支持     | 支持      | ✅✅✅✅🔲 |
+| MongoDB    | 8.0      | 支持     | 支持      | 支持     | 支持     | 支持      | 支持     | 支持     | 支持      | 开发中        |
+| MySQL      | 5.5 +    | 支持     | 支持      | 支持     | 支持     | 支持      | 支持     | 支持     | 支持      | ✅✅✅✅🔲 |
+| Oracle     | 11.0 +   | 支持     | 支持      | 支持     | 支持     | 支持      | 支持     | 支持     | 支持      | ✅✅✅✅🔲 |
+| PostgreSQL | 9.0 +    | 支持     | 支持      | 支持     | 支持     | 支持      | 支持     | 支持     | 支持      | ✅✅✅✅🔲 |
+| Redis      | 2.8.0+   | 支持     | 支持      | 支持     | 支持     | 支持      | 支持     | 支持     | 支持      | 开发中        |
+| SQLite     | 3.0 +    | 支持     | 支持      | 支持     | 支持     | 支持      | 支持     | 支持     | 支持      | ✅✅✅✅🔲 |
+| SQLServer  | 10.0 +   | 支持     | 支持      | 支持     | 支持     | 支持      | 支持     | 支持     | 支持      | ✅✅✅✅🔲 |
 
 **提示**: 表示代码智能提示或者代码自动完成
 
@@ -37,7 +37,7 @@ __其他语言版本:__ 中文 | [英文(English)](./README.en.md)
 
 | CPU 架构  | Windows         | MacOS           | Linux           | iOS             | Android         | Harmony         |
 |-----------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|
-| x86-64 | [v9.5.1.531](https://www.datatable.online/zh/download/v9.5.1.531.html?from=github&os=windows) | [v9.5.1.531](https://www.datatable.online/zh/download/v9.5.1.531.html?from=github&os=macos) | [v9.5.1.531](https://www.datatable.online/zh/download/v9.5.1.531.html?from=github&os=linux) | | 推进中 | |
+| x86-64 | [v9.6.1.701](https://www.datatable.online/zh/download/v9.6.1.701.html?from=github&os=windows) | [v9.6.1.701](https://www.datatable.online/zh/download/v9.6.1.701.html?from=github&os=macos) | [v9.6.1.701](https://www.datatable.online/zh/download/v9.6.1.701.html?from=github&os=linux) | | 推进中 | |
 | ARM64 | | | | | | |
 | RISCV64 | | | | | | |
 
@@ -57,7 +57,7 @@ QQ 用户群：[点击链接加入群聊【袋鼠宝宝交流群】](https://qm.
 [![连接首页之网格页](./images/kangaroo-starter-grid.png)](https://www.datatable.online/zh/?from=github "连接首页之网格页")
 [![对象浏览界面](./images/kangaroo-explorer.png)](https://www.datatable.online/zh/?from=github "对象浏览界面")
 [![对象搜索](./images/kangaroo-search.png)](https://www.datatable.online/zh/?from=github "对象搜索")
-[![分割视图](./images/kangaroo-features-cn.png)](https://www.datatable.online/zh/?from=github "分割视图")
+[![工作空间视图](./images/kangaroo-workspace-zh.png)](https://www.datatable.online/zh/?from=github "工作空间视图")
 [![数据网格（自定义列）](./images/kangaroo-grid.png)](https://www.datatable.online/zh/?from=github "数据网格（自定义列）")
 [![数据网格（条件查询）](./images/kangaroo-grid2.png)](https://www.datatable.online/zh/?from=github "数据网格（条件查询）")
 [![数据网格（表单支持）](./images/kangaroo-form.png)](https://www.datatable.online/zh/?from=github "数据网格（表单支持）")
