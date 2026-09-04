@@ -19,14 +19,14 @@ Database support capability level: __Planned__ / __Partial__ / __Support__
 
 | Database  | Version   | AI        | Query     | Editing   | Designer  | Export    | Import    | Hint      | Modeling  | DB Sync   |
 |-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| MariaDB   | 10.0 +    | Support   | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅✅✅🔲 |
-| MongoDB   | 8.0       | Support   | Support   | Support   | Support   | Support   | Support   | Support   | Support   | InDev        |
-| MySQL     | 5.5 +     | Support   | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅✅✅🔲 |
-| Oracle    | 11.0 +    | Support   | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅✅✅🔲 |
-| PostgreSQL| 9.0 +     | Support   | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅✅✅🔲 |
-| Redis     | 2.8.0+    | Support   | Support   | Support   | Support   | Support   | Support   | Support   | Support   | InDev        |
-| SQLite    | 3.0 +     | Support   | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅✅✅🔲 |
-| SQLServer | 10.0 +    | Support   | Support   | Support   | Support   | Support   | Support   | Support   | Support   | ✅✅✅✅🔲 |
+| MariaDB   | 10.0 +    | Support   | Support   | Support   | Support   | Support   | Support   | Support   | Support   | Support   |
+| MongoDB   | 8.0       | Support   | Support   | Support   | Support   | Support   | Support   | Support   | Support   | Support   |
+| MySQL     | 5.5 +     | Support   | Support   | Support   | Support   | Support   | Support   | Support   | Support   | Support   |
+| Oracle    | 11.0 +    | Support   | Support   | Support   | Support   | Support   | Support   | Support   | Support   | Support   |
+| PostgreSQL| 9.0 +     | Support   | Support   | Support   | Support   | Support   | Support   | Support   | Support   | Support   |
+| Redis     | 2.8.0+    | Support   | Support   | Support   | Support   | Support   | Support   | Support   | Support   | Support   |
+| SQLite    | 3.0 +     | Support   | Support   | Support   | Support   | Support   | Support   | Support   | Support   | Support   |
+| SQLServer | 10.0 +    | Support   | Support   | Support   | Support   | Support   | Support   | Support   | Support   | Support   |
 
 **Hint**: Code intellisense or Code autocomplete
 
@@ -36,7 +36,7 @@ From year 2023, App version and its packages will be updated monthly.
 
 | Architect | Windows         | MacOS           | Linux           | iOS             | Android         | Harmony         |
 |----------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|
-| x86-64 | [v9.7.1.801](https://www.datatable.online/en/download/v9.7.1.801.html?from=github&os=windows) | [v9.7.1.801](https://www.datatable.online/en/download/v9.7.1.801.html?from=github&os=macos) | [v9.7.1.801](https://www.datatable.online/en/download/v9.7.1.801.html?from=github&os=linux) | | Indev | |
+| x86-64 | [v9.8.1.906](https://www.datatable.online/en/download/v9.8.1.906.html?from=github&os=windows) | [v9.8.1.906](https://www.datatable.online/en/download/v9.8.1.906.html?from=github&os=macos) | [v9.8.1.906](https://www.datatable.online/en/download/v9.8.1.906.html?from=github&os=linux) | | Indev | |
 | ARM64 | | | | | | |
 | RISCV64 | | | | | | |
 
